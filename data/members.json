@@ -1,0 +1,242 @@
+[
+  {
+    "id": "pi-junghyun-choi",
+    "role": "professor",
+    "name_en": "Junghyun Choi",
+    "name_ko": "최정현",
+    "title_en": "Principal Investigator · Assistant Professor",
+    "title_ko": "책임연구자 · 조교수",
+    "photo": "assets/images/members/junghyun-choi.jpg",
+    "email": "junghchoi@gachon.ac.kr",
+    "interests_en": "Dry Electrode · Next-Gen Batteries · Photoelectrodes",
+    "interests_ko": "건식 전극 · 차세대 배터리 · 광전극",
+    "scholar_link": "https://scholar.google.com/citations?user=kSp8NsEAAAAJ"
+  },
+
+  {
+    "id": "phd-zarmeena-akhtar",
+    "role": "phd",
+    "name_en": "Zarmeena Akhtar",
+    "name_ko": "Zarmeena Akhtar",
+    "title_en": "Ph.D. Student (2025.03 – )",
+    "title_ko": "박사과정 (2025.03 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "School of Chemical, Biological & Battery Engineering, Gachon University",
+    "interests_ko": "가천대학교 화공생명배터리공학부"
+  },
+  {
+    "id": "phd-syed-wasim-akram",
+    "role": "phd",
+    "name_en": "Syed Wasim Akram",
+    "name_ko": "Syed Wasim Akram",
+    "title_en": "Ph.D. Student (2025.09 – )",
+    "title_ko": "박사과정 (2025.09 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "School of Chemical, Biological & Battery Engineering, Gachon University",
+    "interests_ko": "가천대학교 화공생명배터리공학부"
+  },
+  {
+    "id": "phd-seungmin-han",
+    "role": "phd",
+    "name_en": "Seungmin Han",
+    "name_ko": "한승민",
+    "title_en": "Integrated M.S./Ph.D. (2023.03 – )",
+    "title_ko": "석박통합과정 (2023.03 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "Department of Energy Engineering, Hanyang University (Joint)",
+    "interests_ko": "한양대학교 에너지공학과 (공동지도)"
+  },
+  {
+    "id": "phd-woojin-jeong",
+    "role": "phd",
+    "name_en": "Woojin Jeong",
+    "name_ko": "정우진",
+    "title_en": "Integrated M.S./Ph.D. (2024.03 – )",
+    "title_ko": "석박통합과정 (2024.03 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "Department of Energy Engineering, Hanyang University (Joint)",
+    "interests_ko": "한양대학교 에너지공학과 (공동지도)"
+  },
+
+  {
+    "id": "ms-minseok-kim",
+    "role": "ms",
+    "name_en": "Minseok Kim",
+    "name_ko": "김민석",
+    "title_en": "M.S. Student (2025.03 – )",
+    "title_ko": "석사과정 (2025.03 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "School of Chemical, Biological & Battery Engineering, Gachon University",
+    "interests_ko": "가천대학교 화공생명배터리공학부"
+  },
+  {
+    "id": "ms-jungmin-lee",
+    "role": "ms",
+    "name_en": "Jungmin Lee",
+    "name_ko": "이정민",
+    "title_en": "M.S. Student (2025.09 – )",
+    "title_ko": "석사과정 (2025.09 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "Department of Battery Engineering, Gachon University",
+    "interests_ko": "가천대학교 배터리공학과"
+  },
+  {
+    "id": "ms-binna-kim",
+    "role": "ms",
+    "name_en": "Binna Kim",
+    "name_ko": "김빈나",
+    "title_en": "M.S. Student (2026.03 – )",
+    "title_ko": "석사과정 (2026.03 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "Department of Battery Engineering, Gachon University",
+    "interests_ko": "가천대학교 배터리공학과"
+  },
+  {
+    "id": "ms-somin-namkung",
+    "role": "ms",
+    "name_en": "Somin Namkung",
+    "name_ko": "남궁소민",
+    "title_en": "M.S. Student (2026.03 – )",
+    "title_ko": "석사과정 (2026.03 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "Department of Battery Engineering, Gachon University",
+    "interests_ko": "가천대학교 배터리공학과"
+  },
+  {
+    "id": "ms-seungeun-yu",
+    "role": "ms",
+    "name_en": "Seungeun Yu",
+    "name_ko": "유승은",
+    "title_en": "M.S. Student (2026.03 – )",
+    "title_ko": "석사과정 (2026.03 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "Department of Battery Engineering, Gachon University",
+    "interests_ko": "가천대학교 배터리공학과"
+  },
+  {
+    "id": "ms-dawon-jeong",
+    "role": "ms",
+    "name_en": "Dawon Jeong",
+    "name_ko": "정다원",
+    "title_en": "M.S. Student (2026.03 – )",
+    "title_ko": "석사과정 (2026.03 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "Department of Battery Engineering, Gachon University",
+    "interests_ko": "가천대학교 배터리공학과"
+  },
+  {
+    "id": "ms-mikang-jeong",
+    "role": "ms",
+    "name_en": "Mikang Jeong",
+    "name_ko": "정미강",
+    "title_en": "M.S. Student (2026.03 – )",
+    "title_ko": "석사과정 (2026.03 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "Department of Battery Engineering, Gachon University",
+    "interests_ko": "가천대학교 배터리공학과"
+  },
+
+  {
+    "id": "ug-dahwi-kim",
+    "role": "undergraduate",
+    "name_en": "Dahwi Kim",
+    "name_ko": "김다휘",
+    "title_en": "Undergraduate Researcher (2023.03 – )",
+    "title_ko": "학부연구원 (2023.03 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "Department of Battery Engineering, Gachon University",
+    "interests_ko": "가천대학교 배터리공학과"
+  },
+  {
+    "id": "ug-yoonseo-heo",
+    "role": "undergraduate",
+    "name_en": "Yoonseo Heo",
+    "name_ko": "허윤서",
+    "title_en": "Undergraduate Researcher (2023.03 – )",
+    "title_ko": "학부연구원 (2023.03 – )",
+    "photo": "assets/images/members/placeholder.jpg",
+    "interests_en": "Department of Battery Engineering, Gachon University",
+    "interests_ko": "가천대학교 배터리공학과"
+  },
+
+  {
+    "id": "alum-seungho-lee",
+    "role": "alumni",
+    "name_en": "Seungho Lee",
+    "name_ko": "이승호",
+    "title_en": "M.S. (2023.09 – 2025.08)",
+    "title_ko": "석사 (2023.09 – 2025.08)",
+    "interests_en": "Now: Ph.D. student at POSTECH",
+    "interests_ko": "현재: POSTECH 박사과정"
+  },
+  {
+    "id": "alum-subi-yang",
+    "role": "alumni",
+    "name_en": "Subi Yang",
+    "name_ko": "양수비",
+    "title_en": "M.S. (2023.09 – 2025.08)",
+    "title_ko": "석사 (2023.09 – 2025.08)",
+    "interests_en": "Now: Ph.D. student at Korea University",
+    "interests_ko": "현재: 고려대학교 박사과정"
+  },
+  {
+    "id": "alum-juhyun-lee",
+    "role": "alumni",
+    "name_en": "Juhyun Lee",
+    "name_ko": "이주현",
+    "title_en": "M.S. (2023.03 – 2025.02)",
+    "title_ko": "석사 (2023.03 – 2025.02)",
+    "interests_en": "Now: Engineer at Samsung SDI",
+    "interests_ko": "현재: 삼성SDI 엔지니어"
+  },
+  {
+    "id": "alum-kwanghyun-kim",
+    "role": "alumni",
+    "name_en": "Kwanghyun Kim",
+    "name_ko": "김광현",
+    "title_en": "M.S. (2022.09 – 2024.08)",
+    "title_ko": "석사 (2022.09 – 2024.08)",
+    "interests_en": "Now: Engineer at Samsung SDI",
+    "interests_ko": "현재: 삼성SDI 엔지니어"
+  },
+  {
+    "id": "alum-kihwan-kwon",
+    "role": "alumni",
+    "name_en": "Kihwan Kwon",
+    "name_ko": "권기환",
+    "title_en": "M.S. (2022.09 – 2024.08)",
+    "title_ko": "석사 (2022.09 – 2024.08)",
+    "interests_en": "Now: Engineer at Samsung SDI",
+    "interests_ko": "현재: 삼성SDI 엔지니어"
+  },
+  {
+    "id": "alum-junghwan-kim",
+    "role": "alumni",
+    "name_en": "Junghwan Kim",
+    "name_ko": "김정환",
+    "title_en": "M.S. (2022.03 – 2024.02)",
+    "title_ko": "석사 (2022.03 – 2024.02)",
+    "interests_en": "Now: Engineer at Samsung SDI",
+    "interests_ko": "현재: 삼성SDI 엔지니어"
+  },
+  {
+    "id": "alum-jisoo-kwon",
+    "role": "alumni",
+    "name_en": "Jisoo Kwon",
+    "name_ko": "권지수",
+    "title_en": "Intern (2021.05 – 2022.06)",
+    "title_ko": "인턴 (2021.05 – 2022.06)",
+    "interests_en": "Now: Engineer at Samsung SDI",
+    "interests_ko": "현재: 삼성SDI 엔지니어"
+  },
+  {
+    "id": "alum-seung-pyo-jeon",
+    "role": "alumni",
+    "name_en": "Seung Pyo Jeon",
+    "name_ko": "전승표",
+    "title_en": "Intern (2022.01 – 2022.04)",
+    "title_ko": "인턴 (2022.01 – 2022.04)",
+    "interests_en": "Now: Engineer at SK on",
+    "interests_ko": "현재: SK on 엔지니어"
+  }
+]

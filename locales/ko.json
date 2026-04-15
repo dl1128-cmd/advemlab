@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "홈",
+    "pi": "PI",
+    "member": "구성원",
+    "research": "연구분야",
+    "publications": "연구성과",
+    "board": "소식",
+    "contact": "연락처",
+    "join_us": "입실 문의"
+  },
+  "home": {
+    "hero_title": "차세대 에너지 저장 기술의",
+    "hero_title_accent": "소재와 공정",
+    "hero_sub": "을 설계합니다",
+    "cta_research": "연구분야 보기",
+    "cta_join": "입실 문의",
+    "what_we_do": "우리의 연구",
+    "highlights": "최근 소식",
+    "people": "구성원",
+    "view_all": "전체 보기"
+  },
+  "member": {
+    "title": "구성원",
+    "professor": "교수",
+    "postdoc": "박사후연구원",
+    "phd": "박사과정",
+    "ms": "석사과정",
+    "undergraduate": "학부연구원",
+    "alumni": "졸업생"
+  },
+  "research": {
+    "title": "연구분야",
+    "overview": "연구 개요",
+    "topics": "세부 연구 주제",
+    "facilities": "보유 장비",
+    "representative_papers": "대표 논문"
+  },
+  "publications": {
+    "title": "연구성과",
+    "top_picks": "대표 논문",
+    "journal": "저널",
+    "conference": "학회",
+    "book_patent": "저서 · 특허",
+    "all_years": "전체 연도",
+    "citations": "인용수"
+  },
+  "board": {
+    "title": "소식",
+    "news": "뉴스",
+    "notice": "공지",
+    "seminar": "세미나"
+  },
+  "contact": {
+    "title": "연락처",
+    "email": "이메일",
+    "address": "주소",
+    "office": "사무실",
+    "phone": "전화",
+    "location": "위치",
+    "inquiry": "문의하기",
+    "join_us_title": "대학원 지원 안내",
+    "join_us_desc": "배터리 및 에너지 소재 분야에 열정이 있는 분을 환영합니다. 문의는 교수님 이메일로 연락 바랍니다."
+  },
+  "footer": {
+    "copyright": "© 2026 Advanced Energy Materials & Processing Lab. All rights reserved."
+  },
+  "common": {
+    "lang_toggle": "EN",
+    "read_more": "더 보기",
+    "loading": "불러오는 중..."
+  }
+}

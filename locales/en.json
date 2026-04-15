@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "Home",
+    "pi": "PI",
+    "member": "Member",
+    "research": "Research",
+    "publications": "Publications",
+    "board": "Board",
+    "contact": "Contact",
+    "join_us": "Join Us"
+  },
+  "home": {
+    "hero_title": "Engineering the Next Generation of",
+    "hero_title_accent": "Energy Storage",
+    "hero_sub": "Materials & Processing",
+    "cta_research": "Explore Research",
+    "cta_join": "Join Us",
+    "what_we_do": "What We Do",
+    "highlights": "Recent Highlights",
+    "people": "People",
+    "view_all": "View All"
+  },
+  "member": {
+    "title": "Member",
+    "professor": "Professor",
+    "postdoc": "Postdoc",
+    "phd": "Ph.D. Students",
+    "ms": "M.S. Students",
+    "undergraduate": "Undergraduate",
+    "alumni": "Alumni"
+  },
+  "research": {
+    "title": "Research",
+    "overview": "Overview",
+    "topics": "Research Topics",
+    "facilities": "Facilities",
+    "representative_papers": "Representative Papers"
+  },
+  "publications": {
+    "title": "Publications",
+    "top_picks": "Top Picks",
+    "journal": "Journal",
+    "conference": "Conference",
+    "book_patent": "Book · Patent",
+    "all_years": "All Years",
+    "citations": "Citations"
+  },
+  "board": {
+    "title": "Board",
+    "news": "News",
+    "notice": "Notice",
+    "seminar": "Seminar"
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "Email",
+    "address": "Address",
+    "office": "Office",
+    "phone": "Phone",
+    "location": "Location",
+    "inquiry": "Inquiry",
+    "join_us_title": "Graduate Admission",
+    "join_us_desc": "We welcome motivated students passionate about battery and energy materials. Please reach out via email."
+  },
+  "footer": {
+    "copyright": "© 2026 Advanced Energy Materials & Processing Lab. All rights reserved."
+  },
+  "common": {
+    "lang_toggle": "KO",
+    "read_more": "Read More",
+    "loading": "Loading..."
+  }
+}

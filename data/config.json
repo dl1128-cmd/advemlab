@@ -1,0 +1,42 @@
+{
+  "lab": {
+    "name_en": "Advanced Energy Materials & Processing Lab",
+    "name_ko": "차세대 에너지 소재 및 공정 연구실",
+    "short": "AdvEM Lab",
+    "slogan_en": "Engineering the Next Generation of Energy Storage",
+    "slogan_ko": "차세대 에너지 저장 기술의 소재와 공정을 설계합니다",
+    "affiliation_en": "School of Chemical, Biological and Battery Engineering, Gachon University",
+    "affiliation_ko": "가천대학교 화공생명배터리공학부"
+  },
+  "pi": {
+    "name_en": "Junghyun Choi",
+    "name_ko": "최정현",
+    "title_en": "Assistant Professor",
+    "title_ko": "조교수",
+    "email": "junghchoi@gachon.ac.kr",
+    "scholar": "https://scholar.google.com/citations?user=kSp8NsEAAAAJ",
+    "legacy_site": "https://sites.google.com/view/advemlab"
+  },
+  "metrics": {
+    "citations_total": 2043,
+    "citations_recent5y": 1382,
+    "h_index": 23,
+    "i10_index": 44,
+    "as_of": "2026-04"
+  },
+  "contact": {
+    "email": "junghchoi@gachon.ac.kr",
+    "address_ko": "경기도 성남시 수정구 성남대로 1342, 가천대학교 글로벌캠퍼스",
+    "address_en": "1342 Seongnam-daero, Sujeong-gu, Seongnam-si, Gyeonggi-do 13120, Republic of Korea",
+    "address_detail_ko": "화공생명배터리공학부 (건물/호수 추가 예정)",
+    "address_detail_en": "School of Chemical, Biological & Battery Engineering (building & room TBD)",
+    "office": "",
+    "phone": "",
+    "maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.6527!2d127.12847067626!3d37.4503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b584c2d8eb8b1%3A0xe3d26dc3bfaca22!2z6rCA7LKc64yA7ZWZ6rWQ!5e0!3m2!1sko!2skr!4v1700000000000"
+  },
+  "recruiting": {
+    "active": true,
+    "message_en": "We welcome highly motivated undergraduate and graduate students.",
+    "message_ko": "열정 있는 학부생과 대학원생을 언제든 환영합니다."
+  }
+}

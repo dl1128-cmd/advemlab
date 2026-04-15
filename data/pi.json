@@ -1,0 +1,132 @@
+{
+  "name_en": "Junghyun Choi",
+  "name_ko": "최정현",
+  "title_en": "Assistant Professor",
+  "title_ko": "조교수",
+  "affiliation_en": "School of Chemical, Biological and Battery Engineering, Gachon University",
+  "affiliation_ko": "가천대학교 화공생명배터리공학부",
+  "email": "junghchoi@gachon.ac.kr",
+  "photo": "assets/images/members/junghyun-choi.jpg",
+  "cv_link": "",
+  "links": [
+    { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=kSp8NsEAAAAJ" },
+    { "label": "ResearchGate", "url": "https://www.researchgate.net/profile/Junghyun-Choi-2" },
+    { "label": "Lab (Legacy Site)", "url": "https://sites.google.com/view/advemlab" }
+  ],
+  "bio_ko": "최정현 교수는 차세대 에너지 저장 기술에 필요한 소재와 공정을 연구합니다. 한양대학교 에너지공학과에서 박사학위를 취득한 후 삼성종합기술원(SAIT), 삼성SDI, 한국세라믹기술원(KICET)에서 산업계 · 출연연 경력을 쌓았으며, 현재 가천대학교에서 리튬이온 전지의 건식 전극 공정, 리튬-황 및 리튬 금속 등 차세대 배터리, 광전극 분야를 연구하고 있습니다. Advanced Energy Materials, ACS Catalysis, Small Science 등 주요 저널에 활발히 성과를 발표하고 있습니다.",
+  "bio_en": "Prof. Junghyun Choi's research focuses on materials and processing technologies for next-generation energy storage. After receiving his Ph.D. in Energy Engineering from Hanyang University, he gained extensive industry and national-lab experience at Samsung Advanced Institute of Technology (SAIT), Samsung SDI, and the Korea Institute of Ceramic Engineering and Technology (KICET) before joining Gachon University. His work spans dry electrode processing for Li-ion batteries, next-generation Li-S and Li-metal systems, and photoelectrodes, with publications in Advanced Energy Materials, ACS Catalysis, Small Science, and other leading journals.",
+  "interests_en": [
+    "Battery Electrodes & Processing",
+    "Dry Electrode Technology",
+    "Li-S & Li-Metal Batteries",
+    "Battery Separators",
+    "Photoelectrodes & Photocatalysis"
+  ],
+  "interests_ko": [
+    "배터리 전극 및 공정",
+    "건식 전극 기술",
+    "리튬-황 · 리튬 금속 전지",
+    "배터리 분리막",
+    "광전극 및 광촉매"
+  ],
+  "education": [
+    {
+      "period": "2010 – 2016",
+      "degree_ko": "박사",
+      "degree_en": "Ph.D.",
+      "field_ko": "에너지공학과",
+      "field_en": "Department of Energy Engineering",
+      "institution_ko": "한양대학교",
+      "institution_en": "Hanyang University",
+      "advisor": "Prof. Ungyu Paik"
+    },
+    {
+      "period": "2005 – 2010",
+      "degree_ko": "학사",
+      "degree_en": "B.S.",
+      "field_ko": "신소재공학부",
+      "field_en": "Division of Materials Science and Engineering",
+      "institution_ko": "한양대학교",
+      "institution_en": "Hanyang University"
+    }
+  ],
+  "experience": [
+    {
+      "period_ko": "2024 – 현재",
+      "period_en": "2024 – Present",
+      "role_ko": "조교수",
+      "role_en": "Assistant Professor",
+      "org_ko": "가천대학교 화공생명배터리공학부",
+      "org_en": "School of Chemical, Biological and Battery Engineering, Gachon University"
+    },
+    {
+      "period_ko": "2020 – 2024",
+      "period_en": "2020 – 2024",
+      "role_ko": "선임연구원",
+      "role_en": "Senior Researcher",
+      "org_ko": "한국세라믹기술원 (KICET)",
+      "org_en": "Korea Institute of Ceramic Engineering and Technology (KICET)"
+    },
+    {
+      "period_ko": "2019 – 2020",
+      "period_en": "2019 – 2020",
+      "role_ko": "책임엔지니어",
+      "role_en": "Staff Engineer",
+      "org_ko": "삼성SDI",
+      "org_en": "Samsung SDI"
+    },
+    {
+      "period_ko": "2016 – 2019",
+      "period_en": "2016 – 2019",
+      "role_ko": "전문연구원",
+      "role_en": "Staff Researcher",
+      "org_ko": "삼성종합기술원 (SAIT)",
+      "org_en": "Samsung Advanced Institute of Technology (SAIT)"
+    },
+    {
+      "period_ko": "2013 – 2014",
+      "period_en": "2013 – 2014",
+      "role_ko": "방문연구원",
+      "role_en": "Visiting Scholar",
+      "org_ko": "University of Maryland, College Park",
+      "org_en": "University of Maryland, College Park"
+    }
+  ],
+  "awards": [
+    {
+      "year": 2026,
+      "title_ko": "RSC Journal of Materials Chemistry A 2026 Emerging Investigator",
+      "title_en": "RSC Journal of Materials Chemistry A 2026 Emerging Investigator",
+      "org_ko": "영국왕립화학회 (RSC)",
+      "org_en": "Royal Society of Chemistry"
+    }
+  ],
+  "grants": [
+    {
+      "period_ko": "2025 – 2028",
+      "period_en": "2025 – 2028",
+      "title_ko": "중견연구자지원사업",
+      "title_en": "Mid-Career Researcher Program",
+      "role_ko": "연구책임자",
+      "role_en": "PI",
+      "agency_ko": "과학기술정보통신부 / 한국연구재단",
+      "agency_en": "MSIT / NRF of Korea"
+    },
+    {
+      "period_ko": "기타 정부 지원 사업 5건",
+      "period_en": "5 additional government-funded projects",
+      "title_ko": "세부 정보 추가 예정",
+      "title_en": "Details TBD",
+      "role_ko": "",
+      "role_en": "",
+      "agency_ko": "",
+      "agency_en": ""
+    }
+  ],
+  "metrics": {
+    "citations_total": 2043,
+    "h_index": 23,
+    "i10_index": 44,
+    "as_of": "2026-04"
+  }
+}

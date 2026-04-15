@@ -1,0 +1,61 @@
+[
+  {
+    "id": "dry-electrode",
+    "order": 1,
+    "title_ko": "건식 전극 공정",
+    "title_en": "Dry Electrode Process",
+    "summary_ko": "용매를 사용하지 않는 건식 전극 공정으로 고에너지밀도 · 저비용 리튬이온 전지를 구현합니다. Roll-to-Roll 공정과 두꺼운 전극 기술을 통해 상용화 수준의 면적용량을 달성합니다.",
+    "summary_en": "Solvent-free electrode fabrication enabling high-energy-density and low-cost Li-ion batteries. Roll-to-roll processing and thick electrode technology push areal capacity to commercial levels.",
+    "keywords": ["Dry Electrode", "Roll-to-Roll", "Thick Electrode", "PTFE"],
+    "svg": "<svg viewBox='0 0 260 160' xmlns='http://www.w3.org/2000/svg' fill='none' stroke='#0066CC' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='40' cy='80' r='28' fill='#E6F0FB'/><circle cx='220' cy='80' r='28' fill='#E6F0FB'/><circle cx='40' cy='80' r='10' fill='#0066CC' stroke='none'/><circle cx='220' cy='80' r='10' fill='#0066CC' stroke='none'/><rect x='70' y='60' width='120' height='40' rx='4' fill='#FFF'/><line x1='78' y1='70' x2='78' y2='90'/><line x1='86' y1='70' x2='86' y2='90'/><line x1='94' y1='70' x2='94' y2='90'/><line x1='102' y1='70' x2='102' y2='90'/><line x1='110' y1='70' x2='110' y2='90'/><line x1='118' y1='70' x2='118' y2='90'/><line x1='126' y1='70' x2='126' y2='90'/><line x1='134' y1='70' x2='134' y2='90'/><line x1='142' y1='70' x2='142' y2='90'/><line x1='150' y1='70' x2='150' y2='90'/><line x1='158' y1='70' x2='158' y2='90'/><line x1='166' y1='70' x2='166' y2='90'/><line x1='174' y1='70' x2='174' y2='90'/><line x1='182' y1='70' x2='182' y2='90'/><path d='M130 30 L130 58' stroke='#00B8A9' stroke-width='2.5'/><path d='M125 52 L130 58 L135 52' stroke='#00B8A9' stroke-width='2.5'/><text x='130' y='22' text-anchor='middle' font-size='11' fill='#555' font-family='Inter,sans-serif' stroke='none'>Dry Powder</text><text x='130' y='130' text-anchor='middle' font-size='11' fill='#555' font-family='Inter,sans-serif' stroke='none'>Roll-to-Roll Calendering</text></svg>",
+    "representative_papers": [
+      "100 mAh cm−2 Cathode by Roll-to-Roll Process (Adv. Energy Mater. 2024)",
+      "Low-Resistance LiFePO4 Thick Film Electrode (Small Science 2024)",
+      "Mitigating PTFE decomposition in ultra thick dry-processed anodes (J. Energy Storage 2024)"
+    ]
+  },
+  {
+    "id": "next-gen-batteries",
+    "order": 2,
+    "title_ko": "차세대 리튬 배터리",
+    "title_en": "Next-Generation Lithium Batteries",
+    "summary_ko": "리튬-황, 리튬 금속, LiFePO4 기반의 고에너지밀도 셀을 연구합니다. 전극-전해질 계면 제어와 고유황 활용 구조로 사이클 수명과 용량 모두를 개선합니다.",
+    "summary_en": "Exploring Li-S, Li-metal, and LiFePO4 systems for high-energy-density cells. Interface engineering and high-sulfur utilization architectures simultaneously improve cycle life and capacity.",
+    "keywords": ["Li-S Battery", "Li-Metal", "LiFePO4", "High Energy Density"],
+    "svg": "<svg viewBox='0 0 260 160' xmlns='http://www.w3.org/2000/svg' fill='none' stroke='#0066CC' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><rect x='30' y='30' width='40' height='100' rx='4' fill='#E6F0FB'/><rect x='190' y='30' width='40' height='100' rx='4' fill='#E6F0FB'/><rect x='75' y='40' width='110' height='80' rx='2' fill='#F7F9FC'/><line x1='130' y1='40' x2='130' y2='120' stroke-dasharray='3 3' stroke='#888'/><circle cx='100' cy='60' r='4' fill='#0066CC' stroke='none'/><circle cx='100' cy='80' r='4' fill='#0066CC' stroke='none'/><circle cx='100' cy='100' r='4' fill='#0066CC' stroke='none'/><circle cx='160' cy='70' r='5' fill='#00B8A9' stroke='none'/><circle cx='160' cy='90' r='5' fill='#00B8A9' stroke='none'/><circle cx='160' cy='110' r='5' fill='#00B8A9' stroke='none'/><path d='M100 60 Q 130 60 160 70' stroke='#0066CC' stroke-width='1.5' stroke-dasharray='2 2'/><path d='M100 80 Q 130 80 160 90' stroke='#0066CC' stroke-width='1.5' stroke-dasharray='2 2'/><text x='50' y='25' text-anchor='middle' font-size='10' fill='#555' font-family='Inter,sans-serif' stroke='none'>Li Metal</text><text x='210' y='25' text-anchor='middle' font-size='10' fill='#555' font-family='Inter,sans-serif' stroke='none'>Cathode</text><text x='130' y='148' text-anchor='middle' font-size='11' fill='#555' font-family='Inter,sans-serif' stroke='none'>Electrolyte / Separator</text></svg>",
+    "representative_papers": [
+      "Synergistic BN-Carbon Separator for Li-S Batteries (NPG Asia Materials 2017)",
+      "Hydroxylated CNT Enhanced Sulfur Cathode (Chem. Commun. 2015)",
+      "Encapsulation of S/SWNT with PANI Web (Scientific Reports 2015)"
+    ]
+  },
+  {
+    "id": "materials-separators",
+    "order": 3,
+    "title_ko": "배터리 소재 · 분리막",
+    "title_en": "Battery Materials & Separators",
+    "summary_ko": "차세대 분리막 설계와 복합 소재 개발을 통해 셀 안전성과 성능을 동시에 끌어올립니다. 기능성 폴리머 코팅, 계면 제어 기술이 핵심입니다.",
+    "summary_en": "Advanced separator design and composite materials improve both cell safety and performance. Functional polymer coatings and interface engineering are at the core.",
+    "keywords": ["Separator", "Functional Polymer", "Interface"],
+    "svg": "<svg viewBox='0 0 260 160' xmlns='http://www.w3.org/2000/svg' fill='none' stroke='#0066CC' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><rect x='40' y='40' width='180' height='80' rx='4' fill='#E6F0FB'/><line x1='40' y1='60' x2='220' y2='60' stroke-dasharray='2 3'/><line x1='40' y1='80' x2='220' y2='80' stroke-dasharray='2 3'/><line x1='40' y1='100' x2='220' y2='100' stroke-dasharray='2 3'/><circle cx='60' cy='50' r='3' fill='#0066CC' stroke='none'/><circle cx='90' cy='50' r='3' fill='#0066CC' stroke='none'/><circle cx='130' cy='50' r='3' fill='#0066CC' stroke='none'/><circle cx='170' cy='50' r='3' fill='#0066CC' stroke='none'/><circle cx='200' cy='50' r='3' fill='#0066CC' stroke='none'/><circle cx='60' cy='110' r='3' fill='#00B8A9' stroke='none'/><circle cx='100' cy='110' r='3' fill='#00B8A9' stroke='none'/><circle cx='140' cy='110' r='3' fill='#00B8A9' stroke='none'/><circle cx='180' cy='110' r='3' fill='#00B8A9' stroke='none'/><path d='M60 50 Q 130 80 200 110' stroke='#0066CC' stroke-width='1.5' stroke-dasharray='3 2'/><text x='130' y='30' text-anchor='middle' font-size='11' fill='#555' font-family='Inter,sans-serif' stroke='none'>Porous Separator with Functional Coating</text><text x='130' y='140' text-anchor='middle' font-size='10' fill='#555' font-family='Inter,sans-serif' stroke='none'>Selective Ion Transport · Safety Barrier</text></svg>",
+    "representative_papers": [
+      "A Roadmap of Battery Separator Development (Curr. Opin. Electrochem. 2022)",
+      "Synergistic ultrathin functional polymer-coated CNT interlayer (ACS AMI 2016)"
+    ]
+  },
+  {
+    "id": "photoelectrodes",
+    "order": 4,
+    "title_ko": "광전극 · 광촉매",
+    "title_en": "Photoelectrodes & Photocatalysts",
+    "summary_ko": "BiVO4, TiO2 기반 광전극을 설계해 태양광으로 물 분해 수소를 생산합니다. 밴드갭 제어와 계면 밴드 벤딩 엔지니어링을 활용합니다.",
+    "summary_en": "BiVO4 and TiO2-based photoelectrodes enable solar-driven water splitting. Bandgap engineering and interfacial band bending drive enhanced performance.",
+    "keywords": ["Photoelectrode", "BiVO4", "TiO2", "Water Splitting"],
+    "svg": "<svg viewBox='0 0 260 160' xmlns='http://www.w3.org/2000/svg' fill='none' stroke='#0066CC' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='40' r='16' fill='#FDD835' stroke='#F9A825'/><line x1='50' y1='16' x2='50' y2='22' stroke='#F9A825'/><line x1='50' y1='58' x2='50' y2='64' stroke='#F9A825'/><line x1='26' y1='40' x2='32' y2='40' stroke='#F9A825'/><line x1='68' y1='40' x2='74' y2='40' stroke='#F9A825'/><line x1='33' y1='23' x2='37' y2='27' stroke='#F9A825'/><line x1='63' y1='53' x2='67' y2='57' stroke='#F9A825'/><path d='M65 55 L 110 90' stroke='#FDD835' stroke-width='2' stroke-dasharray='3 2'/><path d='M75 48 L 120 80' stroke='#FDD835' stroke-width='2' stroke-dasharray='3 2'/><rect x='110' y='70' width='70' height='60' rx='2' fill='#E6F0FB'/><line x1='120' y1='75' x2='120' y2='125'/><line x1='135' y1='75' x2='135' y2='125'/><line x1='150' y1='75' x2='150' y2='125'/><line x1='165' y1='75' x2='165' y2='125'/><circle cx='200' cy='85' r='6' fill='none' stroke='#00B8A9' stroke-width='1.5'/><circle cx='215' cy='90' r='5' fill='none' stroke='#00B8A9' stroke-width='1.5'/><circle cx='205' cy='105' r='6' fill='none' stroke='#00B8A9' stroke-width='1.5'/><text x='145' y='60' text-anchor='middle' font-size='11' fill='#555' font-family='Inter,sans-serif' stroke='none'>BiVO₄ / TiO₂ Photoelectrode</text><text x='210' y='130' text-anchor='middle' font-size='11' fill='#00B8A9' font-family='Inter,sans-serif' stroke='none'>H₂ / O₂</text></svg>",
+    "representative_papers": [
+      "Parallelized Reaction Pathway by Partial Oxidation (ACS Catalysis 2018)",
+      "WO3/W:BiVO4/BiVO4 Graded Photoabsorber (Phys. Chem. Chem. Phys. 2017)",
+      "Synergetic control of band gap and structural transformation (Appl. Catal. B 2017)"
+    ]
+  }
+]
