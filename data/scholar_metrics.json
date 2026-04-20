@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-20T06:38:04Z",
+  "updated_at": "2026-04-20T19:09:33Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2049,
-  "citations_recent5y": 1387,
+  "citations_total": 2052,
+  "citations_recent5y": 1390,
   "h_index": 23,
   "i10_index": 43,
   "citations_history": [
@@ -60,7 +60,7 @@
     },
     {
       "year": 2026,
-      "count": 240
+      "count": 243
     }
   ],
   "papers": [
@@ -251,16 +251,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:zA6iFVUQeVQC"
     },
     {
+      "title": "Functionalized interfacial cover design toward pure silicon anode for high power density Lithium-Ion capacitor",
+      "year": 2024,
+      "citations": 17,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:g5m5HwL7SMYC"
+    },
+    {
       "title": "LEGO-like assembly of peelable, deformable components for integrated devices",
       "year": 2013,
       "citations": 17,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:9yKSN-GCB0IC"
-    },
-    {
-      "title": "Functionalized interfacial cover design toward pure silicon anode for high power density Lithium-Ion capacitor",
-      "year": 2024,
-      "citations": 16,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:g5m5HwL7SMYC"
     },
     {
       "title": "Concentration Gradient Induced Delithiation Failure of MoO3 for Li-Ion Batteries",
@@ -431,6 +431,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:a0OBvERweLwC"
     },
     {
+      "title": "Mechanochemistry-Driven Optimization of Halide-Based Solid-State Electrolytes via Orthogonal Design of Experiments and Regression Modeling",
+      "year": 2026,
+      "citations": 2,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:K3LRdlH-MEoC"
+    },
+    {
       "title": "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
       "year": 2026,
       "citations": 2,
@@ -449,6 +455,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:dshw04ExmUIC"
     },
     {
+      "title": "Synergistic enhancement of microstructural homogeneity and mechanical strength in SiOx@ C anodes via a graphene nanoribbon-based conductive agent",
+      "year": 2025,
+      "citations": 2,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:b0M2c_1WBrUC"
+    },
+    {
       "title": "Considering cell volume in dopant screening for improving Li-ion mobility in an amorphous LiPON solid-state electrolyte: an ab initio study",
       "year": 2023,
       "citations": 2,
@@ -459,12 +471,6 @@
       "year": 2026,
       "citations": 1,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:08ZZubdj9fEC"
-    },
-    {
-      "title": "Mechanochemistry-Driven Optimization of Halide-Based Solid-State Electrolytes via Orthogonal Design of Experiments and Regression Modeling",
-      "year": 2026,
-      "citations": 1,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:K3LRdlH-MEoC"
     },
     {
       "title": "Abuse-Tolerant Separator Enabled by Surface Charge Modulation and Structural Reinforcement for High-Safety Lithium-Ion Batteries",
@@ -489,12 +495,6 @@
       "year": 2025,
       "citations": 1,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:u9iWguZQMMsC"
-    },
-    {
-      "title": "Synergistic enhancement of microstructural homogeneity and mechanical strength in SiOx@ C anodes via a graphene nanoribbon-based conductive agent",
-      "year": 2025,
-      "citations": 1,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:b0M2c_1WBrUC"
     },
     {
       "title": "Crystallinity and Composition Engineering of Organic Crystal Derived 1D Carbons for Advanced Li-metal Based Batteries",
@@ -533,6 +533,5 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:OU6Ihb5iCvQC"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-04-20T06:56:40Z"
+  "_source": "playwright_scholar"
 }
