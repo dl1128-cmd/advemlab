@@ -42,6 +42,8 @@
       setupLangToggle();
       document.dispatchEvent(new CustomEvent("site:ready", { detail: state }));
       setupHashScroll();
+      // Non-blocking: load Scholar citation metrics
+      autoUpdateScholarMetrics().catch(() => {});
     } catch (err) {
       console.error("Site init failed:", err);
     }
@@ -151,6 +153,90 @@
         location.href = url.toString();
       });
     });
+  }
+
+  /* =========================================================================
+   * Scholar metrics loader
+   * Primary: loads data/scholar_metrics.json (committed by GitHub Actions daily)
+   * Fallback: fetches from OpenAlex API if scholar_metrics.json is missing
+   * ========================================================================= */
+  const OPENALEX_CACHE_KEY = "advem:openalex:cache:v1";
+  const OPENALEX_CACHE_TTL = 24 * 60 * 60 * 1000; // 24h
+
+  async function loadScholarMetrics() {
+    try {
+      const res = await fetch("data/scholar_metrics.json?t=" + Date.now(), { cache: "no-store" });
+      if (res.ok) {
+        const data = await res.json();
+        // Normalize history field: Actions script uses "count", chart expects "n"
+        if (data.citations_history) {
+          data.citations_history = data.citations_history.map(h => ({
+            year: h.year,
+            n: h.count !== undefined ? h.count : h.n
+          }));
+        }
+        applyScholarMetrics(data);
+        return;
+      }
+    } catch { /* file may not exist yet */ }
+    // Fallback to OpenAlex if scholar_metrics.json is not available
+    await loadOpenAlexFallback();
+  }
+
+  async function loadOpenAlexFallback() {
+    const config = state.config;
+    if (!config?.pi?.name_en) return;
+    try {
+      const cached = JSON.parse(localStorage.getItem(OPENALEX_CACHE_KEY) || "null");
+      if (cached && (Date.now() - cached.t) < OPENALEX_CACHE_TTL) {
+        applyScholarMetrics(cached.data);
+        return;
+      }
+    } catch {}
+    try {
+      const name = config.pi.name_en;
+      const url = `https://api.openalex.org/works?per-page=200&filter=author.search:${encodeURIComponent(name)}&mailto=scholar-bot@users.noreply.github.com`;
+      const res = await fetch(url);
+      if (!res.ok) return;
+      const data = await res.json();
+      const papers = (data.results || []).map(w => ({
+        title: w.title || w.display_name || "",
+        citations: w.cited_by_count || 0,
+        year: w.publication_year || 0,
+        scholar_link: ""
+      }));
+      const metrics = { papers: papers, _source: "openalex" };
+      localStorage.setItem(OPENALEX_CACHE_KEY, JSON.stringify({ t: Date.now(), data: metrics }));
+      applyScholarMetrics(metrics);
+    } catch { /* OpenAlex unavailable — silent */ }
+  }
+
+  async function autoUpdateScholarMetrics() {
+    await loadScholarMetrics();
+  }
+
+  function applyScholarMetrics(metrics) {
+    if (!metrics) return;
+    // Update numeric metrics on page
+    if (state.config.metrics) {
+      const metricKeys = ["citations_total", "citations_recent5y", "h_index", "i10_index"];
+      metricKeys.forEach(k => {
+        if (metrics[k] !== undefined) state.config.metrics[k] = metrics[k];
+      });
+    }
+    document.querySelectorAll("[data-metric]").forEach(el => {
+      const k = el.getAttribute("data-metric");
+      const v = metrics[k];
+      if (v !== undefined) el.textContent = typeof v === "number" ? v.toLocaleString() : v;
+    });
+    if (metrics.citations_history && metrics.citations_history.length) {
+      document.dispatchEvent(new CustomEvent("scholar:history", { detail: metrics.citations_history }));
+    }
+    if (metrics.papers && metrics.papers.length) {
+      document.dispatchEvent(new CustomEvent("scholar:papers", { detail: metrics.papers }));
+    }
+    state.config.scholar_metrics = metrics;
+    document.dispatchEvent(new CustomEvent("scholar:totals", { detail: metrics }));
   }
 
   window.SiteUtils = {

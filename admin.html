@@ -12,8 +12,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;700;800&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/style.css?v=20260415c" />
-  <link rel="stylesheet" href="css/admin.css?v=20260415c" />
+  <link rel="stylesheet" href="css/style.css?v=20260420v" />
+  <link rel="stylesheet" href="css/admin.css?v=20260420v" />
 </head>
 <body>
 
@@ -30,7 +30,7 @@
     <div id="login-error" class="admin-login-error"></div>
     <div class="admin-login-hint">
       첫 접속 시 기본 비밀번호는 <code>advemlab2026</code> 입니다.<br />
-      로그인 후 <b>설정</b> 탭에서 반드시 변경하세요.
+      로그인 후 <b>관리자 설정</b> 탭에서 반드시 변경하세요.
     </div>
     <a href="index.html" class="admin-login-back">← 공개 사이트로 돌아가기</a>
   </div>
@@ -54,33 +54,30 @@
   <!-- Instructions banner -->
   <div class="admin-banner">
     <div class="admin-banner-inner">
-      <b>📌 업데이트 방법</b> — 편집 후 <b>저장</b> 버튼 클릭 시 새 JSON 파일이 다운로드됩니다. 다운로드된 파일을
-      <code>data/</code> 폴더의 같은 이름 파일과 교체하세요. 페이지 새로고침하면 반영됩니다.
-      <span class="admin-banner-more">
-        GitHub 자동 배포를 쓰려면 <b>설정</b> 탭에서 토큰을 설정하세요.
-      </span>
+      <b>📌 업데이트 방법</b> — <b>🔐 관리자 설정</b> 탭에서 GitHub 토큰을 한 번 설정하면, 이후 <b>저장</b> 버튼 클릭 시
+      자동으로 GitHub에 커밋되어 <b>1~2분 후 사이트에 반영</b>됩니다. 토큰 미설정 시 기존처럼 JSON 파일이 다운로드됩니다.
     </div>
   </div>
 
   <!-- Tabs -->
   <nav class="admin-tabs">
     <div class="admin-tabs-inner">
-      <button class="admin-tab active" data-tab="publications">📄 논문</button>
-      <button class="admin-tab" data-tab="members">👥 구성원</button>
-      <button class="admin-tab" data-tab="pi">🎓 PI 프로필</button>
-      <button class="admin-tab" data-tab="news">📣 소식</button>
-      <button class="admin-tab" data-tab="topics">🔬 연구주제</button>
+      <button class="admin-tab active" data-tab="pi">🎓 PI</button>
+      <button class="admin-tab" data-tab="members">👥 Member</button>
+      <button class="admin-tab" data-tab="topics">🔬 Research</button>
+      <button class="admin-tab" data-tab="publications">📄 Publications</button>
+      <button class="admin-tab" data-tab="news">📣 News</button>
       <button class="admin-tab" data-tab="config">⚙️ 기본설정</button>
       <button class="admin-tab" data-tab="settings">🔐 관리자 설정</button>
     </div>
   </nav>
 
   <main class="admin-main">
-    <div id="tab-publications" class="admin-tab-panel active"></div>
+    <div id="tab-pi" class="admin-tab-panel active"></div>
     <div id="tab-members" class="admin-tab-panel"></div>
-    <div id="tab-pi" class="admin-tab-panel"></div>
-    <div id="tab-news" class="admin-tab-panel"></div>
     <div id="tab-topics" class="admin-tab-panel"></div>
+    <div id="tab-publications" class="admin-tab-panel"></div>
+    <div id="tab-news" class="admin-tab-panel"></div>
     <div id="tab-config" class="admin-tab-panel"></div>
     <div id="tab-settings" class="admin-tab-panel"></div>
   </main>
@@ -105,6 +102,6 @@
 <!-- Toast -->
 <div id="toast" class="admin-toast"></div>
 
-<script src="js/admin.js?v=20260415c"></script>
+<script src="js/admin.js?v=20260420v"></script>
 </body>
 </html>

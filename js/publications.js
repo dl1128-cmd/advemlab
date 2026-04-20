@@ -13,6 +13,33 @@
   let publications = [];
   let current = "all";
 
+  // Scholar citation auto-update: match papers by normalized title
+  document.addEventListener("scholar:papers", (e) => {
+    const scholarPapers = e.detail || [];
+    if (!publications.length || !scholarPapers.length) return;
+    const scholarMap = new Map();
+    scholarPapers.forEach(sp => scholarMap.set(normalize(sp.title), sp));
+    let matched = 0;
+    publications.forEach(p => {
+      const sp = scholarMap.get(normalize(p.title));
+      if (sp) {
+        if (sp.citations > 0) { p.citations = sp.citations; matched++; }
+        if (sp.scholar_link) p.scholar_link = sp.scholar_link;
+      }
+    });
+    if (matched > 0) {
+      const root = document.getElementById("publications-root");
+      if (root) {
+        const host = root.querySelector("#pub-list-host");
+        if (host) render(root, true);
+      }
+    }
+  });
+
+  function normalize(s) {
+    return String(s || "").toLowerCase().replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim();
+  }
+
   document.addEventListener("site:ready", async () => {
     const root = document.getElementById("publications-root");
     if (!root) return;
