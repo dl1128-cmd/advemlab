@@ -1,1211 +1,979 @@
 {
-  "updated_at": "2026-04-20T05:01:01Z",
+  "updated_at": "2026-04-20T05:29:06Z",
   "user_id": "",
-  "citations_total": 9431,
-  "citations_recent5y": 0,
-  "h_index": 0,
-  "i10_index": 0,
-  "citations_history": [],
+  "openalex_id": "A5012760064",
+  "citations_total": 3665,
+  "citations_recent5y": 195,
+  "h_index": 34,
+  "i10_index": 80,
+  "citations_history": [
+    {
+      "year": 1997,
+      "count": 31
+    },
+    {
+      "year": 1998,
+      "count": 15
+    },
+    {
+      "year": 1999,
+      "count": 29
+    },
+    {
+      "year": 2001,
+      "count": 51
+    },
+    {
+      "year": 2002,
+      "count": 59
+    },
+    {
+      "year": 2003,
+      "count": 166
+    },
+    {
+      "year": 2004,
+      "count": 11
+    },
+    {
+      "year": 2005,
+      "count": 158
+    },
+    {
+      "year": 2006,
+      "count": 474
+    },
+    {
+      "year": 2007,
+      "count": 86
+    },
+    {
+      "year": 2008,
+      "count": 81
+    },
+    {
+      "year": 2009,
+      "count": 171
+    },
+    {
+      "year": 2010,
+      "count": 204
+    },
+    {
+      "year": 2011,
+      "count": 313
+    },
+    {
+      "year": 2012,
+      "count": 256
+    },
+    {
+      "year": 2013,
+      "count": 156
+    },
+    {
+      "year": 2014,
+      "count": 250
+    },
+    {
+      "year": 2015,
+      "count": 300
+    },
+    {
+      "year": 2016,
+      "count": 195
+    },
+    {
+      "year": 2017,
+      "count": 90
+    },
+    {
+      "year": 2019,
+      "count": 149
+    },
+    {
+      "year": 2020,
+      "count": 196
+    },
+    {
+      "year": 2021,
+      "count": 29
+    },
+    {
+      "year": 2022,
+      "count": 64
+    },
+    {
+      "year": 2023,
+      "count": 0
+    },
+    {
+      "year": 2024,
+      "count": 128
+    },
+    {
+      "year": 2025,
+      "count": 3
+    }
+  ],
   "papers": [
     {
-      "title": "A roadmap of battery separator development: Past and future",
-      "year": 2021,
-      "citations": 85,
-      "scholar_link": ""
+      "title": "Chloroquine inhibits production of TNF-α, IL-1β and IL-6 from lipopolysaccharide-stimulated human monocytes/macrophages by different modes",
+      "year": 2006,
+      "citations": 308,
+      "scholar_link": "https://doi.org/10.1093/rheumatology/kei282"
     },
     {
-      "title": "Smartphone Addiction: (Focused Depression, Aggression and Impulsion) among College Students",
+      "title": "Biomarkers of Sepsis",
+      "year": 2014,
+      "citations": 140,
+      "scholar_link": "https://doi.org/10.3947/ic.2014.46.1.1"
+    },
+    {
+      "title": "An Update on Sepsis Biomarkers",
+      "year": 2020,
+      "citations": 110,
+      "scholar_link": "https://doi.org/10.3947/ic.2020.52.1.1"
+    },
+    {
+      "title": "Escherichia coli and Klebsiella pneumoniae bacteremia in patients with neutropenic fever: factors associated with extended-spectrum β-lactamase production and its impact on outcome",
+      "year": 2012,
+      "citations": 95,
+      "scholar_link": "https://doi.org/10.1007/s00277-012-1631-y"
+    },
+    {
+      "title": "Evidence-Based Guidelines for Empirical Therapy of Neutropenic Fever in Korea",
+      "year": 2011,
+      "citations": 93,
+      "scholar_link": "https://doi.org/10.3904/kjim.2011.26.2.220"
+    },
+    {
+      "title": "Middle East Respiratory Syndrome Infection Control and Prevention Guideline for Healthcare Facilities",
       "year": 2015,
-      "citations": 79,
-      "scholar_link": ""
+      "citations": 77,
+      "scholar_link": "https://doi.org/10.3947/ic.2015.47.4.278"
     },
     {
-      "title": "Synergistic protective effect of a BN-carbon separator for highly stable lithium sulfur batteries",
-      "year": 2017,
-      "citations": 107,
-      "scholar_link": ""
+      "title": "Emergence of Extended-Spectrum β-Lactamase-Producing <i>Escherichia coli</i> as a Cause of Community-Onset Bacteremia in South Korea: Risk Factors and Clinical Outcomes",
+      "year": 2011,
+      "citations": 74,
+      "scholar_link": "https://doi.org/10.1089/mdr.2011.0072"
     },
     {
-      "title": "Ghrelin protects adult rat hippocampal neural stem cells from excessive autophagy during oxygen-glucose deprivation",
-      "year": 2017,
-      "citations": 32,
-      "scholar_link": ""
+      "title": "Impact of Extended-Spectrum β-Lactamase Production on Treatment Outcomes of Acute Pyelonephritis Caused by Escherichia coli in Patients without Health Care-Associated Risk Factors",
+      "year": 2015,
+      "citations": 54,
+      "scholar_link": "https://doi.org/10.1128/aac.04821-14"
     },
     {
-      "title": "3D Cross-Linked Nanoweb Architecture of Binder-Free TiO<sub>2</sub> Electrodes for Lithium Ion Batteries",
-      "year": 2013,
-      "citations": 68,
-      "scholar_link": ""
+      "title": "Safety, tolerability, and immunogenicity of an adult pneumococcal conjugate vaccine, V116 (STRIDE-3): a randomised, double-blind, active comparator controlled, international phase 3 trial",
+      "year": 2024,
+      "citations": 47,
+      "scholar_link": "https://doi.org/10.1016/s1473-3099(24)00344-x"
     },
     {
-      "title": "Synergistic Ultrathin Functional Polymer-Coated Carbon Nanotube Interlayer for High Performance Lithium–Sulfur Batteries",
-      "year": 2016,
-      "citations": 109,
-      "scholar_link": ""
+      "title": "Trends in varicella and herpes zoster epidemiology before and after the implementation of universal one-dose varicella vaccination over one decade in South Korea, 2003–2015",
+      "year": 2019,
+      "citations": 38,
+      "scholar_link": "https://doi.org/10.1080/21645515.2019.1603985"
     },
     {
-      "title": "Investigation on the temperature-dependent growth rate of carbon nanotubes using chemical vapor deposition of ferrocene and acetylene",
-      "year": 2004,
-      "citations": 148,
-      "scholar_link": ""
+      "title": "Improving vaccination rates in older adults and at-risk groups: focus on pertussis",
+      "year": 2022,
+      "citations": 30,
+      "scholar_link": "https://doi.org/10.1007/s40520-021-02018-3"
+    },
+    {
+      "title": "A Phase 3 Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of V116 in Pneumococcal Vaccine–Experienced Adults 50 Years of Age or Older (STRIDE-6)",
+      "year": 2024,
+      "citations": 28,
+      "scholar_link": "https://doi.org/10.1093/cid/ciae383"
+    },
+    {
+      "title": "Molecular Epidemiologic Analysis of Community-Onset Extended Spectrum Beta-Lactamase (ESBL) Producing<i>Escherichia coli</i>Using Infrequent-Restriction-Site Polymerase Chain Reaction (IRS-PCR) with Comparison by Pulsed-Field Gel Electrophoresis (PFGE)",
+      "year": 2012,
+      "citations": 4,
+      "scholar_link": "https://doi.org/10.3947/ic.2012.44.1.5"
+    },
+    {
+      "title": "Multiplex PCR for the Detection of Genes Encoding Aminoglycoside Modifying Enzymes and Methicillin Resistance among Staphylococcus Species",
+      "year": 2003,
+      "citations": 156,
+      "scholar_link": "https://doi.org/10.3346/jkms.2003.18.5.631"
     },
     {
       "title": "Direct observation of spectral differences between normal and basal cell carcinoma (BCC) tissues using confocal Raman microscopy",
       "year": 2005,
       "citations": 99,
-      "scholar_link": ""
+      "scholar_link": "https://doi.org/10.1002/bip.20236"
     },
     {
-      "title": "A new approach to stabilize the electrochemical performance of Li metal batteries through the structure alteration of CNT scaffolds",
-      "year": 2022,
-      "citations": 27,
-      "scholar_link": ""
+      "title": "Characteristics of the genome of <i>Arsenophonus nasoniae</i> , son‐killer bacterium of the wasp <i>Nasonia</i>",
+      "year": 2010,
+      "citations": 89,
+      "scholar_link": "https://doi.org/10.1111/j.1365-2583.2009.00950.x"
     },
     {
-      "title": "The Relationship between Impulsiveness, Self-Esteem, Irrational Gambling Belief and Problem Gambling Moderating Effects of Gender",
-      "year": 2021,
-      "citations": 17,
-      "scholar_link": ""
-    },
-    {
-      "title": "Hydroxylated carbon nanotube enhanced sulfur cathodes for improved electrochemical performance of lithium–sulfur batteries",
+      "title": "Stenotrophomonas maltophilia bloodstream infection in patients with hematologic malignancies: a retrospective study and in vitro activities of antimicrobial combinations",
       "year": 2015,
-      "citations": 62,
-      "scholar_link": ""
+      "citations": 73,
+      "scholar_link": "https://doi.org/10.1186/s12879-015-0801-7"
     },
     {
-      "title": "Patterned oxide semiconductor by electrohydrodynamic jet printing for transparent thin film transistors",
+      "title": "Emergence of Community-Associated Methicillin-Resistant<i>Staphylococcus aureus</i>Strains as a Cause of Healthcare-Associated Bloodstream Infections in Korea",
+      "year": 2009,
+      "citations": 71,
+      "scholar_link": "https://doi.org/10.1086/593953"
+    },
+    {
+      "title": "Molecular epidemiology of extended-spectrum β-lactamase-producing Escherichia coli in the community and hospital in Korea: emergence of ST131 producing CTX-M-15",
       "year": 2012,
       "citations": 69,
-      "scholar_link": ""
+      "scholar_link": "https://doi.org/10.1186/1471-2334-12-149"
     },
     {
-      "title": "Fast and sensitive trace analysis of malachite green using a surface-enhanced Raman microfluidic sensor",
-      "year": 2007,
-      "citations": 158,
-      "scholar_link": ""
-    },
-    {
-      "title": "Parallelized Reaction Pathway and Stronger Internal Band Bending by Partial Oxidation of Metal Sulfide–Graphene Composites: Important Factors of Synergistic Oxygen Evolution Reaction Enhancement",
-      "year": 2018,
-      "citations": 145,
-      "scholar_link": ""
-    },
-    {
-      "title": "Silicon-stabilized lithium metal powder (SLMP) composite anodes for fast charging by in-situ prelithiation",
-      "year": 2023,
-      "citations": 33,
-      "scholar_link": ""
-    },
-    {
-      "title": "Two-dimensional Nafion nanoweb anion-shield for improved electrochemical performances of lithium–sulfur batteries",
-      "year": 2016,
-      "citations": 36,
-      "scholar_link": ""
-    },
-    {
-      "title": "Sol–gel nanoglues for an organic binder-free TiO2 nanofiber anode for lithium ion batteries",
-      "year": 2013,
-      "citations": 30,
-      "scholar_link": ""
-    },
-    {
-      "title": "Miniaturized Flexible Electronic Systems with Wireless Power and Near‐Field Communication Capabilities",
-      "year": 2015,
-      "citations": 191,
-      "scholar_link": ""
-    },
-    {
-      "title": "Phytochrome-interacting transcription factors PIF4 and PIF5 induce leaf senescence in Arabidopsis",
-      "year": 2014,
-      "citations": 453,
-      "scholar_link": ""
-    },
-    {
-      "title": "Synergetic control of band gap and structural transformation for optimizing TiO2 photocatalysts",
-      "year": 2017,
-      "citations": 53,
-      "scholar_link": ""
-    },
-    {
-      "title": "Low‐Resistance LiFePO<sub>4</sub>Thick Film Electrode Processed with Dry Electrode Technology for High‐Energy‐Density Lithium‐Ion Batteries",
-      "year": 2024,
-      "citations": 76,
-      "scholar_link": ""
-    },
-    {
-      "title": "Encapsulation of S/SWNT with PANI Web for Enhanced Rate and Cycle Performance in Lithium Sulfur Batteries",
-      "year": 2015,
-      "citations": 49,
-      "scholar_link": ""
-    },
-    {
-      "title": "How Does a Registry Change in Dynein’s Coiled-Coil Stalk Drive Binding of Dynein to Microtubules?",
+      "title": "Voriconazole-related severe adverse events: clinical application of therapeutic drug monitoring in Korean patients",
       "year": 2011,
-      "citations": 13,
-      "scholar_link": ""
+      "citations": 65,
+      "scholar_link": "https://doi.org/10.1016/j.ijid.2011.06.004"
     },
     {
-      "title": "Effect of Kinesiolology taping and Posture Stabilizing Exercise on Pain, Craniovertebral Angle, Proprioception in Adults with Forward Head Posture",
-      "year": 2019,
-      "citations": 6,
-      "scholar_link": ""
+      "title": "The Anti-inflammatory and Anti-nociceptive Effects of Ethyl Acetate Fraction of Cynanchi Paniculati Radix",
+      "year": 2006,
+      "citations": 60,
+      "scholar_link": "https://doi.org/10.1248/bpb.29.971"
     },
     {
-      "title": "WO<sub>3</sub>/W:BiVO<sub>4</sub>/BiVO<sub>4</sub> graded photoabsorber electrode for enhanced photoelectrocatalytic solar light driven water oxidation",
-      "year": 2017,
-      "citations": 46,
-      "scholar_link": ""
+      "title": "Predominance of Community-Associated Methicillin-Resistant <i>Staphylococcus aureus</i> Strains Carrying Staphylococcal Chromosome Cassette <i>mec</i> Type IVA in South Korea",
+      "year": 2007,
+      "citations": 60,
+      "scholar_link": "https://doi.org/10.1128/jcm.01147-07"
     },
     {
-      "title": "10 mAh cm<sup>−2</sup> Cathode by Roll‐to‐Roll Process for Low Cost and High Energy Density Li‐Ion Batteries",
-      "year": 2024,
-      "citations": 53,
-      "scholar_link": ""
-    },
-    {
-      "title": "Functionalized interfacial cover design toward pure silicon anode for high power density lithium–ion capacitor",
-      "year": 2024,
-      "citations": 17,
-      "scholar_link": ""
-    },
-    {
-      "title": "Towards high performance Li metal batteries: Surface functionalized graphene separator with improved electrochemical kinetics and stability",
-      "year": 2023,
-      "citations": 17,
-      "scholar_link": ""
-    },
-    {
-      "title": "Stackable, three dimensional carbon–metal oxide composite for high performance supercapacitors",
-      "year": 2015,
-      "citations": 17,
-      "scholar_link": ""
-    },
-    {
-      "title": "Advanced Omni-Directional Mobility System for Human-Friendly Industrial Warehouse Operations",
-      "year": 2025,
-      "citations": 4,
-      "scholar_link": ""
-    },
-    {
-      "title": "Homogeneous Li deposition guided by ultra-thin lithiophilic layer for highly stable anode-free batteries",
-      "year": 2023,
-      "citations": 23,
-      "scholar_link": ""
-    },
-    {
-      "title": "Inorganic Solid‐State Electrolytes for Solid‐State Sodium Batteries: Electrolyte Design and Interfacial Challenges",
-      "year": 2025,
-      "citations": 18,
-      "scholar_link": ""
-    },
-    {
-      "title": "Security Enhanced User Authentication Protocol for Wireless Sensor Networks Using Elliptic Curves Cryptography",
+      "title": "The efficacy of non-carbapenem antibiotics for the treatment of community-onset acute pyelonephritis due to extended-spectrum  -lactamase-producing Escherichia coli",
       "year": 2014,
-      "citations": 216,
-      "scholar_link": ""
+      "citations": 59,
+      "scholar_link": "https://doi.org/10.1093/jac/dku215"
     },
     {
-      "title": "Interfacial Challenges of Halide‐Based All‐Solid‐State Batteries",
-      "year": 2024,
-      "citations": 30,
-      "scholar_link": ""
+      "title": "The draft genome sequence of <i>Arsenophonus nasoniae</i> , son‐killer bacterium of <i>Nasonia vitripennis</i> , reveals genes associated with virulence and symbiosis",
+      "year": 2010,
+      "citations": 59,
+      "scholar_link": "https://doi.org/10.1111/j.1365-2583.2009.00963.x"
     },
     {
-      "title": "Recent Advances in Anode-free Solid-state Batteries: A Review",
-      "year": 2024,
-      "citations": 11,
-      "scholar_link": ""
+      "title": "Impact of vancomycin resistance on mortality in neutropenic patients with enterococcal bloodstream infection: a retrospective study",
+      "year": 2013,
+      "citations": 56,
+      "scholar_link": "https://doi.org/10.1186/1471-2334-13-504"
     },
     {
-      "title": "Phytochrome B inhibits binding of phytochrome‐interacting factors to their target promoters",
+      "title": "Burden of illness, quality of life, and healthcare utilization among patients with herpes zoster in South Korea: a prospective clinical–epidemiological study",
+      "year": 2014,
+      "citations": 51,
+      "scholar_link": "https://doi.org/10.1016/j.ijid.2013.11.018"
+    },
+    {
+      "title": "Epidemiology and Antifungal Susceptibility Profile of <i>Aspergillus</i> Species: Comparison between Environmental and Clinical Isolates from Patients with Hematologic Malignancies",
+      "year": 2019,
+      "citations": 51,
+      "scholar_link": "https://doi.org/10.1128/jcm.02023-18"
+    },
+    {
+      "title": "Epidemiology and Clinical Features of Bloodstream Infections in Hematology Wards: One Year Experience at the Catholic Blood and Marrow Transplantation Center",
+      "year": 2013,
+      "citations": 49,
+      "scholar_link": "https://doi.org/10.3947/ic.2013.45.1.51"
+    },
+    {
+      "title": "Infectious complications following allogeneic stem cell transplantation: reduced‐intensity vs. myeloablative conditioning regimens",
       "year": 2012,
-      "citations": 184,
-      "scholar_link": ""
+      "citations": 46,
+      "scholar_link": "https://doi.org/10.1111/tid.12003"
     },
     {
-      "title": "Uniform Li Deposition through the Graphene-Based Ion-Flux Regulator for High-Rate Li Metal Batteries",
+      "title": "Infectious complications associated with alemtuzumab use for allogeneic hematopoietic stem cell transplantation: comparison with anti‐thymocyte globulin",
+      "year": 2009,
+      "citations": 45,
+      "scholar_link": "https://doi.org/10.1111/j.1399-3062.2009.00414.x"
+    },
+    {
+      "title": "Amikacin therapy for urinary tract infections caused by extended-spectrum β-lactamase-producing &amp;lt;i&amp;gt;Escherichia coli&amp;lt;/i&amp;gt;",
+      "year": 2015,
+      "citations": 45,
+      "scholar_link": "https://doi.org/10.3904/kjim.2016.31.1.156"
+    },
+    {
+      "title": "Comparison of Quantitative Cytomegalovirus Real-time PCR in Whole Blood and pp65 Antigenemia Assay: Clinical Utility of CMV Real-time PCR in Hematopoietic Stem Cell Transplant Recipients",
+      "year": 2009,
+      "citations": 44,
+      "scholar_link": "https://doi.org/10.3346/jkms.2009.24.4.571"
+    },
+    {
+      "title": "Carbapenem-resistant<i>Enterobacteriaceae</i>: Prevalence and Risk Factors in a Single Community-Based Hospital in Korea",
+      "year": 2016,
+      "citations": 40,
+      "scholar_link": "https://doi.org/10.3947/ic.2016.48.3.166"
+    },
+    {
+      "title": "Revised Adult Immunization Guideline Recommended by the Korean Society of Infectious Diseases, 2014",
+      "year": 2015,
+      "citations": 38,
+      "scholar_link": "https://doi.org/10.3947/ic.2015.47.1.68"
+    },
+    {
+      "title": "Evidence-based Guidelines for Empirical Therapy of Neutropenic Fever in Korea",
+      "year": 2011,
+      "citations": 37,
+      "scholar_link": "https://doi.org/10.3947/ic.2011.43.4.285"
+    },
+    {
+      "title": "Therapeutic drug monitoring and safety of intravenous voriconazole formulated with sulfobutylether β‐cyclodextrin in haematological patients with renal impairment",
+      "year": 2016,
+      "citations": 37,
+      "scholar_link": "https://doi.org/10.1111/myc.12517"
+    },
+    {
+      "title": "Tetanus–diphtheria–acellular pertussis vaccination for adults: an update",
+      "year": 2017,
+      "citations": 34,
+      "scholar_link": "https://doi.org/10.7774/cevr.2017.6.1.22"
+    },
+    {
+      "title": "The demanding attention of tuberculosis in allogeneic hematopoietic stem cell transplantation recipients: High incidence compared with general population",
+      "year": 2017,
+      "citations": 34,
+      "scholar_link": "https://doi.org/10.1371/journal.pone.0173250"
+    },
+    {
+      "title": "Breakthrough invasive fungal diseases during voriconazole treatment for aspergillosis: A 5-year retrospective cohort study",
+      "year": 2016,
+      "citations": 33,
+      "scholar_link": "https://doi.org/10.1093/mmy/myw067"
+    },
+    {
+      "title": "Current Trends of Infectious Complications following Hematopoietic Stem Cell Transplantation in a Single Center",
+      "year": 2006,
+      "citations": 29,
+      "scholar_link": "https://doi.org/10.3346/jkms.2006.21.2.199"
+    },
+    {
+      "title": "A Lesson from Temporary Closing of a Single University-affiliated Hospital owing to In-Hospital Transmission of Coronavirus Disease 2019",
+      "year": 2020,
+      "citations": 28,
+      "scholar_link": "https://doi.org/10.3346/jkms.2020.35.e145"
+    },
+    {
+      "title": "Risk factors and clinical impact of COVID-19-associated pulmonary aspergillosis: Multicenter retrospective cohort study",
+      "year": 2022,
+      "citations": 28,
+      "scholar_link": "https://doi.org/10.3904/kjim.2022.069"
+    },
+    {
+      "title": "Surveillance of the infection prevention and control practices of healthcare workers by an infection control surveillance-working group and a team of infection control coordinators during the COVID-19 pandemic",
+      "year": 2021,
+      "citations": 23,
+      "scholar_link": "https://doi.org/10.1016/j.jiph.2021.01.012"
+    },
+    {
+      "title": "Clinical and Laboratory Predictors associated with Complicated Scrub Typhus",
+      "year": 2019,
+      "citations": 22,
+      "scholar_link": "https://doi.org/10.3947/ic.2019.51.2.161"
+    },
+    {
+      "title": "Containment of a healthcare-associated COVID-19 outbreak in a university hospital in Seoul, Korea: A single-center experience",
+      "year": 2020,
+      "citations": 22,
+      "scholar_link": "https://doi.org/10.1371/journal.pone.0237692"
+    },
+    {
+      "title": "The changing epidemiology of herpes zoster over a decade in South Korea, 2006–2015",
+      "year": 2019,
+      "citations": 17,
+      "scholar_link": "https://doi.org/10.1016/j.vaccine.2019.07.086"
+    },
+    {
+      "title": "Recommendations for Adult Immunization by the Korean Society of Infectious Diseases, 2023: Minor Revisions to the 3rd Edition",
       "year": 2024,
       "citations": 12,
-      "scholar_link": ""
+      "scholar_link": "https://doi.org/10.3947/ic.2023.0072"
     },
     {
-      "title": "Privacy-Preserving Machine Learning With Fully Homomorphic Encryption for Deep Neural Network",
-      "year": 2022,
-      "citations": 357,
-      "scholar_link": ""
-    },
-    {
-      "title": "WO3 nanofibrous backbone scaffolds for enhanced optical absorbance and charge transport in metal oxide (Fe2O3, BiVO4) semiconductor photoanodes towards solar fuel generation",
-      "year": 2018,
-      "citations": 21,
-      "scholar_link": ""
-    },
-    {
-      "title": "Dendrite-suppressed Li deposition enabled by surface-tailored carbon-based current collectors for high-rate and stable Li-metal batteries",
-      "year": 2024,
-      "citations": 14,
-      "scholar_link": ""
-    },
-    {
-      "title": "A new CPU cooler design based on an active cooling heatsink combined with heat pipes",
-      "year": 2012,
-      "citations": 86,
-      "scholar_link": ""
-    },
-    {
-      "title": "Graphene-Based Gas Sensors with High Sensitivity and Minimal Sensor-to-Sensor Variation",
-      "year": 2020,
-      "citations": 168,
-      "scholar_link": ""
-    },
-    {
-      "title": "Mitigating PTFE decomposition in ultra thick dry-processed anodes for high energy density lithium-ion batteries",
-      "year": 2024,
-      "citations": 39,
-      "scholar_link": ""
-    },
-    {
-      "title": "Enteritis associated with porcine circovirus 2 in pigs.",
-      "year": 2004,
-      "citations": 103,
-      "scholar_link": ""
-    },
-    {
-      "title": "Freestanding rGO-SWNT-STN Composite Film as an Anode for Li Ion Batteries with High Energy and Power Densities",
-      "year": 2015,
-      "citations": 4,
-      "scholar_link": ""
-    },
-    {
-      "title": "The pharmacological stimulation of Nurr1 improves cognitive functions via enhancement of adult hippocampal neurogenesis",
+      "title": "Immunogenicity and Safety of a Live Attenuated Zoster Vaccine (ZOSTAVAX™) in Korean Adults",
       "year": 2016,
-      "citations": 39,
-      "scholar_link": ""
+      "citations": 9,
+      "scholar_link": "https://doi.org/10.3346/jkms.2016.31.1.13"
     },
     {
-      "title": "Outer Membrane Proteins A (OmpA) and X (OmpX) Are Essential for Basolateral Invasion of <i>Cronobacter sakazakii</i>",
-      "year": 2010,
-      "citations": 170,
-      "scholar_link": ""
-    },
-    {
-      "title": "Size Effect of a Piezoelectric Material as a Separator Coating Layer for Suppressing Dendritic Li Growth in Li Metal Batteries",
-      "year": 2022,
-      "citations": 10,
-      "scholar_link": ""
-    },
-    {
-      "title": "Development of Nurses' Practical Educational Needs Scale for Women with Infertility",
-      "year": 2019,
-      "citations": 5,
-      "scholar_link": ""
-    },
-    {
-      "title": "Differentiation of porcine circovirus (PCV)-1 and PCV-2 in boar semen using a multiplex nested polymerase chain reaction",
-      "year": 2001,
-      "citations": 81,
-      "scholar_link": ""
-    },
-    {
-      "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
-      "year": 2024,
-      "citations": 17,
-      "scholar_link": ""
-    },
-    {
-      "title": "Isovalent multi-component doping strategy for stabilizing cubic-Li7La3Zr2O12 with excellent Li mobility",
-      "year": 2023,
-      "citations": 19,
-      "scholar_link": ""
-    },
-    {
-      "title": "LEGO-like assembly of peelable, deformable components for integrated devices",
-      "year": 2013,
-      "citations": 14,
-      "scholar_link": ""
-    },
-    {
-      "title": "EdNet: A Large-Scale Hierarchical Dataset in Education",
+      "title": "Fungal arthritis with adjacent osteomyelitis caused by Candida pelliculosa: a case report",
       "year": 2020,
-      "citations": 199,
+      "citations": 9,
+      "scholar_link": "https://doi.org/10.1186/s12879-020-05171-8"
+    },
+    {
+      "title": "Effectiveness of a Virtual Reality-based Infection Control Education Program",
+      "year": 2024,
+      "citations": 3,
+      "scholar_link": "https://doi.org/10.7739/jkafn.2024.31.2.234"
+    },
+    {
+      "title": "Application of Infrequent-Restriction-Site Polymerase Reaction (IRS-PCR) to the Molecular Epidemiologic Analysis of Methicillin Resistant<i>Staphylococcus aureus</i>(MRSA)",
+      "year": 2011,
+      "citations": 1,
+      "scholar_link": "https://doi.org/10.3947/ic.2011.43.5.396"
+    },
+    {
+      "title": "Risk-Adapted Preemptive Therapy for Cytomegalovirus Disease after Allogeneic Stem Cell Transplantation: A Single-Center Experience in Korea",
+      "year": 2005,
+      "citations": 36,
+      "scholar_link": "https://doi.org/10.1532/ijh97.a30402"
+    },
+    {
+      "title": "Clinical Impact of Cytochrome P450 2C19 Genotype on the Treatment of Invasive Aspergillosis under Routine Therapeutic Drug Monitoring of Voriconazole in a Korean Population",
+      "year": 2013,
+      "citations": 34,
+      "scholar_link": "https://doi.org/10.3947/ic.2013.45.4.406"
+    },
+    {
+      "title": "Two Cases of Disseminated Mucormycosis in Patients following Allogeneic Bone Marrow Transplantation",
+      "year": 2002,
+      "citations": 31,
+      "scholar_link": "https://doi.org/10.3346/jkms.2002.17.3.403"
+    },
+    {
+      "title": "Dermatophyte abscesses caused by Trichophyton rubrum in a patient without pre-existing superficial dermatophytosis: a case report",
+      "year": 2016,
+      "citations": 30,
+      "scholar_link": "https://doi.org/10.1186/s12879-016-1631-y"
+    },
+    {
+      "title": "A Case of Perianal Abscess due to Panton-Valentine Leukocidin Positive Community-Associated Methicillin-Resistant Staphylococcus aureus : Report in Korea and Literature Review from the Far East",
+      "year": 2008,
+      "citations": 27,
+      "scholar_link": "https://doi.org/10.3947/ic.2008.40.2.121"
+    },
+    {
+      "title": "Immunogenicity and Safety of Diphtheria-tetanus Vaccine in Adults",
+      "year": 2010,
+      "citations": 26,
+      "scholar_link": "https://doi.org/10.3346/jkms.2010.25.12.1727"
+    },
+    {
+      "title": "Molecular Epidemiologic Analysis of Methicillin-Resistant<i>Staphylococcus aureus</i>Isolates from Bacteremia and Nasal Colonization at 10 Intensive Care Units: Multicenter Prospective Study in Korea",
+      "year": 2011,
+      "citations": 24,
+      "scholar_link": "https://doi.org/10.3346/jkms.2011.26.5.604"
+    },
+    {
+      "title": "Immunomodulatory effects of antifungal agents on the response of human monocytic cells to<i>Aspergillus fumigatus</i>conidia",
+      "year": 2010,
+      "citations": 22,
+      "scholar_link": "https://doi.org/10.3109/13693780903471784"
+    },
+    {
+      "title": "Intravenous Itraconazole vs. Amphotericin B Deoxycholate for Empirical Antifungal Therapy in Patients with Persistent Neutropenic Fever",
+      "year": 2006,
+      "citations": 17,
+      "scholar_link": "https://doi.org/10.3904/kjim.2006.21.3.165"
+    },
+    {
+      "title": "Characteristics of culture-positive invasive pulmonary aspergillosis in patients with hematologic diseases",
+      "year": 2017,
+      "citations": 16,
+      "scholar_link": "https://doi.org/10.1097/md.0000000000008841"
+    },
+    {
+      "title": "The Practice Guideline for Vaccinating Korean Patients with Autoimmune Inflammatory Rheumatic Disease",
+      "year": 2020,
+      "citations": 16,
+      "scholar_link": "https://doi.org/10.3947/ic.2020.52.2.252"
+    },
+    {
+      "title": "Cost–benefit Analysis of Posaconazole Versus Fluconazole or Itraconazole as a Primary Antifungal Prophylaxis in High-risk Hematologic Patients: A Propensity Score-matched Analysis",
+      "year": 2015,
+      "citations": 13,
+      "scholar_link": "https://doi.org/10.1016/j.clinthera.2015.06.014"
+    },
+    {
+      "title": "Immunomodulatory effect of mesenchymal stem cells on the immune response of macrophages stimulated by<i>Aspergillus fumigatus</i>conidia",
+      "year": 2016,
+      "citations": 13,
+      "scholar_link": "https://doi.org/10.1093/mmy/myv110"
+    },
+    {
+      "title": "A Phase III Study to Evaluate the Immunogenicity and Safety of GC1107 (Adult Tetanus Diphtheria Vaccine) in Healthy Adults",
+      "year": 2019,
+      "citations": 11,
+      "scholar_link": "https://doi.org/10.3346/jkms.2019.34.e31"
+    },
+    {
+      "title": "Posaconazole Treatment in Korea: Single-Center Experience Over 5 Years",
+      "year": 2013,
+      "citations": 10,
+      "scholar_link": "https://doi.org/10.3349/ymj.2013.54.5.1234"
+    },
+    {
+      "title": "Immunogenicity and safety of a new live attenuated herpes zoster vaccine (NBP608) compared to Zostavax® in healthy adults aged 50 years and older",
+      "year": 2019,
+      "citations": 9,
+      "scholar_link": "https://doi.org/10.1016/j.vaccine.2019.04.046"
+    },
+    {
+      "title": "CRL4 mediates autoubiquitination of DDB1 upon deneddylation inhibition",
+      "year": 2025,
+      "citations": 2,
+      "scholar_link": "https://doi.org/10.1016/j.bbrc.2025.152772"
+    },
+    {
+      "title": "Molecular Epidemiological Analysis of Quinolone‐Resistant<i>Escherichia coli</i>Causing Bacteremia in Neutropenic Patients with Leukemia in Korea",
+      "year": 1997,
+      "citations": 31,
+      "scholar_link": "https://doi.org/10.1086/516132"
+    },
+    {
+      "title": "Application of Infrequent-Restriction-Site PCR to Clinical Isolates of <i>Acinetobacter baumannii</i> and <i>Serratia marcescens</i>",
+      "year": 1999,
+      "citations": 28,
+      "scholar_link": "https://doi.org/10.1128/jcm.37.10.3108-3112.1999"
+    },
+    {
+      "title": "Selective Bowel Decontamination for the Prevention of Infection in Acute Myelogenous Leukemia - A Prospective Randomized Trial",
+      "year": 2002,
+      "citations": 28,
+      "scholar_link": "https://doi.org/10.3904/kjim.2002.17.1.38"
+    },
+    {
+      "title": "Comparison of the Real-time Nucleic Acid Sequence-based Amplification (RTi-NASBA) with Conventional NASBA, and Galactomannan Assay for the Diagnosis of Invasive Aspergillosis",
+      "year": 2007,
+      "citations": 25,
+      "scholar_link": "https://doi.org/10.3346/jkms.2007.22.4.672"
+    },
+    {
+      "title": "Hepatosplenic tuberculosis mimicking disseminated candidiasis in patients with acute leukemia",
+      "year": 2001,
+      "citations": 24,
+      "scholar_link": "https://doi.org/10.1007/bf02981913"
+    },
+    {
+      "title": "Epidemiologic Parameters of the Middle East Respiratory Syndrome Outbreak in Korea, 2015",
+      "year": 2016,
+      "citations": 18,
+      "scholar_link": "https://doi.org/10.3947/ic.2016.48.2.108"
+    },
+    {
+      "title": "Pilot Screening to Determine Antimicrobial Synergies in a Multidrug-Resistant Bacterial Strain Library",
+      "year": 2016,
+      "citations": 15,
+      "scholar_link": "https://doi.org/10.1089/mdr.2015.0251"
+    },
+    {
+      "title": "Downregulation of RNAIII in vancomycin-intermediate Staphylococcus aureus strains regardless of the presence of agr mutation",
+      "year": 2011,
+      "citations": 14,
+      "scholar_link": "https://doi.org/10.1099/jmm.0.035204-0"
+    },
+    {
+      "title": "Clinical Characteristics and Outcomes of Posttransplant Lymphoproliferative Disorders Following Allogeneic Hematopoietic Stem Cell Transplantation in Korea",
+      "year": 2006,
+      "citations": 12,
+      "scholar_link": "https://doi.org/10.3346/jkms.2006.21.2.259"
+    },
+    {
+      "title": "Long-distance esophagogastric submucosal dissection after minimal esophageal trauma of a gastric tube",
+      "year": 2008,
+      "citations": 9,
+      "scholar_link": "https://doi.org/10.1016/j.gie.2007.12.053"
+    },
+    {
+      "title": "Prognosis of Invasive Pulmonary Aspergillosis in Patients with Hematologic Diseases in Korea",
+      "year": 2012,
+      "citations": 7,
+      "scholar_link": "https://doi.org/10.4046/trd.2012.72.3.284"
+    },
+    {
+      "title": "Infection Control Knowledge, Awareness, and Self-confidence in Performance among Nursing and Medical Students in Korea",
+      "year": 2022,
+      "citations": 6,
+      "scholar_link": "https://doi.org/10.14192/kjicp.2022.27.2.168"
+    },
+    {
+      "title": "The changes of central venous pressure by body posture and positive end-expiratory pressure",
+      "year": 2009,
+      "citations": 4,
+      "scholar_link": "https://doi.org/10.4097/kjae.2009.57.6.723"
+    },
+    {
+      "title": "Activities of an infection control surveillance-working group for the infection control and prevention of COVID-19",
+      "year": 2020,
+      "citations": 4,
+      "scholar_link": "https://doi.org/10.5124/jkma.2020.63.9.574"
+    },
+    {
+      "title": "Inhibitor κB and Nuclear Factor κB in Granulocyte‐Macrophage Colony‐Stimulating Factor Antagonism of Dexamethasone Suppression of the Macrophage Response to<i>Aspergillus fumigatus</i>Conidia",
+      "year": 2006,
+      "citations": 26,
+      "scholar_link": "https://doi.org/10.1086/500948"
+    },
+    {
+      "title": "A Prospective Multicenter Study of Community-acquired Pneumonia in Adults with Emphasis on Bacterial Etiology",
+      "year": 2001,
+      "citations": 25,
       "scholar_link": ""
     },
     {
-      "title": "Directing the uniform and dense Li deposition via graphene-enhanced separators for high-stability Li metal batteries",
-      "year": 2024,
+      "title": "Effects of the <i>Schisandra</i> Fructus Water Extract on Cytokine Release from a Human Mast Cell Line",
+      "year": 2006,
+      "citations": 15,
+      "scholar_link": "https://doi.org/10.1089/jmf.2006.9.480"
+    },
+    {
+      "title": "Construction of internal control for the quantitative assay of Aspergillus fumigatus using real-time nucleic acid sequence-based amplification",
+      "year": 2008,
+      "citations": 15,
+      "scholar_link": "https://doi.org/10.1016/j.diagmicrobio.2007.08.001"
+    },
+    {
+      "title": "Molecular analysis of fluoroquinolone-resistance in<i>Escherichia coli</i>on the aspect of gyrase and multiple antibiotic resistance (<i>mar</i>) genes",
+      "year": 1998,
+      "citations": 15,
+      "scholar_link": "https://doi.org/10.3349/ymj.1998.39.6.534"
+    },
+    {
+      "title": "Adult Immunization Schedule Recommended by the Korean Society of Infectious Diseases, 2007",
+      "year": 2008,
+      "citations": 13,
+      "scholar_link": "https://doi.org/10.3947/ic.2008.40.1.1"
+    },
+    {
+      "title": "Use of Time-Saving Flow Cytometry for Rapid Determination of Resistance of Human Cytomegalovirus to Ganciclovir",
+      "year": 2005,
+      "citations": 12,
+      "scholar_link": "https://doi.org/10.1128/jcm.43.10.5003-5008.2005"
+    },
+    {
+      "title": "Immunoassay of Diphtheria and Tetanus according to Ages",
+      "year": 2012,
+      "citations": 11,
+      "scholar_link": "https://doi.org/10.3947/ic.2012.44.2.62"
+    },
+    {
+      "title": "Immunoassay of Pertussis According to Ages",
+      "year": 2012,
+      "citations": 10,
+      "scholar_link": "https://doi.org/10.14776/kjpid.2012.19.2.55"
+    },
+    {
+      "title": "Population pharmacokinetics of intravenous itraconazole in patients with persistent neutropenic fever",
+      "year": 2008,
+      "citations": 9,
+      "scholar_link": "https://doi.org/10.1111/j.1365-2710.2008.00999.x"
+    },
+    {
+      "title": "The Meaning and Impact of Appropriate Use of Antibiotics",
+      "year": 2012,
+      "citations": 8,
+      "scholar_link": "https://doi.org/10.3947/ic.2012.44.5.331"
+    },
+    {
+      "title": "Infections in Patients with Acute Leukemia: Comparison of Induction Chemotherapy Group and Reinduction Chemotherapy Group",
+      "year": 2003,
       "citations": 8,
       "scholar_link": ""
     },
     {
-      "title": "ABA-INSENSITIVE3, ABA-INSENSITIVE5, and DELLAs Interact to Activate the Expression of<i>SOMNUS</i>and Other High-Temperature-Inducible Genes in Imbibed Seeds in<i>Arabidopsis</i> ",
+      "title": "Characteristics of Cytomegalovirus Diseases among Hematopoietic Stem Cell Transplant Recipients : A 10-year Experience at an University Hospital in Korea",
+      "year": 2009,
+      "citations": 7,
+      "scholar_link": "https://doi.org/10.3947/ic.2009.41.1.9"
+    },
+    {
+      "title": "Clinical characteristics and the usefulness of the QuantiFERON-TB Gold In-Tube test in hematologic patients with hepatic or splenic lesions",
       "year": 2013,
-      "citations": 235,
-      "scholar_link": ""
+      "citations": 7,
+      "scholar_link": "https://doi.org/10.3904/kjim.2013.28.2.187"
     },
     {
-      "title": "Regulating Li electrodeposition by constructing Cu–Sn nanotube thin layer for reliable and robust anode‐free all‐solid‐state batteries",
-      "year": 2024,
-      "citations": 15,
-      "scholar_link": ""
-    },
-    {
-      "title": "A multifunctional network binder enables stable and high performance of silicon-based anode in lithium-ion battery",
-      "year": 2023,
-      "citations": 15,
-      "scholar_link": ""
-    },
-    {
-      "title": "Temperature dependence of the interfacial magnetic anisotropy in W/CoFeB/MgO",
-      "year": 2017,
-      "citations": 86,
-      "scholar_link": ""
-    },
-    {
-      "title": "Development of Annealing-Free, Solution-Processable Inverted Organic Solar Cells with N-Doped Graphene Electrodes using Zinc Oxide Nanoparticles",
-      "year": 2018,
-      "citations": 94,
-      "scholar_link": ""
-    },
-    {
-      "title": "GeSbTe deposition for the PRAM application",
-      "year": 2006,
-      "citations": 74,
-      "scholar_link": ""
-    },
-    {
-      "title": "Electrically conductive metal oxide-Assisted multifunctional separator for highly stable Lithium-Metal batteries",
-      "year": 2023,
-      "citations": 9,
-      "scholar_link": ""
-    },
-    {
-      "title": "A Novel High‐Performance TiO<sub>2‐x</sub>/TiO<sub>1‐y</sub>N<sub>y</sub> Coating Material for Silicon Anode in Lithium‐Ion Batteries",
-      "year": 2022,
-      "citations": 16,
-      "scholar_link": ""
-    },
-    {
-      "title": "Particle filtering on the Euclidean group: framework and applications",
-      "year": 2007,
-      "citations": 64,
-      "scholar_link": ""
-    },
-    {
-      "title": "Postweaning Multisystemic Wasting Syndrome of Pigs in Korea: Prevalence, Microscopic Lesions and Coexisting Microorganisms.",
-      "year": 2002,
-      "citations": 103,
-      "scholar_link": ""
-    },
-    {
-      "title": "Suppressed Interdiffusion and Degradation in Flexible and Transparent Metal Electrode-Based Perovskite Solar Cells with a Graphene Interlayer",
-      "year": 2020,
-      "citations": 98,
-      "scholar_link": ""
-    },
-    {
-      "title": "Three-dimensional Gd-doped TiO<sub>2</sub> fibrous photoelectrodes for efficient visible light-driven photocatalytic performance",
-      "year": 2014,
-      "citations": 33,
-      "scholar_link": ""
-    },
-    {
-      "title": "Impaired Memory in OT-II Transgenic Mice Is Associated with Decreased Adult Hippocampal Neurogenesis Possibly Induced by Alteration in Th2 Cytokine Levels",
-      "year": 2016,
-      "citations": 21,
-      "scholar_link": ""
-    },
-    {
-      "title": "Anode interface-stabilizing dry process employing a binary binder system for ultra-thick and durable battery electrode fabrication",
-      "year": 2024,
-      "citations": 21,
-      "scholar_link": ""
-    },
-    {
-      "title": "Smart Compositional Design of B‐Site Ordered Double Perovskite for Advanced Oxygen Catalysis at Ultra‐High Current Densities",
-      "year": 2024,
-      "citations": 9,
-      "scholar_link": ""
-    },
-    {
-      "title": "Toward Functional 3D Architectured Platform: Advanced Approach to Anchor Functional Metal Oxide onto 3D Printed Scaffold",
-      "year": 2017,
+      "title": "Analysis of Invasive Fungal Infection after Hematopoietic Stem Cell Transplantation or Chemotherapy in Patients with Hematologic Diseases",
+      "year": 2004,
       "citations": 7,
       "scholar_link": ""
     },
     {
-      "title": "Simultaneous Detection and Differentiation between Porcine Circovirus and Porcine Parvovirus in Boar Semen by Multiplex Seminested Polymerase Chain Reaction",
-      "year": 2003,
-      "citations": 59,
-      "scholar_link": ""
-    },
-    {
-      "title": "Concentration Gradient Induced Delithiation Failure of MoO<sub>3</sub> for Li-Ion Batteries",
-      "year": 2022,
-      "citations": 18,
-      "scholar_link": ""
-    },
-    {
-      "title": "Dry electrode technology: A new processing paradigm for enhancing performance and sustainability in lithium-based batteries",
-      "year": 2025,
-      "citations": 10,
-      "scholar_link": ""
-    },
-    {
-      "title": "Femtosecond laser bonding of glasses and ion migration in the interface",
-      "year": 2010,
-      "citations": 12,
-      "scholar_link": ""
-    },
-    {
-      "title": "Flexible Organic Solar Cells Over 15% Efficiency with Polyimide-Integrated Graphene Electrodes",
-      "year": 2020,
-      "citations": 234,
-      "scholar_link": ""
-    },
-    {
-      "title": "Ion-flux-boosted polyimide separators via synergistic pore and surface charge engineering for highly stable Li- and Na-metal batteries",
-      "year": 2025,
-      "citations": 5,
-      "scholar_link": ""
-    },
-    {
-      "title": "A Novel Structured Si‐Based Composite with 2D Structured Graphite for High‐Performance Lithium‐Ion Batteries",
-      "year": 2024,
-      "citations": 20,
-      "scholar_link": ""
-    },
-    {
-      "title": "In-situ local phase-transitioned MoSe2 in La0.5Sr0.5CoO3-δ heterostructure and stable overall water electrolysis over 1000 hours",
-      "year": 2019,
-      "citations": 186,
-      "scholar_link": ""
-    },
-    {
-      "title": "Cell-penetrating peptide (CPP)-conjugated proteins is an efficient tool for manipulation of human mesenchymal stromal cells",
-      "year": 2014,
-      "citations": 59,
-      "scholar_link": ""
-    },
-    {
-      "title": "Environmentally-harmless polylactic acid-polyethylene glycol binder for deformable ceramic green body",
+      "title": "Lower Respiratory Tract Diseases Caused by Common Respiratory Viruses among Stem Cell Transplantation Recipients: A Single Center Experience in Korea",
       "year": 2017,
       "citations": 6,
-      "scholar_link": ""
+      "scholar_link": "https://doi.org/10.3349/ymj.2017.58.2.362"
     },
     {
-      "title": "STEP-based feature recognition for manufacturing cost optimization",
-      "year": 2001,
-      "citations": 35,
-      "scholar_link": ""
-    },
-    {
-      "title": "A 6–18-GHz GaN Reactively Matched Distributed Power Amplifier Using Simplified Bias Network and Reduced Thermal Coupling",
-      "year": 2018,
-      "citations": 57,
-      "scholar_link": ""
-    },
-    {
-      "title": "Depth Camera-Based 3D Hand Gesture Controls with Immersive Tactile Feedback for Natural Mid-Air Gesture Interactions",
-      "year": 2015,
-      "citations": 56,
-      "scholar_link": ""
-    },
-    {
-      "title": "From Simulated Dynamics to Real Robots in Virtual Worlds: Reproducing and Extending Navigation Policies via XR-in-the-Loop Evaluation",
-      "year": 2025,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Towards ultra-stable and dendrite-suppressed Li-metal batteries: Ion-regulating graphene-modified separators",
-      "year": 2024,
-      "citations": 9,
-      "scholar_link": ""
-    },
-    {
-      "title": "Improved Charge Carrier Dynamics by Unconventional Doping Strategy for BiVO<sub>4</sub> Photoanode",
-      "year": 2025,
-      "citations": 5,
-      "scholar_link": ""
-    },
-    {
-      "title": "3DIV: A 3D-genome Interaction Viewer and database",
-      "year": 2017,
-      "citations": 142,
-      "scholar_link": ""
-    },
-    {
-      "title": "Investigation of MEA degradation in PEM fuel cell by on/off cyclic operation under different humid conditions",
-      "year": 2010,
-      "citations": 74,
-      "scholar_link": ""
-    },
-    {
-      "title": "In-situ coalesced vacancies on MoSe2 mimicking noble metal: Unprecedented Tafel reaction in hydrogen evolution",
-      "year": 2019,
-      "citations": 58,
-      "scholar_link": ""
-    },
-    {
-      "title": "Solution‐Processed Reduced Graphene Oxide Films as Electronic Contacts for Molecular Monolayer Junctions",
+      "title": "Efficacy of Vancomycin against<i>Staphylococcus aureus</i>according to Inoculum Size in a Neutropenic Mouse Infection Model",
       "year": 2011,
-      "citations": 64,
-      "scholar_link": ""
+      "citations": 5,
+      "scholar_link": "https://doi.org/10.3947/ic.2011.43.3.251"
     },
     {
-      "title": "Calbindin-D28K prevents drug-induced dopaminergic neuronal death by inhibiting caspase and calpain activity",
-      "year": 2008,
-      "citations": 48,
-      "scholar_link": ""
-    },
-    {
-      "title": "A Comparative Study between American Public Health Nurse Core Competency and Community Health Nursing Practicum in a Province",
-      "year": 2017,
+      "title": "Measuring herpes zoster and post-herpetic neuralgia associated burden of illness and health care utilization and costs in Korea: A clinical epidemiological study",
+      "year": 2012,
       "citations": 4,
-      "scholar_link": ""
+      "scholar_link": "https://doi.org/10.1016/j.ijid.2012.05.255"
     },
     {
-      "title": "Mediating effects of Critical Thinking Propensity between Perception of Patient Safety Culture and Practice of Standard Precaution of Nurses in Small and Medium Hospitals",
+      "title": "Safety and immunogenicity of a seasonal quadrivalent influenza vaccine (GC3110A) in healthy participants aged ≥ 65 years",
+      "year": 2021,
+      "citations": 4,
+      "scholar_link": "https://doi.org/10.1016/j.vaccine.2021.05.001"
+    },
+    {
+      "title": "Once-Daily Gentamicin Administration for Community-Associated Methicillin Resistant<i>Staphylococcus aureus</i>in an<i>in vitro</i>Pharmacodynamic Model: Preliminary Reports for the Advantages for Optimizing Pharmacodynamic Index",
+      "year": 2010,
+      "citations": 6,
+      "scholar_link": "https://doi.org/10.3349/ymj.2010.51.5.722"
+    },
+    {
+      "title": "Korean Registry for Improving Sepsis Survival (KISS): Protocol for a Multicenter Cohort of Adult Patients with Sepsis or Septic Shock",
+      "year": 2020,
+      "citations": 5,
+      "scholar_link": "https://doi.org/10.3947/ic.2020.52.1.31"
+    },
+    {
+      "title": "Risk-Adapted Preemptive Therapy for Cytomegalovirus Disease after Allogeneic Stem Cell Transplantation: A Single-Center Experience in Korea",
+      "year": 2006,
+      "citations": 4,
+      "scholar_link": "https://doi.org/10.1007/bf02985486"
+    },
+    {
+      "title": "The mTOR‐4E‐BP1 axis controls microglia inflammatory and neurodegenerative responses",
       "year": 2024,
       "citations": 1,
-      "scholar_link": ""
+      "scholar_link": "https://doi.org/10.1002/alz.087688"
     },
     {
-      "title": "Long-term effectiveness of non-surgical interventions for chronic low back pain: a systematic review and meta-analysis",
+      "title": "No evidence that human GIGYF2 interacts with GRB10: implications for human disease",
       "year": 2025,
-      "citations": 13,
-      "scholar_link": ""
-    },
-    {
-      "title": "Polyanion-assisted ionic-electronic conductive agents designed for high density Si-based anodes",
-      "year": 2022,
-      "citations": 13,
-      "scholar_link": ""
-    },
-    {
-      "title": "Sequential application of plasma-activated water and mild heating improves microbiological quality of ready-to-use shredded salted kimchi cabbage (Brassica pekinensis L.)",
-      "year": 2018,
-      "citations": 123,
-      "scholar_link": ""
-    },
-    {
-      "title": "Prevalence of the enteroaggregative Escherichia coli heat-stable enterotoxin 1 (EAST1) gene in isolates in weaned pigs with diarrhea and/or edema disease",
-      "year": 2001,
-      "citations": 66,
-      "scholar_link": ""
-    },
-    {
-      "title": "Effects of Motor Imagery Training and Balance Training on Static Balance: A Quasi-Experimental Study",
-      "year": 2020,
       "citations": 1,
+      "scholar_link": "https://doi.org/10.26508/lsa.202503334"
+    },
+    {
+      "title": "Itraconazole Oral Solution versus Fluconazole Syrup for Prevention of Invasive Fungal Infections in Patients Receiving Hematopoietic Stem Cell Transplantation: Prospective, Randomized, Comparative Clinical Trial",
+      "year": 2005,
+      "citations": 8,
       "scholar_link": ""
     },
     {
-      "title": "PIF1-Interacting Transcription Factors and Their Binding Sequence Elements Determine the in Vivo Targeting Sites of PIF1",
-      "year": 2016,
-      "citations": 92,
+      "title": "Recent Evidences of Sepsis Treatment",
+      "year": 2008,
+      "citations": 4,
+      "scholar_link": "https://doi.org/10.3947/ic.2008.40.2.67"
+    },
+    {
+      "title": "Comment on: A survey of community-associated methicillin-resistant Staphylococcus aureus in Korea",
+      "year": 2008,
+      "citations": 4,
+      "scholar_link": "https://doi.org/10.1093/jac/dkn135"
+    },
+    {
+      "title": "[Bacterial translocation in liver cirrhosis].",
+      "year": 2005,
+      "citations": 3,
       "scholar_link": ""
     },
     {
-      "title": "All-solid-state spatial light modulator with independent phase and amplitude control for three-dimensional LiDAR applications",
+      "title": "Effect of Occupational Activities of Mother to Fetus, Newborn Infant, and Delivery Methode",
+      "year": 2012,
+      "citations": 2,
+      "scholar_link": "https://doi.org/10.5392/jkca.2012.12.01.346"
+    },
+    {
+      "title": "Efficacies of Teicoplanin in Patients with Febrile Neutropenia",
+      "year": 2004,
+      "citations": 2,
+      "scholar_link": ""
+    },
+    {
+      "title": "Characteristics of Respiratory Tract Infection in the Hematopoietic Stem Cell Transplantation Population",
+      "year": 2001,
+      "citations": 2,
+      "scholar_link": ""
+    },
+    {
+      "title": "The Practice Guideline for Vaccinating Korean Patients With Autoimmune Inflammatory Rheumatic Disease",
       "year": 2020,
-      "citations": 428,
+      "citations": 2,
+      "scholar_link": "https://doi.org/10.4078/jrd.2020.27.3.182"
+    },
+    {
+      "title": "Analysis of a COVID-19 Prescreening Process in an Outpatient Clinic at a University Hospital during the COVID-19 Pandemic",
+      "year": 2021,
+      "citations": 2,
+      "scholar_link": "https://doi.org/10.3346/jkms.2021.36.e295"
+    },
+    {
+      "title": "Efficacy and Safety of Micafungin for Prophylaxis of Invasive Fungal Infection in Hematopoietic Stem Cell Transplantation Recipients",
+      "year": 2010,
+      "citations": 1,
+      "scholar_link": "https://doi.org/10.3947/ic.2010.42.3.149"
+    },
+    {
+      "title": "Dose Change according to Diameter Change of the Cone for Dental X-ray Apparatus",
+      "year": 2010,
+      "citations": 1,
+      "scholar_link": "https://doi.org/10.5392/jkca.2010.10.3.266"
+    },
+    {
+      "title": "Erratum: Carbapenem-Resistant <i>Enterobacteriaceae</i>: Prevalence and Risk Factors in a Single Community-Based Hospital in Korea",
+      "year": 2019,
+      "citations": 1,
+      "scholar_link": "https://doi.org/10.3947/ic.2019.51.4.435"
+    },
+    {
+      "title": "A Case of Disseminated Cryptococcosis in an Immunocompetent Adult",
+      "year": 2004,
+      "citations": 2,
       "scholar_link": ""
     },
     {
       "title": "Dysregulating mTORC1-4E-BP2 signaling in GABAergic interneurons impairs hippocampus-dependent learning and memory",
       "year": 2024,
       "citations": 6,
-      "scholar_link": ""
+      "scholar_link": "https://doi.org/10.1101/lm.054018.124"
     },
     {
-      "title": "Beyond the Limits of Lithium Iron Phosphate: Cutting‐Edge Innovations Toward High Performance and Sustainability for Next‐Generation Batteries",
-      "year": 2025,
+      "title": "시험관내 약역학 감염모델을 이용한 Methicillin 내성 포도알균 실험 중 출현한 Small Colony Variants 생성억제를 위한 Arbekacin의 효과",
+      "year": 2006,
       "citations": 3,
       "scholar_link": ""
     },
     {
-      "title": "Stable operation of highly loaded pure Si-Fe anode under ambient pressure via carboxy silane-directed robust solid electrolyte interphase",
+      "title": "Translational control of microglial inflammatory and neurodegenerative responses",
       "year": 2024,
-      "citations": 9,
-      "scholar_link": ""
-    },
-    {
-      "title": "Security Enhanced Anonymous Multiserver Authenticated Key Agreement Scheme Using Smart Cards and Biometrics",
-      "year": 2014,
-      "citations": 40,
-      "scholar_link": ""
-    },
-    {
-      "title": "Silicon-Stabilized Lithium Metal Powder (Slmp) Composite Anodes for Fast Charging by In-Situ Prelithiation",
-      "year": 2023,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Coordinated Steering Angle and Yaw Moment Distribution to Increase Vehicle Regenerative Energy in Autonomous Driving",
-      "year": 2022,
       "citations": 3,
-      "scholar_link": ""
+      "scholar_link": "https://doi.org/10.1101/2024.04.06.587750"
     },
     {
-      "title": "PSI-CNN: A Pyramid-Based Scale-Invariant CNN Architecture for Face Recognition Robust to Various Image Resolutions",
-      "year": 2018,
-      "citations": 30,
-      "scholar_link": ""
-    },
-    {
-      "title": "A Strategic Approach to Use Upcycled Si Nanomaterials for Stable Operation of Lithium-Ion Batteries",
-      "year": 2021,
-      "citations": 6,
-      "scholar_link": ""
-    },
-    {
-      "title": "Mechanical Effects of Back Supporting Beam of Assembled Earth Retaining Wall on Field Model Tests Results",
-      "year": 2017,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Photopatterned microswimmers with programmable motion without external stimuli",
-      "year": 2021,
-      "citations": 51,
-      "scholar_link": ""
-    },
-    {
-      "title": "Review on atomistic and quantum mechanical simulation approaches in chemical mechanical planarization",
-      "year": 2025,
+      "title": "Prevalence of Human Herpesvirus-6B in Korean Hematopoietic Stem Cell Transplantation Recipients",
+      "year": 2003,
       "citations": 2,
-      "scholar_link": ""
+      "scholar_link": "https://doi.org/10.1016/s1016-8478(23)13806-4"
     },
     {
-      "title": "Acute Hemodynamic Effects of Recruitment Maneuvers in Patients With Acute Respiratory Distress Syndrome",
-      "year": 2009,
-      "citations": 6,
-      "scholar_link": ""
-    },
-    {
-      "title": "Achieving Cycling Stability in Anode of Lithium-Ion Batteries with Silicon-Embedded Titanium Oxynitride Microsphere",
-      "year": 2022,
-      "citations": 7,
-      "scholar_link": ""
-    },
-    {
-      "title": "Considering cell volume in dopant screening for improving Li-ion mobility in an amorphous LiPON solid-state electrolyte: an <i>ab initio</i> study",
-      "year": 2023,
-      "citations": 2,
-      "scholar_link": ""
-    },
-    {
-      "title": "Cocrystal Prediction Using Machine Learning Models and Descriptors",
-      "year": 2021,
-      "citations": 60,
-      "scholar_link": ""
-    },
-    {
-      "title": "The complete chloroplast genome of the medicinal plant <i>Lysimachia mauritiana</i> (Lamarck, 1792)",
-      "year": 2022,
-      "citations": 28,
-      "scholar_link": ""
-    },
-    {
-      "title": "A 6–18-GHz Switchless Reconfigurable Dual-Band Dual-Mode PA MMIC Using Coupled-Line-Based Diplexer",
-      "year": 2018,
-      "citations": 25,
-      "scholar_link": ""
-    },
-    {
-      "title": "Synergistic enhancement of microstructural homogeneity and mechanical strength in SiOx@C anodes via a graphene nanoribbon-based conductive agent",
-      "year": 2025,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Myricetin inhibits advanced glycation end product (AGE)-induced migration of retinal pericytes through phosphorylation of ERK1/2, FAK-1, and paxillin in vitro and in vivo",
-      "year": 2014,
-      "citations": 37,
-      "scholar_link": ""
-    },
-    {
-      "title": "High‐Energy‐Density Li‐Ion Batteries Employing Gradient Porosity LiFePO<sub>4</sub> Electrode for Enhancing Li‐Ion Kinetics and Electron Transfer",
-      "year": 2025,
-      "citations": 7,
-      "scholar_link": ""
-    },
-    {
-      "title": "Synthesis and characterization of IMPY derivatives that regulate metal-induced amyloid-β aggregation",
-      "year": 2011,
-      "citations": 40,
-      "scholar_link": ""
-    },
-    {
-      "title": "The Interrelationships between Intestinal Permeability and Phlegm Syndrome and Therapeutic Potential of Some Medicinal Herbs",
-      "year": 2021,
-      "citations": 16,
-      "scholar_link": ""
-    },
-    {
-      "title": "Study of Cooling Rate on the Growth of Graphene via Chemical Vapor Deposition",
-      "year": 2017,
-      "citations": 38,
-      "scholar_link": ""
-    },
-    {
-      "title": "De novo cancer incidence after kidney and liver transplantation: Results from a nationwide population based data",
-      "year": 2019,
-      "citations": 45,
-      "scholar_link": ""
-    },
-    {
-      "title": "Validation of algal viability treated with total residual oxidant and organic matter by flow cytometry",
-      "year": 2015,
-      "citations": 14,
-      "scholar_link": ""
-    },
-    {
-      "title": "$W$ -Band Backward Distributed Frequency Doubler Using GaAs 0.15-$\\mu$ m pHEMT Process",
-      "year": 2019,
-      "citations": 12,
-      "scholar_link": ""
-    },
-    {
-      "title": "Molecular subtypes of pancreatic cancer based on miRNA expression profiles have independent prognostic value",
-      "year": 2015,
-      "citations": 59,
-      "scholar_link": ""
-    },
-    {
-      "title": "The relationship between metabolic syndrome and the incidence of colorectal cancer",
-      "year": 2020,
-      "citations": 51,
-      "scholar_link": ""
-    },
-    {
-      "title": "[Factors influencing the utilization of visiting nursing and home-help services].",
-      "year": 2002,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Possible Risk Factors and Clinical Effects of Opaque Bubble Layer in Small Incision Lenticule Extraction (SMILE)",
-      "year": 2017,
-      "citations": 34,
-      "scholar_link": ""
-    },
-    {
-      "title": "Mechanochemistry-Driven Optimization of Halide-Based Solid-State Electrolytes via Orthogonal Design of Experiments and Regression Modeling",
-      "year": 2026,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Self-Powered Ultraviolet–Visible Transparent Photodetector Based on Mo-Doped BiVO<sub>4</sub> Thin Films",
-      "year": 2023,
-      "citations": 19,
-      "scholar_link": ""
-    },
-    {
-      "title": "Harvesting blue energy via flow-electrode capacitive mixing (F-CapMix): From fundamental understanding to scalable power generation",
-      "year": 2025,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Detection and Differentiation of North American and European Genotypes of Porcine Reproductive and Respiratory Syndrome Virus in Formalin-Fixed, Paraffin-Embedded Tissues by Multiplex Reverse Transcription-Nested Polymerase Chain Reaction",
-      "year": 2002,
-      "citations": 16,
-      "scholar_link": ""
-    },
-    {
-      "title": "Drug Properties Prediction Based on Deep Learning",
-      "year": 2022,
-      "citations": 12,
-      "scholar_link": ""
-    },
-    {
-      "title": "Multiresidue method for the quantitation of 20 pesticides in aquatic products",
-      "year": 2015,
-      "citations": 26,
-      "scholar_link": ""
-    },
-    {
-      "title": "Efficacy and safety of prone position in COVID-19 patients with respiratory failure: a systematic review and meta-analysis",
-      "year": 2022,
-      "citations": 20,
-      "scholar_link": ""
-    },
-    {
-      "title": "Neurocognitive Changes and Their Neural Correlates in Patients with Type 2 Diabetes Mellitus",
-      "year": 2014,
-      "citations": 39,
-      "scholar_link": ""
-    },
-    {
-      "title": "Characterization of altered molecular mechanisms in Parkinson’s disease through cell type–resolved multiomics analyses",
-      "year": 2023,
-      "citations": 89,
-      "scholar_link": ""
-    },
-    {
-      "title": "Toward All‐Vacuum‐Processable Perovskite Solar Cells with High Efficiency, Stability, and Scalability Enabled by Fluorinated Spiro‐OMeTAD through Thermal Evaporation",
-      "year": 2021,
-      "citations": 25,
-      "scholar_link": ""
-    },
-    {
-      "title": "Evaluation of exposure to cyanogenic glycosides and potential hydrogen cyanide release in commercially available foods among the Korean population",
-      "year": 2024,
-      "citations": 18,
-      "scholar_link": ""
-    },
-    {
-      "title": "Effects of gate dielectric composition on the performance of organic thin-film devices",
-      "year": 2012,
-      "citations": 21,
-      "scholar_link": ""
-    },
-    {
-      "title": "Dependence of the mechanical properties of nanohoneycomb structures on porosity",
+      "title": "Effects of antifungal agents on the production of cytokines from macrophages stimulated by Aspergillus fumigatus conidia",
       "year": 2007,
-      "citations": 30,
-      "scholar_link": ""
+      "citations": 1,
+      "scholar_link": "https://doi.org/10.1186/cc6032"
     },
     {
-      "title": "Nafion-Mediated Liquid-Phase Exfoliation of Transition Metal Dichalcogenides and Direct Application in Hydrogen Evolution Reaction",
-      "year": 2018,
-      "citations": 38,
-      "scholar_link": ""
+      "title": "Postantibiotic Effect of Ceftriaxone and Amikacin on <i>Klebsiella Pneumoniae</i> ATCC 43816",
+      "year": 1999,
+      "citations": 1,
+      "scholar_link": "https://doi.org/10.12793/jkscpt.1999.7.1.49"
     },
     {
-      "title": "Improved interface control for high-performance graphene-based organic solar cells",
-      "year": 2017,
-      "citations": 22,
-      "scholar_link": ""
+      "title": "Effects of a Worker’s Height and the Height of a Worktable on Subjective Discomfort Ratings and Muscle Strength During Pronation and Supination of Forearms",
+      "year": 2012,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.21184/jkeia.2012.06.6.2.113"
     },
     {
-      "title": "A highly robust and stable graphene-encapsulated Cu-grid hybrid transparent electrode demonstrating superior performance in organic solar cells",
-      "year": 2018,
-      "citations": 27,
-      "scholar_link": ""
+      "title": "<scp>P16</scp>.03: Disseminated trophoblastic peritoneal implants at uterine muscle, ovary, and peritoneal wall after dilatation and curettage",
+      "year": 2013,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.1002/uog.13121"
     },
     {
-      "title": "The effect of the graphene integration process on the performance of graphene-based Schottky junction solar cells",
-      "year": 2017,
-      "citations": 19,
-      "scholar_link": ""
+      "title": "863-4 Changes of preload-independent doppler indices in hemodialysis patients",
+      "year": 2004,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.1016/s0735-1097(04)91571-9"
     },
     {
-      "title": "Ultrasensitive Bioelectronic Tongue Based on the Venus Flytrap Domain of a Human Sweet Taste Receptor",
-      "year": 2022,
-      "citations": 33,
-      "scholar_link": ""
+      "title": "Performance Change in Medical X-ray Image Intensifier Tube Depending on Terms of Use",
+      "year": 2010,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.5392/jkca.2010.10.7.253"
     },
     {
-      "title": "Persicarin from water dropwort (<i>Oenanthe javanica</i>) protects primary cultured rat cortical cells from glutamate‐induced neurotoxicity",
-      "year": 2009,
-      "citations": 47,
-      "scholar_link": ""
-    },
-    {
-      "title": "High-Efficiency Power Amplifier Using an Active Second-Harmonic Injection Technique Under Optimized Third-Harmonic Termination",
+      "title": "STUDY ON ENTRANCE SKIN DOSE AT PANORAMIC RADIOGRAPHY IN INCHEON, KOREA",
       "year": 2014,
-      "citations": 35,
-      "scholar_link": ""
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.14407/jrp.2014.39.4.182"
     },
     {
-      "title": "2018 Guidelines for the management of dyslipidemia",
+      "title": "Outcome of Surgical Resection for Invasive Pulmonary Fungal Diseases in Patients with Acute Leukemia",
+      "year": 2010,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.3947/ic.2010.42.6.383"
+    },
+    {
+      "title": "A Case of Disseminated Aspergillosis Presenting Solely as Multiple Cutaneous Lesions in an Acute Leukemia Patient",
+      "year": 2010,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.3947/ic.2010.42.4.244"
+    },
+    {
+      "title": "The Effect of Application Parameter of Pulsed Direct Current on Wound Healing of Patients with Pressure Ulcer",
+      "year": 2014,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.5854/jiaptr.2014.10.31.752"
+    },
+    {
+      "title": "Empirical Treatment of Enterobacteriaceae Bacteremia in Febrile Neutropenic Patient: Carbapenem May Not Improve Survival Compared With Combination of Cefepime With Isepamicin",
+      "year": 2016,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.1093/ofid/ofw172.757"
+    },
+    {
+      "title": "2675. Changing Epidemiology of Bloodstream Infection During Chemotherapy for Acute Leukemia: Impact of Prophylactic Fluoroquinolone Restriction and Carbapenem Saving Strategy",
       "year": 2019,
-      "citations": 211,
-      "scholar_link": ""
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.1093/ofid/ofz360.2353"
     },
     {
-      "title": "Atmospheric Pressure Plasma Irradiation Facilitates Transdermal Permeability of Aniline Blue on Porcine Skin and the Cellular Permeability of Keratinocytes with the Production of Nitric Oxide",
+      "title": "The Author's Response: a Lesson from Temporary Closing of a Single University-affiliated Hospital owing to In-Hospital Transmission of Coronavirus Disease 2019",
+      "year": 2020,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.3346/jkms.2020.35.e160"
+    },
+    {
+      "title": "Synergism Between Ceftriaxone and Amikacin Against a Intermediately Resistant <i>Klebsiella pneumoniae</i> Strain Tested by an in Vitro Pharmacokinetic Model",
+      "year": 1999,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.12793/jkscpt.1999.7.1.40"
+    },
+    {
+      "title": "The Relationship between Carbonated Drink Intake and Behavioral Characteristics of Elementary School Students: -Focused on the 11th Panel Study on Korean Children-",
       "year": 2021,
-      "citations": 16,
-      "scholar_link": ""
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.21483/qwoaud.54..202112.141"
     },
     {
-      "title": "Complete Genome Sequence of Cronobacter sakazakii Temperate Bacteriophage phiES15",
-      "year": 2012,
-      "citations": 16,
-      "scholar_link": ""
-    },
-    {
-      "title": "Multilevel conductance switching for a monolayer of redox-active metal complexes through various metallic contacts",
-      "year": 2011,
-      "citations": 13,
-      "scholar_link": ""
-    },
-    {
-      "title": "Time Transient Electrochemical Monitoring of Tetraalkylammonium Polybromide Solid Particle Formation: Observation of Ionic Liquid-to-Solid Transitions",
-      "year": 2019,
-      "citations": 24,
-      "scholar_link": ""
-    },
-    {
-      "title": "Evaluation of residual toxicity of hypochlorite-treated water using bioluminescent microbes and microalgae: Implications for ballast water management",
-      "year": 2018,
-      "citations": 24,
-      "scholar_link": ""
-    },
-    {
-      "title": "Metal-organic frameworks for high-performance cathodes in batteries",
-      "year": 2024,
-      "citations": 16,
-      "scholar_link": ""
-    },
-    {
-      "title": "Microcantilevers with Nanochannels",
-      "year": 2008,
-      "citations": 35,
-      "scholar_link": ""
-    },
-    {
-      "title": "Wave Observation Methods using High-frequency Ocean Radar",
-      "year": 2020,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Face Recognition Based on ICA Combined with FLD",
-      "year": 2002,
-      "citations": 13,
-      "scholar_link": ""
-    },
-    {
-      "title": "Early intubation and clinical outcomes in patients with severe COVID-19: a systematic review and meta-analysis",
-      "year": 2022,
-      "citations": 16,
-      "scholar_link": ""
-    },
-    {
-      "title": "Potential release of nano-carbon black from tire-wear particles through the weathering effect",
-      "year": 2021,
-      "citations": 38,
-      "scholar_link": ""
-    },
-    {
-      "title": "Structurally disordered lithiophilic graphene via solid-state exfoliation enables reversible lithium deposition with fast kinetics",
-      "year": 2025,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "The oligomeric status of syndecan-4 regulates syndecan-4 interaction with α-actinin",
-      "year": 2008,
-      "citations": 31,
-      "scholar_link": ""
-    },
-    {
-      "title": "Antimicrobial Susceptibility of Actinobacillus pleuropneumoniae Isolated from Pigs in Korea Using New Standardized Procedures.",
-      "year": 2001,
-      "citations": 28,
-      "scholar_link": ""
-    },
-    {
-      "title": "Immunohistochemistry and Polymerase Chain Reaction for the Detection of Lawsonia intracellularis in Porcine Intestinal Tissues with Proliferative Enteropathy.",
-      "year": 2000,
-      "citations": 11,
-      "scholar_link": ""
-    },
-    {
-      "title": "Application of persulfate with hydrodynamic cavitation and ferrous in the decomposition of pentachlorophenol",
-      "year": 2020,
-      "citations": 24,
-      "scholar_link": ""
-    },
-    {
-      "title": "Prediction Model for Gastric Cancer Incidence in Korean Population",
-      "year": 2015,
-      "citations": 46,
-      "scholar_link": ""
-    },
-    {
-      "title": "Effect of Conversational Agent’s Recommendation Strategy on Voice Shopping Experience - Focused on Initiative Strategies and Type of Goods -",
-      "year": 2018,
-      "citations": 5,
-      "scholar_link": ""
-    },
-    {
-      "title": "Emotion-Inspired Painterly Rendering",
-      "year": 2020,
-      "citations": 7,
-      "scholar_link": ""
-    },
-    {
-      "title": "Elucidating mechanism of Se-induced lattice oxygen activation and structural stability in perovskite oxide for oxygen evolution catalysis",
-      "year": 2025,
-      "citations": 2,
-      "scholar_link": ""
-    },
-    {
-      "title": "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface treatment",
-      "year": 2024,
-      "citations": 3,
-      "scholar_link": ""
-    },
-    {
-      "title": "A Novel Framework for Assessing Facial Attractiveness Based on Facial Proportions",
-      "year": 2017,
-      "citations": 15,
-      "scholar_link": ""
-    },
-    {
-      "title": "Dielectric and ionic conduction properties in LiYF4 single crystals",
-      "year": 2000,
-      "citations": 15,
-      "scholar_link": ""
-    },
-    {
-      "title": "Implementation and evaluation of the ultrasonic TOF tomography for the NDT of concrete structures",
-      "year": 2005,
-      "citations": 9,
-      "scholar_link": ""
-    },
-    {
-      "title": "2018 Guidelines for the Management of Dyslipidemia in Korea",
-      "year": 2019,
-      "citations": 180,
-      "scholar_link": ""
-    },
-    {
-      "title": "Classification of the medicinal plants of the genus <i>Atractylodes</i> using high‐performance liquid chromatography with diode array and tandem mass spectrometry detection combined with multivariate statistical analysis",
-      "year": 2016,
-      "citations": 35,
-      "scholar_link": ""
-    },
-    {
-      "title": "Lithium Nitride-rich Li Protection Layer via Facile Lewis Acid–Base Reaction for Li Metal Batteries",
-      "year": 2025,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Tailored phase–valence coupling by aliovalent substitution toward high-rate and stable vanadium oxide cathodes for aqueous zinc-ion batteries",
-      "year": 2026,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Prevalence of <i>EaeA<sup>+</sup> Escherichia Coli</i> Isolated from Pigs with Diarrhea",
-      "year": 2001,
-      "citations": 6,
-      "scholar_link": ""
-    },
-    {
-      "title": "Enhanced Charge Transport via Metallic 1T Phase Transition Metal Dichalcogenides‐Mediated Hole Transport Layer Engineering for Perovskite Solar Cells",
-      "year": 2019,
-      "citations": 22,
-      "scholar_link": ""
-    },
-    {
-      "title": "High-efficiency exfoliation of large-area mono-layer graphene oxide with controlled dimension",
-      "year": 2017,
-      "citations": 39,
-      "scholar_link": ""
-    },
-    {
-      "title": "8-Hydroxy-2-deoxyguanosine prevents plaque formation and inhibits vascular smooth muscle cell activation through Rac1 inactivation",
-      "year": 2012,
-      "citations": 37,
-      "scholar_link": ""
-    },
-    {
-      "title": "Abuse‐Tolerant Separator Enabled by Surface Charge Modulation and Structural Reinforcement for High‐Safety Lithium‐Ion Batteries",
-      "year": 2026,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Seroprevalence of porcine respiratory coronavirus in selected Korean pigs",
-      "year": 2000,
-      "citations": 14,
-      "scholar_link": ""
-    },
-    {
-      "title": "A 0.65V 1316µm<sup>2</sup>Fully Synthesizable Digital Temperature Sensor Using Wire Metal Achieving O.16nJ.%2-Accuracy FoM in 5nm FinFET CMOS",
-      "year": 2022,
-      "citations": 14,
-      "scholar_link": ""
-    },
-    {
-      "title": "High adaptability of the omega loop underlies the substrate-spectrum-extension evolution of a class A β-lactamase, PenL",
-      "year": 2016,
-      "citations": 22,
-      "scholar_link": ""
-    },
-    {
-      "title": "Isovalent multi-component doping strategy for stabilizing cubic-Li7La3Zr2O12 with excellent Li mobility",
-      "year": 2023,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Study on microstructure and mechanical properties of friction stir welded 9% Ni steel",
-      "year": 2009,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Analytical method for fast screening and confirmation of multi-class veterinary drug residues in fish and shrimp by LC-MS/MS",
-      "year": 2016,
-      "citations": 18,
-      "scholar_link": ""
-    },
-    {
-      "title": "Tailored electrolyte additive design for suppressing irreversibility in dry-processed anodes and enhancing electrochemical stability in full-cells",
-      "year": 2025,
-      "citations": 4,
-      "scholar_link": ""
-    },
-    {
-      "title": "RELIABILITY TESTING OF EATING ATTITUDE TEST FOR KOREAN ADOLESCENTS",
+      "title": "Reply",
       "year": 1998,
-      "citations": 9,
-      "scholar_link": ""
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.1086/517698"
     },
     {
-      "title": "2021 Clinical Practice Guidelines for Diabetes Mellitus of the Korean Diabetes Association",
-      "year": 2021,
-      "citations": 224,
-      "scholar_link": ""
+      "title": "Reply letter: trends in varicella and herpes zoster epidemiology before and after the implementation of universal one-dose varicella vaccination over one decade in South Korea, 2003-2015",
+      "year": 2019,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.1080/21645515.2019.1643678"
     },
     {
-      "title": "Effect of High-Intensity Rosuvastatin vs. Combination of Low-Intensity Rosuvastatin and Ezetimibe on HbA1c Levels in Patients without Diabetes: A Randomized IDEAL Trial",
+      "title": "mTOR signaling regulates microglia metabolism and survival via 4E‐BP‐controlled mRNA translation",
       "year": 2023,
-      "citations": 1,
-      "scholar_link": ""
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.1002/alz.082840"
     },
     {
-      "title": "Rose Bengal Dye on Thiol-Terminated Bilayer for Molecular Devices",
-      "year": 2007,
-      "citations": 15,
-      "scholar_link": ""
+      "title": "RepID promotes metastatic potential in osteosarcoma through regulation of the PRC1-GATA6 axis",
+      "year": 2025,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.1080/19768354.2025.2598973"
     },
     {
-      "title": "Isovalent Multi-Component Doping Strategy for Stabilizing Cubic-Li7la3zr2o12 with Excellent Li Mobility",
-      "year": 2023,
-      "citations": 1,
-      "scholar_link": ""
-    },
-    {
-      "title": "Improved charge transport via WSe <sub>2</sub> -mediated hole transporting layer toward efficient organic solar cells",
-      "year": 2018,
-      "citations": 19,
-      "scholar_link": ""
-    },
-    {
-      "title": "The use of artificial intelligence models to predict survival in patients with laryngeal squamous cell carcinoma",
-      "year": 2023,
-      "citations": 26,
-      "scholar_link": ""
-    },
-    {
-      "title": "Enhancing Thermal Stability of Lithium-Ion Battery Separators with Sub-Micron Boehmite Coating",
-      "year": 2023,
-      "citations": 1,
-      "scholar_link": ""
+      "title": "Abstract 8381: Safety and Effect of Adipose Tissue Derived Stem Cell Implantation in Patients with Critical Limb Ischemia",
+      "year": 2011,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.1161/circ.124.suppl_21.a8381"
     }
   ],
   "_source": "openalex"
