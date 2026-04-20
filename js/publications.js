@@ -11,7 +11,7 @@
   ];
 
   let publications = [];
-  let current = "top";
+  let current = "all";
 
   document.addEventListener("site:ready", async () => {
     const root = document.getElementById("publications-root");
