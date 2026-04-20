@@ -12,7 +12,10 @@
       renderTopics(topics);
       renderHighlights(pubs, news);
       const pubMetric = document.getElementById("metric-pubs");
-      if (pubMetric) pubMetric.textContent = pubs.length + "+";
+      if (pubMetric) {
+        const journalCount = pubs.filter(p => (p.type || "journal") === "journal").length;
+        pubMetric.textContent = journalCount + "+";
+      }
     } catch (err) {
       console.error(err);
     }
