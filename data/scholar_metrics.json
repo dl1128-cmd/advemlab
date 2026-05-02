@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-30T19:25:51Z",
+  "updated_at": "2026-05-02T19:02:38Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2079,
-  "citations_recent5y": 1419,
-  "h_index": 24,
-  "i10_index": 44,
+  "citations_total": 2077,
+  "citations_recent5y": 1417,
+  "h_index": 23,
+  "i10_index": 43,
   "citations_history": [
     {
       "year": 2013,
@@ -44,7 +44,7 @@
     },
     {
       "year": 2022,
-      "count": 129
+      "count": 130
     },
     {
       "year": 2023,
@@ -56,18 +56,18 @@
     },
     {
       "year": 2025,
-      "count": 466
+      "count": 468
     },
     {
       "year": 2026,
-      "count": 272
+      "count": 267
     }
   ],
   "papers": [
     {
       "title": "Miniaturized Flexible Electronic Systems with Wireless Power and Near-Field Communication Capabilities",
       "year": 2015,
-      "citations": 238,
+      "citations": 239,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -79,7 +79,7 @@
     {
       "title": "Synergistic protective effect of a BN-carbon separator for highly stable lithium sulfur batteries",
       "year": 2017,
-      "citations": 119,
+      "citations": 120,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:TQgYirikUcIC"
     },
     {
@@ -91,13 +91,13 @@
     {
       "title": "A Roadmap of Battery Separator Development: Past and Future",
       "year": 2022,
-      "citations": 105,
+      "citations": 106,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:k_IJM867U9cC"
     },
     {
       "title": "10 mAh cm−2 Cathode by Roll-to-Roll Process for Low Cost and High Energy Density Li-Ion Batteries",
       "year": 2024,
-      "citations": 91,
+      "citations": 92,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -193,7 +193,7 @@
     {
       "title": "Anode interface-stabilizing dry process employing a binary binder system for ultra-thick and durable battery electrode fabrication",
       "year": 2025,
-      "citations": 25,
+      "citations": 26,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -205,7 +205,7 @@
     {
       "title": "Homogeneous Li Deposition guided by Ultra-thin Lithiophilic Layer for Highly Stable Anode-free Batteries",
       "year": 2023,
-      "citations": 24,
+      "citations": 23,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -295,14 +295,8 @@
     {
       "title": "Insights Into Improving the Li-Ion Transference Number and Li Deposition Uniformity Toward a High-Current-Density Lithium Metal Anode",
       "year": 2025,
-      "citations": 13,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:p2g8aNsByqUC"
-    },
-    {
-      "title": "High-Energy-Density Li-Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li-Ion Kinetics and Electron Transfer",
-      "year": 2025,
       "citations": 12,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:abG-DnoFyZgC"
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:p2g8aNsByqUC"
     },
     {
       "title": "Uniform Li deposition through Graphene-based Ion-Flux regulator for high-rate Li metal batteries",
@@ -311,10 +305,10 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:vV6vV6tmYwMC"
     },
     {
-      "title": "Recent Advances in Anode-free Solid-state Batteries: A Review",
+      "title": "High-Energy-Density Li-Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li-Ion Kinetics and Electron Transfer",
       "year": 2025,
-      "citations": 10,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:rO6llkc54NcC"
+      "citations": 11,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:abG-DnoFyZgC"
     },
     {
       "title": "Towards Ultra-stable and Dendrite-suppressed Li-metal Batteries: Ion-regulating Graphene-modified Separators",
@@ -327,6 +321,12 @@
       "year": 2023,
       "citations": 10,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:RYcK_YlVTxYC"
+    },
+    {
+      "title": "Recent Advances in Anode-free Solid-state Batteries: A Review",
+      "year": 2025,
+      "citations": 9,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:rO6llkc54NcC"
     },
     {
       "title": "Directing the uniform and dense Li deposition via graphene-enhanced separators for high-stability Li metal batteries",
@@ -413,12 +413,6 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:738O_yMBCRsC"
     },
     {
-      "title": "Two Steps Li Ion Storage Mechanism in Ruddlesden-Popper Li2La2Ti3O10",
-      "year": 2025,
-      "citations": 4,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:a0OBvERweLwC"
-    },
-    {
       "title": "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface treatment",
       "year": 2024,
       "citations": 4,
@@ -437,6 +431,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:nb7KW1ujOQ8C"
     },
     {
+      "title": "Two Steps Li Ion Storage Mechanism in Ruddlesden-Popper Li2La2Ti3O10",
+      "year": 2025,
+      "citations": 3,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:a0OBvERweLwC"
+    },
+    {
       "title": "Mechanochemistry-Driven Optimization of Halide-Based Solid-State Electrolytes via Orthogonal Design of Experiments and Regression Modeling",
       "year": 2026,
       "citations": 2,
@@ -453,12 +453,6 @@
       "year": 2025,
       "citations": 2,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:dshw04ExmUIC"
-    },
-    {
-      "title": "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors",
-      "year": 2025,
-      "citations": 2,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:u9iWguZQMMsC"
     },
     {
       "title": "Synergistic enhancement of microstructural homogeneity and mechanical strength in SiOx@ C anodes via a graphene nanoribbon-based conductive agent",
@@ -497,16 +491,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:Tiz5es2fbqcC"
     },
     {
-      "title": "Structurally Disordered Lithiophilic Graphene via Solid-State Exfoliation Enables Reversible Lithium Deposition with Fast Kinetics",
-      "year": 2025,
-      "citations": 1,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:OU6Ihb5iCvQC"
-    },
-    {
       "title": "Lithium Nitride-rich Li Protection Layer via Facile Lewis Acid–Base Reaction for Li Metal Batteries",
       "year": 2025,
       "citations": 1,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:XiSMed-E-HIC"
+    },
+    {
+      "title": "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors",
+      "year": 2025,
+      "citations": 1,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:u9iWguZQMMsC"
     },
     {
       "title": "Fast and Trap-Minimized Li Transport via Size-Mismatch-Driven Cation-Ordering Control in Li-Excess Disordered Rocksalt Cathodes",
@@ -531,8 +525,13 @@
       "year": 2026,
       "citations": 0,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:5Ul4iDaHHb8C"
+    },
+    {
+      "title": "Structurally Disordered Lithiophilic Graphene via Solid-State Exfoliation Enables Reversible Lithium Deposition with Fast Kinetics",
+      "year": 2025,
+      "citations": 0,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:OU6Ihb5iCvQC"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-05-01T19:15:49Z"
+  "_source": "playwright_scholar"
 }
