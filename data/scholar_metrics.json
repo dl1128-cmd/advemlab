@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-02T19:02:38Z",
+  "updated_at": "2026-05-04T19:43:16Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2077,
-  "citations_recent5y": 1417,
+  "citations_total": 2080,
+  "citations_recent5y": 1420,
   "h_index": 23,
   "i10_index": 43,
   "citations_history": [
@@ -60,7 +60,7 @@
     },
     {
       "year": 2026,
-      "count": 267
+      "count": 270
     }
   ],
   "papers": [
@@ -91,7 +91,7 @@
     {
       "title": "A Roadmap of Battery Separator Development: Past and Future",
       "year": 2022,
-      "citations": 106,
+      "citations": 107,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:k_IJM867U9cC"
     },
     {
@@ -175,7 +175,7 @@
     {
       "title": "Interfacial Challenges of Halide-Based All-Solid-State Batteries",
       "year": 2025,
-      "citations": 32,
+      "citations": 33,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -299,16 +299,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:p2g8aNsByqUC"
     },
     {
+      "title": "High-Energy-Density Li-Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li-Ion Kinetics and Electron Transfer",
+      "year": 2025,
+      "citations": 12,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:abG-DnoFyZgC"
+    },
+    {
       "title": "Uniform Li deposition through Graphene-based Ion-Flux regulator for high-rate Li metal batteries",
       "year": 2024,
       "citations": 12,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:vV6vV6tmYwMC"
-    },
-    {
-      "title": "High-Energy-Density Li-Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li-Ion Kinetics and Electron Transfer",
-      "year": 2025,
-      "citations": 11,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:abG-DnoFyZgC"
     },
     {
       "title": "Towards Ultra-stable and Dendrite-suppressed Li-metal Batteries: Ion-regulating Graphene-modified Separators",
@@ -533,6 +533,5 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:OU6Ihb5iCvQC"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-05-03T19:03:25Z"
+  "_source": "playwright_scholar"
 }
