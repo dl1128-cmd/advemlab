@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-05T19:35:07Z",
+  "updated_at": "2026-05-14T19:48:36Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2090,
-  "citations_recent5y": 1430,
+  "citations_total": 2102,
+  "citations_recent5y": 1442,
   "h_index": 24,
   "i10_index": 44,
   "citations_history": [
@@ -52,15 +52,15 @@
     },
     {
       "year": 2024,
-      "count": 250
+      "count": 247
     },
     {
       "year": 2025,
-      "count": 468
+      "count": 469
     },
     {
       "year": 2026,
-      "count": 280
+      "count": 294
     }
   ],
   "papers": [
@@ -91,26 +91,26 @@
     {
       "title": "A Roadmap of Battery Separator Development: Past and Future",
       "year": 2022,
-      "citations": 107,
+      "citations": 108,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:k_IJM867U9cC"
     },
     {
       "title": "10 mAh cm−2 Cathode by Roll-to-Roll Process for Low Cost and High Energy Density Li-Ion Batteries",
       "year": 2024,
-      "citations": 92,
+      "citations": 93,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:35N4QoGY0k4C"
+    },
+    {
+      "title": "Low-Resistance LiFePO4 Thick Film Electrode Processed with Dry Electrode Technology for High-Energy-Density Lithium-Ion Batteries",
+      "year": 2024,
+      "citations": 84,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:70eg2SAEIzsC"
     },
     {
       "title": "3D Cross-Linked Nanoweb Architecture of Binder-Free TiO2 Electrodes for Lithium Ion Batteries",
       "year": 2013,
       "citations": 83,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:d1gkVwhDpl0C"
-    },
-    {
-      "title": "Low-Resistance LiFePO4 Thick Film Electrode Processed with Dry Electrode Technology for High-Energy-Density Lithium-Ion Batteries",
-      "year": 2024,
-      "citations": 82,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:70eg2SAEIzsC"
     },
     {
       "title": "Patterned oxide semiconductor by electrohydrodynamic jet printing for transparent thin film transistors",
@@ -155,6 +155,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:LkGwnXOMwfcC"
     },
     {
+      "title": "Interfacial Challenges of Halide-Based All-Solid-State Batteries",
+      "year": 2025,
+      "citations": 35,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:cFHS6HbyZ2cC"
+    },
+    {
       "title": "Two-dimensional Nafion nanoweb anion-shield for improved electrochemical performances of lithium–sulfur batteries",
       "year": 2016,
       "citations": 35,
@@ -173,15 +179,9 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:RGFaLdJalmkC"
     },
     {
-      "title": "Interfacial Challenges of Halide-Based All-Solid-State Batteries",
-      "year": 2025,
-      "citations": 33,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:cFHS6HbyZ2cC"
-    },
-    {
       "title": "Inorganic Solid-State Electrolytes for Solid-State Sodium Batteries: Electrolyte Design and Interfacial Challenges",
       "year": 2025,
-      "citations": 30,
+      "citations": 29,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:yD5IFk8b50cC"
     },
     {
@@ -197,34 +197,34 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:4OULZ7Gr8RgC"
     },
     {
+      "title": "Homogeneous Li Deposition guided by Ultra-thin Lithiophilic Layer for Highly Stable Anode-free Batteries",
+      "year": 2023,
+      "citations": 25,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:J_g5lzvAfSwC"
+    },
+    {
       "title": "WO3 Nanofibrous Backbone Scaffolds for Enhanced Optical Absorbance and Charge Transport in Metal Oxide (Fe2O3, BiVO4) Semiconductor Photoanodes towards Solar Fuel Generation",
       "year": 2018,
       "citations": 25,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:4JMBOYKVnBMC"
     },
     {
-      "title": "Homogeneous Li Deposition guided by Ultra-thin Lithiophilic Layer for Highly Stable Anode-free Batteries",
-      "year": 2023,
-      "citations": 24,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:J_g5lzvAfSwC"
+      "title": "A Novel Structured Si-Based Composite with 2D Structured Graphite for High-Performance Lithium-Ion Batteries",
+      "year": 2024,
+      "citations": 21,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:u_35RYKgDlwC"
+    },
+    {
+      "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
+      "year": 2024,
+      "citations": 21,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:M05iB0D1s5AC"
     },
     {
       "title": "Stackable, three dimensional carbon–metal oxide composite for high performance supercapacitors",
       "year": 2015,
       "citations": 21,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:Y0pCki6q_DkC"
-    },
-    {
-      "title": "A Novel Structured Si-Based Composite with 2D Structured Graphite for High-Performance Lithium-Ion Batteries",
-      "year": 2024,
-      "citations": 20,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:u_35RYKgDlwC"
-    },
-    {
-      "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
-      "year": 2024,
-      "citations": 19,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:M05iB0D1s5AC"
     },
     {
       "title": "Regulating Li electrodeposition by constructing Cu–Sn nanotube thin layer for reliable and robust anode-free all-solid-state batteries",
@@ -341,6 +341,18 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:BqipwSGYUEgC"
     },
     {
+      "title": "Beyond the Limits of Lithium Iron Phosphate: Cutting‐Edge Innovations Toward High Performance and Sustainability for Next‐Generation Batteries",
+      "year": 2025,
+      "citations": 8,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:WbkHhVStYXYC"
+    },
+    {
+      "title": "Stable operation of highly loaded pure Si-Fe anode under ambient pressure via carboxy silane-directed robust solid electrolyte interphase",
+      "year": 2024,
+      "citations": 8,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:ldfaerwXgEUC"
+    },
+    {
       "title": "A Strategic Approach to Use Upcycled Si Nanomaterials for Stable Operation of Lithium-Ion Batteries",
       "year": 2021,
       "citations": 8,
@@ -359,12 +371,6 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:NhqRSupF_l8C"
     },
     {
-      "title": "Stable operation of highly loaded pure Si-Fe anode under ambient pressure via carboxy silane-directed robust solid electrolyte interphase",
-      "year": 2024,
-      "citations": 7,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:ldfaerwXgEUC"
-    },
-    {
       "title": "Toward Functional 3D Architectured Platform: Advanced Approach to Anchor Functional Metal Oxide onto 3D Printed Scaffold",
       "year": 2018,
       "citations": 7,
@@ -375,12 +381,6 @@
       "year": 2015,
       "citations": 7,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:W7OEmFMy1HYC"
-    },
-    {
-      "title": "Beyond the Limits of Lithium Iron Phosphate: Cutting‐Edge Innovations Toward High Performance and Sustainability for Next‐Generation Batteries",
-      "year": 2025,
-      "citations": 6,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:WbkHhVStYXYC"
     },
     {
       "title": "Smart Compositional Design of B-Site Ordered Double Perovskite for Advanced Oxygen Catalysis at Ultra-High Current Densities",
@@ -509,6 +509,18 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:XiSMed-E-HIC"
     },
     {
+      "title": "A uniform lithium ion flux and robust interphase enabled by an anion anchoring additive for high energy density Si-based anodes",
+      "year": 2026,
+      "citations": 0,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:5Ul4iDaHHb8C"
+    },
+    {
+      "title": "Interfacially Reinforced Crosslinked Binder with Structural Integrity for Stable Micro-Sized Silicon Anodes in All-solid-state Batteries",
+      "year": 2026,
+      "citations": 0,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:geHnlv5EZngC"
+    },
+    {
       "title": "Fast and Trap-Minimized Li Transport via Size-Mismatch-Driven Cation-Ordering Control in Li-Excess Disordered Rocksalt Cathodes",
       "year": 2026,
       "citations": 0,
@@ -519,20 +531,7 @@
       "year": 2026,
       "citations": 0,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:tOudhMTPpwUC"
-    },
-    {
-      "title": "Interfacially Reinforced Crosslinked Binder with Structural Integrity for Stable Micro‐Sized Silicon Anodes in All‐solid‐state Batteries",
-      "year": 2026,
-      "citations": 0,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:geHnlv5EZngC"
-    },
-    {
-      "title": "A uniform lithium ion flux and robust interphase enabled by an anion anchoring additive for high energy density Si-based anodes",
-      "year": 2026,
-      "citations": 0,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:5Ul4iDaHHb8C"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-05-13T19:58:39Z"
+  "_source": "playwright_scholar"
 }
