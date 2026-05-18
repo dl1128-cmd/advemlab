@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-14T19:48:36Z",
+  "updated_at": "2026-05-18T19:46:42Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2102,
-  "citations_recent5y": 1442,
+  "citations_total": 2104,
+  "citations_recent5y": 1444,
   "h_index": 24,
   "i10_index": 44,
   "citations_history": [
@@ -60,7 +60,7 @@
     },
     {
       "year": 2026,
-      "count": 294
+      "count": 296
     }
   ],
   "papers": [
@@ -157,7 +157,7 @@
     {
       "title": "Interfacial Challenges of Halide-Based All-Solid-State Batteries",
       "year": 2025,
-      "citations": 35,
+      "citations": 36,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -301,7 +301,7 @@
     {
       "title": "High-Energy-Density Li-Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li-Ion Kinetics and Electron Transfer",
       "year": 2025,
-      "citations": 12,
+      "citations": 13,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -533,6 +533,5 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:tOudhMTPpwUC"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-05-17T19:13:23Z"
+  "_source": "playwright_scholar"
 }
