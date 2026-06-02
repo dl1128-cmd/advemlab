@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-31T19:19:41Z",
+  "updated_at": "2026-06-02T20:51:58Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2149,
-  "citations_recent5y": 1488,
+  "citations_total": 2151,
+  "citations_recent5y": 1490,
   "h_index": 24,
   "i10_index": 44,
   "citations_history": [
@@ -60,7 +60,7 @@
     },
     {
       "year": 2026,
-      "count": 340
+      "count": 342
     }
   ],
   "papers": [
@@ -293,16 +293,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:p2g8aNsByqUC"
     },
     {
+      "title": "High-Energy-Density Li-Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li-Ion Kinetics and Electron Transfer",
+      "year": 2025,
+      "citations": 14,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:abG-DnoFyZgC"
+    },
+    {
       "title": "Dendrite-suppressed Li deposition enabled by surface-tailored carbon-based current collectors for high-rate and stable Li-metal batteries",
       "year": 2024,
       "citations": 14,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:2P1L_qKh6hAC"
-    },
-    {
-      "title": "High-Energy-Density Li-Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li-Ion Kinetics and Electron Transfer",
-      "year": 2025,
-      "citations": 13,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:abG-DnoFyZgC"
     },
     {
       "title": "Uniform Li deposition through Graphene-based Ion-Flux regulator for high-rate Li metal batteries",
@@ -401,6 +401,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:dfsIfKJdRG4C"
     },
     {
+      "title": "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
+      "year": 2026,
+      "citations": 5,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:738O_yMBCRsC"
+    },
+    {
       "title": "Ion-flux-boosted polyimide separators via synergistic pore and surface charge engineering for highly stable Li-and Na-metal batteries",
       "year": 2025,
       "citations": 5,
@@ -411,12 +417,6 @@
       "year": 2026,
       "citations": 4,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:K3LRdlH-MEoC"
-    },
-    {
-      "title": "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
-      "year": 2026,
-      "citations": 4,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:738O_yMBCRsC"
     },
     {
       "title": "Anode SHIELD: A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries",
@@ -539,6 +539,5 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:8AbLer7MMksC"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-06-01T21:35:21Z"
+  "_source": "playwright_scholar"
 }
