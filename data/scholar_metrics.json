@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-02T19:26:45Z",
+  "updated_at": "2026-07-03T19:25:33Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2510,
-  "citations_recent5y": 844,
+  "citations_total": 2512,
+  "citations_recent5y": 846,
   "h_index": 25,
   "i10_index": 56,
   "citations_history": [
@@ -77,7 +77,7 @@
     },
     {
       "year": 2023,
-      "count": 172
+      "count": 174
     },
     {
       "year": 2024,
@@ -580,7 +580,7 @@
       "scholar_link": "https://doi.org/10.1016/j.apcatb.2017.04.020"
     },
     {
-      "title": "WO<sub>3</sub>/W:BiVO<sub>4</sub>/BiVO<sub>4</sub> graded photoabsorber electrode for enhanced photoelectrocatalytic solar light driven water oxidation",
+      "title": "WO <sub>3</sub> /W:BiVO <sub>4</sub> /BiVO <sub>4</sub> graded photoabsorber electrode for enhanced photoelectrocatalytic solar light driven water oxidation",
       "year": 2017,
       "citations": 46,
       "scholar_link": "https://doi.org/10.1039/c6cp08199a"
@@ -670,7 +670,7 @@
       "scholar_link": "https://doi.org/10.17946/jrst.2015.38.3.02"
     },
     {
-      "title": "Three-dimensional Gd-doped TiO<sub>2</sub> fibrous photoelectrodes for efficient visible light-driven photocatalytic performance",
+      "title": "Three-dimensional Gd-doped TiO <sub>2</sub> fibrous photoelectrodes for efficient visible light-driven photocatalytic performance",
       "year": 2014,
       "citations": 33,
       "scholar_link": "https://doi.org/10.1039/c3ra46851h"
