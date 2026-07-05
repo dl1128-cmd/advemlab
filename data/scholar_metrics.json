@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-04T19:16:08Z",
+  "updated_at": "2026-07-05T19:20:13Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2512,
-  "citations_recent5y": 846,
+  "citations_total": 2513,
+  "citations_recent5y": 847,
   "h_index": 25,
   "i10_index": 56,
   "citations_history": [
@@ -81,7 +81,7 @@
     },
     {
       "year": 2024,
-      "count": 452
+      "count": 453
     },
     {
       "year": 2025,
@@ -114,7 +114,7 @@
     {
       "title": "Inorganic Solid‐State Electrolytes for Solid‐State Sodium Batteries: Electrolyte Design and Interfacial Challenges",
       "year": 2025,
-      "citations": 21,
+      "citations": 22,
       "scholar_link": "https://doi.org/10.1002/celc.202400612"
     },
     {
@@ -318,7 +318,7 @@
     {
       "title": "Stable operation of highly loaded pure Si-Fe anode under ambient pressure via carboxy silane-directed robust solid electrolyte interphase",
       "year": 2024,
-      "citations": 11,
+      "citations": 12,
       "scholar_link": "https://doi.org/10.1016/j.jechem.2024.02.065"
     },
     {
