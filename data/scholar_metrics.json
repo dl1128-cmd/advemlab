@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-05T19:20:13Z",
+  "updated_at": "2026-07-06T20:00:02Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2513,
-  "citations_recent5y": 847,
+  "citations_total": 2515,
+  "citations_recent5y": 849,
   "h_index": 25,
   "i10_index": 56,
   "citations_history": [
@@ -81,11 +81,11 @@
     },
     {
       "year": 2024,
-      "count": 453
+      "count": 454
     },
     {
       "year": 2025,
-      "count": 117
+      "count": 118
     },
     {
       "year": 2026,
@@ -342,7 +342,7 @@
     {
       "title": "Smart Compositional Design of B‐Site Ordered Double Perovskite for Advanced Oxygen Catalysis at Ultra‐High Current Densities",
       "year": 2024,
-      "citations": 9,
+      "citations": 10,
       "scholar_link": "https://doi.org/10.1002/smtd.202401480"
     },
     {
