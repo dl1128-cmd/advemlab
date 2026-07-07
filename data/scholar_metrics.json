@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-06T20:00:02Z",
+  "updated_at": "2026-07-07T19:57:33Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2515,
-  "citations_recent5y": 849,
+  "citations_total": 2516,
+  "citations_recent5y": 850,
   "h_index": 25,
-  "i10_index": 56,
+  "i10_index": 57,
   "citations_history": [
     {
       "year": 2004,
@@ -81,7 +81,7 @@
     },
     {
       "year": 2024,
-      "count": 454
+      "count": 455
     },
     {
       "year": 2025,
@@ -306,7 +306,7 @@
     {
       "title": "Dendrite-suppressed Li deposition enabled by surface-tailored carbon-based current collectors for high-rate and stable Li-metal batteries",
       "year": 2024,
-      "citations": 16,
+      "citations": 17,
       "scholar_link": "https://doi.org/10.1016/j.carbon.2024.118941"
     },
     {
@@ -540,7 +540,7 @@
     {
       "title": "A roadmap of battery separator development: Past and future",
       "year": 2021,
-      "citations": 87,
+      "citations": 88,
       "scholar_link": "https://doi.org/10.1016/j.coelec.2021.100858"
     },
     {
