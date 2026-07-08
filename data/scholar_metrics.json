@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T19:57:33Z",
+  "updated_at": "2026-07-08T19:27:54Z",
   "user_id": "",
   "openalex_id": "A5044939082",
   "citations_total": 2516,
@@ -286,16 +286,16 @@
       "scholar_link": "https://doi.org/10.1016/j.cej.2024.158271"
     },
     {
+      "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
+      "year": 2024,
+      "citations": 21,
+      "scholar_link": "https://doi.org/10.1016/j.apsusc.2024.160023"
+    },
+    {
       "title": "A Novel Structured Si‐Based Composite with 2D Structured Graphite for High‐Performance Lithium‐Ion Batteries",
       "year": 2024,
       "citations": 21,
       "scholar_link": "https://doi.org/10.1002/smll.202405005"
-    },
-    {
-      "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
-      "year": 2024,
-      "citations": 20,
-      "scholar_link": "https://doi.org/10.1016/j.apsusc.2024.160023"
     },
     {
       "title": "Recent Advances in Anode-free Solid-state Batteries: A Review",
