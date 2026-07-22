@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-20T19:45:06Z",
+  "updated_at": "2026-07-22T19:22:02Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2270,
-  "citations_recent5y": 1609,
+  "citations_total": 2274,
+  "citations_recent5y": 1613,
   "h_index": 24,
   "i10_index": 47,
   "citations_history": [
@@ -28,11 +28,11 @@
     },
     {
       "year": 2018,
-      "count": 134
+      "count": 135
     },
     {
       "year": 2019,
-      "count": 144
+      "count": 143
     },
     {
       "year": 2020,
@@ -56,11 +56,11 @@
     },
     {
       "year": 2025,
-      "count": 471
+      "count": 472
     },
     {
       "year": 2026,
-      "count": 458
+      "count": 461
     }
   ],
   "papers": [
@@ -169,7 +169,7 @@
     {
       "title": "Inorganic Solid-State Electrolytes for Solid-State Sodium Batteries: Electrolyte Design and Interfacial Challenges",
       "year": 2025,
-      "citations": 37,
+      "citations": 36,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:yD5IFk8b50cC"
     },
     {
@@ -257,16 +257,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:lSLTfruPkqcC"
     },
     {
+      "title": "High-Energy-Density Li-Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li-Ion Kinetics and Electron Transfer",
+      "year": 2025,
+      "citations": 18,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:abG-DnoFyZgC"
+    },
+    {
       "title": "Functionalized interfacial cover design toward pure silicon anode for high power density Lithium-Ion capacitor",
       "year": 2024,
       "citations": 18,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:g5m5HwL7SMYC"
-    },
-    {
-      "title": "High-Energy-Density Li-Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li-Ion Kinetics and Electron Transfer",
-      "year": 2025,
-      "citations": 17,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:abG-DnoFyZgC"
     },
     {
       "title": "Recent Advances in Anode-free Solid-state Batteries: A Review",
@@ -279,6 +279,12 @@
       "year": 2024,
       "citations": 17,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:2P1L_qKh6hAC"
+    },
+    {
+      "title": "A multifunctional network binder enables stable and high performance of silicon-based anode in lithium-ion battery",
+      "year": 2023,
+      "citations": 17,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:ns9cj8rnVeAC"
     },
     {
       "title": "Concentration Gradient Induced Delithiation Failure of MoO3 for Li-Ion Batteries",
@@ -299,12 +305,6 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:p2g8aNsByqUC"
     },
     {
-      "title": "A multifunctional network binder enables stable and high performance of silicon-based anode in lithium-ion battery",
-      "year": 2023,
-      "citations": 16,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:ns9cj8rnVeAC"
-    },
-    {
       "title": "Polyanion-assisted ionic-electronic conductive agents designed for high density Si-based anodes",
       "year": 2022,
       "citations": 16,
@@ -323,16 +323,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:vV6vV6tmYwMC"
     },
     {
+      "title": "Directing the uniform and dense Li deposition via graphene-enhanced separators for high-stability Li metal batteries",
+      "year": 2024,
+      "citations": 12,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:pqnbT2bcN3wC"
+    },
+    {
       "title": "Towards Ultra-stable and Dendrite-suppressed Li-metal Batteries: Ion-regulating Graphene-modified Separators",
       "year": 2024,
       "citations": 11,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:ZHo1McVdvXMC"
-    },
-    {
-      "title": "Directing the uniform and dense Li deposition via graphene-enhanced separators for high-stability Li metal batteries",
-      "year": 2024,
-      "citations": 11,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:pqnbT2bcN3wC"
     },
     {
       "title": "Stable operation of highly loaded pure Si-Fe anode under ambient pressure via carboxy silane-directed robust solid electrolyte interphase",
@@ -437,6 +437,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:b0M2c_1WBrUC"
     },
     {
+      "title": "Two Steps Li Ion Storage Mechanism in Ruddlesden-Popper Li2La2Ti3O10",
+      "year": 2025,
+      "citations": 5,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:a0OBvERweLwC"
+    },
+    {
       "title": "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface treatment",
       "year": 2024,
       "citations": 5,
@@ -465,12 +471,6 @@
       "year": 2025,
       "citations": 4,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:nb7KW1ujOQ8C"
-    },
-    {
-      "title": "Two Steps Li Ion Storage Mechanism in Ruddlesden-Popper Li2La2Ti3O10",
-      "year": 2025,
-      "citations": 4,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:a0OBvERweLwC"
     },
     {
       "title": "A uniform lithium ion flux and robust interphase enabled by an anion anchoring additive for high energy density Si-based anodes",
@@ -509,6 +509,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:l7t_Zn2s7bgC"
     },
     {
+      "title": "Harvesting blue energy via flow-electrode capacitive mixing (F-CapMix): From fundamental understanding to scalable power generation",
+      "year": 2025,
+      "citations": 2,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:Tiz5es2fbqcC"
+    },
+    {
       "title": "Lithium Nitride-rich Li Protection Layer via Facile Lewis Acid–Base Reaction for Li Metal Batteries",
       "year": 2025,
       "citations": 2,
@@ -525,12 +531,6 @@
       "year": 2026,
       "citations": 1,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:LPZeul_q3PIC"
-    },
-    {
-      "title": "Harvesting blue energy via flow-electrode capacitive mixing (F-CapMix): From fundamental understanding to scalable power generation",
-      "year": 2025,
-      "citations": 1,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:Tiz5es2fbqcC"
     },
     {
       "title": "Hierarchical Conducting Bridging Network for Accelerated Charge Transport and Structural Stabilization of Li‐Mn‐Rich Cathodes",
@@ -551,6 +551,5 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:8AbLer7MMksC"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-07-21T19:24:55Z"
+  "_source": "playwright_scholar"
 }
