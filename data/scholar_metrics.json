@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-20T18:39:58Z",
+  "updated_at": "2026-08-22T18:31:51Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2378,
-  "citations_recent5y": 1708,
+  "citations_total": 2381,
+  "citations_recent5y": 1711,
   "h_index": 25,
   "i10_index": 48,
   "citations_history": [
@@ -60,7 +60,7 @@
     },
     {
       "year": 2026,
-      "count": 574
+      "count": 577
     }
   ],
   "papers": [
@@ -221,16 +221,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:4JMBOYKVnBMC"
     },
     {
+      "title": "Beyond the Limits of Lithium Iron Phosphate: Cutting‐Edge Innovations Toward High Performance and Sustainability for Next‐Generation Batteries",
+      "year": 2025,
+      "citations": 24,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:WbkHhVStYXYC"
+    },
+    {
       "title": "A Novel Structured Si-Based Composite with 2D Structured Graphite for High-Performance Lithium-Ion Batteries",
       "year": 2024,
       "citations": 24,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:u_35RYKgDlwC"
-    },
-    {
-      "title": "Beyond the Limits of Lithium Iron Phosphate: Cutting‐Edge Innovations Toward High Performance and Sustainability for Next‐Generation Batteries",
-      "year": 2025,
-      "citations": 23,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:WbkHhVStYXYC"
     },
     {
       "title": "A Novel High-Performance TiO2-x/TiO1-yNy Coating Material for Silicon Anode in Lithium-Ion Batteries",
@@ -353,6 +353,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:RYcK_YlVTxYC"
     },
     {
+      "title": "Interfacially Reinforced Crosslinked Binder with Structural Integrity for Stable Micro-Sized Silicon Anodes in All-solid-state Batteries",
+      "year": 2026,
+      "citations": 9,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:geHnlv5EZngC"
+    },
+    {
       "title": "Mechanochemistry-Driven Optimization of Halide-Based Solid-State Electrolytes via Orthogonal Design of Experiments and Regression Modeling",
       "year": 2026,
       "citations": 9,
@@ -369,12 +375,6 @@
       "year": 2026,
       "citations": 8,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:5Ul4iDaHHb8C"
-    },
-    {
-      "title": "Interfacially Reinforced Crosslinked Binder with Structural Integrity for Stable Micro-Sized Silicon Anodes in All-solid-state Batteries",
-      "year": 2026,
-      "citations": 8,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:geHnlv5EZngC"
     },
     {
       "title": "Smart Compositional Design of B-Site Ordered Double Perovskite for Advanced Oxygen Catalysis at Ultra-High Current Densities",
@@ -443,6 +443,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:KxtntwgDAa4C"
     },
     {
+      "title": "Two Steps Li Ion Storage Mechanism in Ruddlesden-Popper Li2La2Ti3O10",
+      "year": 2025,
+      "citations": 6,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:a0OBvERweLwC"
+    },
+    {
       "title": "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface treatment",
       "year": 2024,
       "citations": 6,
@@ -477,12 +483,6 @@
       "year": 2025,
       "citations": 5,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:b0M2c_1WBrUC"
-    },
-    {
-      "title": "Two Steps Li Ion Storage Mechanism in Ruddlesden-Popper Li2La2Ti3O10",
-      "year": 2025,
-      "citations": 5,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:a0OBvERweLwC"
     },
     {
       "title": "Tailored phase–valence coupling by aliovalent substitution toward high-rate and stable vanadium oxide cathodes for aqueous zinc-ion batteries",
@@ -563,6 +563,5 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:VOx2b1Wkg3QC"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-08-21T18:37:52Z"
+  "_source": "playwright_scholar"
 }
