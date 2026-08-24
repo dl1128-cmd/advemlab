@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-22T18:31:51Z",
+  "updated_at": "2026-08-24T18:41:02Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2381,
-  "citations_recent5y": 1711,
+  "citations_total": 2378,
+  "citations_recent5y": 1708,
   "h_index": 25,
   "i10_index": 48,
   "citations_history": [
@@ -56,11 +56,11 @@
     },
     {
       "year": 2025,
-      "count": 456
+      "count": 458
     },
     {
       "year": 2026,
-      "count": 577
+      "count": 572
     }
   ],
   "papers": [
@@ -205,7 +205,7 @@
     {
       "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
       "year": 2024,
-      "citations": 27,
+      "citations": 26,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -335,16 +335,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:vV6vV6tmYwMC"
     },
     {
-      "title": "Tailored electrolyte additive design for suppressing irreversibility in dry-processed anodes and enhancing electrochemical stability in full-cells",
-      "year": 2025,
-      "citations": 12,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:UxriW0iASnsC"
-    },
-    {
       "title": "Improved Charge Carrier Dynamics by Unconventional Doping Strategy for BiVO4 Photoanode",
       "year": 2025,
       "citations": 12,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:NhqRSupF_l8C"
+    },
+    {
+      "title": "Tailored electrolyte additive design for suppressing irreversibility in dry-processed anodes and enhancing electrochemical stability in full-cells",
+      "year": 2025,
+      "citations": 11,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:UxriW0iASnsC"
     },
     {
       "title": "Electrically conductive Metal oxide-Assisted Multifunctional Separator for Highly Stable Lithium-Metal Batteries",
@@ -401,12 +401,6 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:tOudhMTPpwUC"
     },
     {
-      "title": "Mechanochemically Boosting Additive for Robust Si/C Anodes in High-Energy-Density Li-Ion Batteries",
-      "year": 2025,
-      "citations": 7,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:nb7KW1ujOQ8C"
-    },
-    {
       "title": "Achieving Cycling Stability in Anode of Lithium-Ion Batteries with Silicon-Embedded Titanium Oxynitride Microsphere",
       "year": 2023,
       "citations": 7,
@@ -441,6 +435,12 @@
       "year": 2025,
       "citations": 6,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:KxtntwgDAa4C"
+    },
+    {
+      "title": "Mechanochemically Boosting Additive for Robust Si/C Anodes in High-Energy-Density Li-Ion Batteries",
+      "year": 2025,
+      "citations": 6,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:nb7KW1ujOQ8C"
     },
     {
       "title": "Two Steps Li Ion Storage Mechanism in Ruddlesden-Popper Li2La2Ti3O10",
@@ -563,6 +563,5 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:VOx2b1Wkg3QC"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-08-23T18:31:37Z"
+  "_source": "playwright_scholar"
 }
