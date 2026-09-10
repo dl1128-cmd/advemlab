@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-08T20:50:17Z",
+  "updated_at": "2026-09-10T20:31:25Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2425,
-  "citations_recent5y": 1756,
+  "citations_total": 2426,
+  "citations_recent5y": 1757,
   "h_index": 26,
   "i10_index": 51,
   "citations_history": [
@@ -56,7 +56,7 @@
     },
     {
       "year": 2026,
-      "count": 618
+      "count": 619
     }
   ],
   "papers": [
@@ -241,6 +241,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:zA6iFVUQeVQC"
     },
     {
+      "title": "Insights Into Improving the Li-Ion Transference Number and Li Deposition Uniformity Toward a High-Current-Density Lithium Metal Anode",
+      "year": 2025,
+      "citations": 21,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:p2g8aNsByqUC"
+    },
+    {
       "title": "High-Energy-Density Li-Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li-Ion Kinetics and Electron Transfer",
       "year": 2025,
       "citations": 21,
@@ -263,12 +269,6 @@
       "year": 2015,
       "citations": 21,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:Y0pCki6q_DkC"
-    },
-    {
-      "title": "Insights Into Improving the Li-Ion Transference Number and Li Deposition Uniformity Toward a High-Current-Density Lithium Metal Anode",
-      "year": 2025,
-      "citations": 20,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:p2g8aNsByqUC"
     },
     {
       "title": "Dendrite-suppressed Li deposition enabled by surface-tailored carbon-based current collectors for high-rate and stable Li-metal batteries",
@@ -565,6 +565,5 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:BrmTIyaxlBUC"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-09-09T20:35:59Z"
+  "_source": "playwright_scholar"
 }
