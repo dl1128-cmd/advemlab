@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-10T20:31:25Z",
+  "updated_at": "2026-09-13T20:27:12Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2426,
-  "citations_recent5y": 1757,
+  "citations_total": 2437,
+  "citations_recent5y": 1768,
   "h_index": 26,
-  "i10_index": 51,
+  "i10_index": 52,
   "citations_history": [
     {
       "year": 2014,
@@ -48,15 +48,15 @@
     },
     {
       "year": 2024,
-      "count": 244
+      "count": 247
     },
     {
       "year": 2025,
-      "count": 461
+      "count": 458
     },
     {
       "year": 2026,
-      "count": 619
+      "count": 630
     }
   ],
   "papers": [
@@ -93,13 +93,13 @@
     {
       "title": "10 mAh cm−2 Cathode by Roll-to-Roll Process for Low Cost and High Energy Density Li-Ion Batteries",
       "year": 2024,
-      "citations": 107,
+      "citations": 108,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:35N4QoGY0k4C"
     },
     {
       "title": "Low-Resistance LiFePO4 Thick Film Electrode Processed with Dry Electrode Technology for High-Energy-Density Lithium-Ion Batteries",
       "year": 2024,
-      "citations": 97,
+      "citations": 99,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -121,16 +121,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:cFHS6HbyZ2cC"
     },
     {
+      "title": "Mitigating PTFE decomposition in ultra thick dry-processed anodes for high energy density lithium-ion batteries",
+      "year": 2024,
+      "citations": 61,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:HoB7MX3m0LUC"
+    },
+    {
       "title": "Hydroxylated Carbon Nanotubes Enhanced Sulfur Cathode for Improved Electrochemical Performance of Lithium-Sulfur Batteries",
       "year": 2015,
       "citations": 61,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:Tyk-4Ss8FVUC"
-    },
-    {
-      "title": "Mitigating PTFE decomposition in ultra thick dry-processed anodes for high energy density lithium-ion batteries",
-      "year": 2024,
-      "citations": 60,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:HoB7MX3m0LUC"
     },
     {
       "title": "Synergetic control of band gap and structural transformation for optimizing TiO2 photocatalysts",
@@ -183,8 +183,14 @@
     {
       "title": "Anode interface-stabilizing dry process employing a binary binder system for ultra-thick and durable battery electrode fabrication",
       "year": 2025,
-      "citations": 31,
+      "citations": 32,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:4OULZ7Gr8RgC"
+    },
+    {
+      "title": "Dry electrode technology: A new processing paradigm for enhancing performance and sustainability in lithium-based batteries",
+      "year": 2025,
+      "citations": 30,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:P5F9QuxV20EC"
     },
     {
       "title": "A new approach to stabilize the electrochemical performance of Li metal batteries through the structure alteration of CNT scaffolds",
@@ -199,22 +205,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:WbkHhVStYXYC"
     },
     {
+      "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
+      "year": 2024,
+      "citations": 29,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:M05iB0D1s5AC"
+    },
+    {
       "title": "Homogeneous Li Deposition guided by Ultra-thin Lithiophilic Layer for Highly Stable Anode-free Batteries",
       "year": 2023,
       "citations": 29,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:J_g5lzvAfSwC"
-    },
-    {
-      "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
-      "year": 2024,
-      "citations": 28,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:M05iB0D1s5AC"
-    },
-    {
-      "title": "Dry electrode technology: A new processing paradigm for enhancing performance and sustainability in lithium-based batteries",
-      "year": 2025,
-      "citations": 27,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:P5F9QuxV20EC"
     },
     {
       "title": "A Novel Structured Si-Based Composite with 2D Structured Graphite for High-Performance Lithium-Ion Batteries",
@@ -325,6 +325,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:vV6vV6tmYwMC"
     },
     {
+      "title": "Interfacially Reinforced Crosslinked Binder with Structural Integrity for Stable Micro-Sized Silicon Anodes in All-solid-state Batteries",
+      "year": 2026,
+      "citations": 13,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:geHnlv5EZngC"
+    },
+    {
       "title": "Tailored electrolyte additive design for suppressing irreversibility in dry-processed anodes and enhancing electrochemical stability in full-cells",
       "year": 2025,
       "citations": 13,
@@ -335,12 +341,6 @@
       "year": 2024,
       "citations": 13,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:pqnbT2bcN3wC"
-    },
-    {
-      "title": "Interfacially Reinforced Crosslinked Binder with Structural Integrity for Stable Micro-Sized Silicon Anodes in All-solid-state Batteries",
-      "year": 2026,
-      "citations": 12,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:geHnlv5EZngC"
     },
     {
       "title": "Improved Charge Carrier Dynamics by Unconventional Doping Strategy for BiVO4 Photoanode",
@@ -369,7 +369,7 @@
     {
       "title": "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
       "year": 2026,
-      "citations": 9,
+      "citations": 10,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:738O_yMBCRsC"
     },
     {
@@ -565,6 +565,5 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:BrmTIyaxlBUC"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-09-12T20:17:43Z"
+  "_source": "playwright_scholar"
 }
