@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-13T20:27:12Z",
+  "updated_at": "2026-09-15T20:57:18Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2437,
-  "citations_recent5y": 1768,
+  "citations_total": 2439,
+  "citations_recent5y": 1770,
   "h_index": 26,
   "i10_index": 52,
   "citations_history": [
@@ -56,7 +56,7 @@
     },
     {
       "year": 2026,
-      "count": 630
+      "count": 632
     }
   ],
   "papers": [
@@ -99,7 +99,7 @@
     {
       "title": "Low-Resistance LiFePO4 Thick Film Electrode Processed with Dry Electrode Technology for High-Energy-Density Lithium-Ion Batteries",
       "year": 2024,
-      "citations": 99,
+      "citations": 100,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -337,16 +337,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:UxriW0iASnsC"
     },
     {
+      "title": "Improved Charge Carrier Dynamics by Unconventional Doping Strategy for BiVO4 Photoanode",
+      "year": 2025,
+      "citations": 13,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:NhqRSupF_l8C"
+    },
+    {
       "title": "Directing the uniform and dense Li deposition via graphene-enhanced separators for high-stability Li metal batteries",
       "year": 2024,
       "citations": 13,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:pqnbT2bcN3wC"
-    },
-    {
-      "title": "Improved Charge Carrier Dynamics by Unconventional Doping Strategy for BiVO4 Photoanode",
-      "year": 2025,
-      "citations": 12,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:NhqRSupF_l8C"
     },
     {
       "title": "Electrically conductive Metal oxide-Assisted Multifunctional Separator for Highly Stable Lithium-Metal Batteries",
@@ -565,6 +565,5 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:BrmTIyaxlBUC"
     }
   ],
-  "_source": "playwright_scholar",
-  "_updated_at_source": "2026-09-14T21:36:18Z"
+  "_source": "playwright_scholar"
 }
