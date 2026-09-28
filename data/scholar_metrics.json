@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-27T21:01:18Z",
+  "updated_at": "2026-09-28T23:00:16Z",
   "user_id": "kSp8NsEAAAAJ",
-  "citations_total": 2478,
-  "citations_recent5y": 1809,
+  "citations_total": 2483,
+  "citations_recent5y": 1814,
   "h_index": 27,
   "i10_index": 54,
   "citations_history": [
@@ -52,11 +52,11 @@
     },
     {
       "year": 2025,
-      "count": 459
+      "count": 460
     },
     {
       "year": 2026,
-      "count": 669
+      "count": 673
     }
   ],
   "papers": [
@@ -195,7 +195,7 @@
     {
       "title": "Dry electrode technology: A new processing paradigm for enhancing performance and sustainability in lithium-based batteries",
       "year": 2025,
-      "citations": 31,
+      "citations": 32,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:P5F9QuxV20EC"
     },
     {
@@ -229,16 +229,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:4JMBOYKVnBMC"
     },
     {
+      "title": "Insights Into Improving the Li-Ion Transference Number and Li Deposition Uniformity Toward a High-Current-Density Lithium Metal Anode",
+      "year": 2025,
+      "citations": 23,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:p2g8aNsByqUC"
+    },
+    {
       "title": "A Novel High-Performance TiO2-x/TiO1-yNy Coating Material for Silicon Anode in Lithium-Ion Batteries",
       "year": 2022,
       "citations": 23,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:JV2RwH3_ST0C"
-    },
-    {
-      "title": "Insights Into Improving the Li-Ion Transference Number and Li Deposition Uniformity Toward a High-Current-Density Lithium Metal Anode",
-      "year": 2025,
-      "citations": 22,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:p2g8aNsByqUC"
     },
     {
       "title": "High-Energy-Density Li-Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li-Ion Kinetics and Electron Transfer",
@@ -301,16 +301,16 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:M3NEmzRMIkIC"
     },
     {
+      "title": "Polyanion-assisted ionic-electronic conductive agents designed for high density Si-based anodes",
+      "year": 2022,
+      "citations": 17,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:blknAaTinKkC"
+    },
+    {
       "title": "LEGO-like assembly of peelable, deformable components for integrated devices",
       "year": 2013,
       "citations": 17,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:9yKSN-GCB0IC"
-    },
-    {
-      "title": "Polyanion-assisted ionic-electronic conductive agents designed for high density Si-based anodes",
-      "year": 2022,
-      "citations": 16,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:blknAaTinKkC"
     },
     {
       "title": "Uniform Li deposition through Graphene-based Ion-Flux regulator for high-rate Li metal batteries",
@@ -323,6 +323,12 @@
       "year": 2024,
       "citations": 14,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:ZHo1McVdvXMC"
+    },
+    {
+      "title": "Directing the uniform and dense Li deposition via graphene-enhanced separators for high-stability Li metal batteries",
+      "year": 2024,
+      "citations": 14,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:pqnbT2bcN3wC"
     },
     {
       "title": "Interfacially Reinforced Crosslinked Binder with Structural Integrity for Stable Micro-Sized Silicon Anodes in All-solid-state Batteries",
@@ -341,12 +347,6 @@
       "year": 2025,
       "citations": 13,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:NhqRSupF_l8C"
-    },
-    {
-      "title": "Directing the uniform and dense Li deposition via graphene-enhanced separators for high-stability Li metal batteries",
-      "year": 2024,
-      "citations": 13,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:pqnbT2bcN3wC"
     },
     {
       "title": "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
@@ -409,6 +409,12 @@
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:maZDTaKrznsC"
     },
     {
+      "title": "Tailored phase–valence coupling by aliovalent substitution toward high-rate and stable vanadium oxide cathodes for aqueous zinc-ion batteries",
+      "year": 2026,
+      "citations": 7,
+      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:08ZZubdj9fEC"
+    },
+    {
       "title": "Elucidating mechanism of Se-induced lattice oxygen activation and structural stability in perovskite oxide for oxygen evolution catalysis",
       "year": 2025,
       "citations": 7,
@@ -455,12 +461,6 @@
       "year": 2026,
       "citations": 6,
       "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:l7t_Zn2s7bgC"
-    },
-    {
-      "title": "Tailored phase–valence coupling by aliovalent substitution toward high-rate and stable vanadium oxide cathodes for aqueous zinc-ion batteries",
-      "year": 2026,
-      "citations": 6,
-      "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSp8NsEAAAAJ&pagesize=100&citation_for_view=kSp8NsEAAAAJ:08ZZubdj9fEC"
     },
     {
       "title": "Two Steps Li Ion Storage Mechanism in Ruddlesden-Popper Li2La2Ti3O10",
