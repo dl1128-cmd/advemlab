@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-28T22:17:58Z",
+  "updated_at": "2026-10-29T22:31:05Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2486,
-  "citations_recent5y": 1501,
+  "citations_total": 2487,
+  "citations_recent5y": 1502,
   "h_index": 26,
   "i10_index": 57,
   "citations_history": [
@@ -85,7 +85,7 @@
     },
     {
       "year": 2026,
-      "count": 542
+      "count": 543
     }
   ],
   "papers": [
@@ -116,7 +116,7 @@
     {
       "title": "Fast and Trap-Minimized Li Transport via Size-Mismatch-Driven Cation-Ordering Control in Li-Excess Disordered Rocksalt Cathodes",
       "year": 2026,
-      "citations": 1,
+      "citations": 2,
       "scholar_link": "https://doi.org/10.1021/acsnano.5c22044"
     },
     {
