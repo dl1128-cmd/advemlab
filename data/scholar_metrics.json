@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T22:31:05Z",
+  "updated_at": "2026-10-30T22:00:18Z",
   "user_id": "",
   "openalex_id": "A5044939082",
   "citations_total": 2487,
@@ -314,7 +314,7 @@
     {
       "title": "Mitigating PTFE decomposition in ultra thick dry-processed anodes for high energy density lithium-ion batteries",
       "year": 2024,
-      "citations": 53,
+      "citations": 54,
       "scholar_link": "https://doi.org/10.1016/j.est.2024.112693"
     },
     {
