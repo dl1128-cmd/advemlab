@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03T00:40:05Z",
+  "updated_at": "2026-11-03T23:01:05Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2491,
-  "citations_recent5y": 1506,
+  "citations_total": 2494,
+  "citations_recent5y": 1509,
   "h_index": 26,
-  "i10_index": 57,
+  "i10_index": 58,
   "citations_history": [
     {
       "year": 2007,
@@ -29,11 +29,11 @@
     },
     {
       "year": 2012,
-      "count": 16
+      "count": 15
     },
     {
       "year": 2013,
-      "count": 31
+      "count": 32
     },
     {
       "year": 2014,
@@ -77,7 +77,7 @@
     },
     {
       "year": 2024,
-      "count": 252
+      "count": 251
     },
     {
       "year": 2025,
@@ -85,7 +85,7 @@
     },
     {
       "year": 2026,
-      "count": 547
+      "count": 551
     }
   ],
   "papers": [
@@ -104,7 +104,7 @@
     {
       "title": "Integrated one-step dry process enabling prelithiated thick electrodes without primer coating for high energy density and initial coulombic efficiency",
       "year": 2026,
-      "citations": 9,
+      "citations": 10,
       "scholar_link": "https://doi.org/10.1039/d5ee05739f"
     },
     {
@@ -162,16 +162,16 @@
       "scholar_link": "https://doi.org/10.1016/j.cej.2025.165044"
     },
     {
+      "title": "Beyond the Limits of Lithium Iron Phosphate: Cutting‐Edge Innovations Toward High Performance and Sustainability for Next‐Generation Batteries",
+      "year": 2025,
+      "citations": 26,
+      "scholar_link": "https://doi.org/10.1002/idm2.70024"
+    },
+    {
       "title": "Inorganic Solid‐State Electrolytes for Solid‐State Sodium Batteries: Electrolyte Design and Interfacial Challenges",
       "year": 2025,
       "citations": 25,
       "scholar_link": "https://doi.org/10.1002/celc.202400612"
-    },
-    {
-      "title": "Beyond the Limits of Lithium Iron Phosphate: Cutting‐Edge Innovations Toward High Performance and Sustainability for Next‐Generation Batteries",
-      "year": 2025,
-      "citations": 25,
-      "scholar_link": "https://doi.org/10.1002/idm2.70024"
     },
     {
       "title": "High‐Energy‐Density Li‐Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li‐Ion Kinetics and Electron Transfer",
@@ -300,16 +300,16 @@
       "scholar_link": "https://doi.org/10.1002/smsc.202300302"
     },
     {
+      "title": "Interfacial Challenges of Halide‐Based All‐Solid‐State Batteries",
+      "year": 2024,
+      "citations": 67,
+      "scholar_link": "https://doi.org/10.1002/aenm.202403986"
+    },
+    {
       "title": "10 mAh cm −2 Cathode by Roll‐to‐Roll Process for Low Cost and High Energy Density Li‐Ion Batteries",
       "year": 2024,
       "citations": 66,
       "scholar_link": "https://doi.org/10.1002/aenm.202303455"
-    },
-    {
-      "title": "Interfacial Challenges of Halide‐Based All‐Solid‐State Batteries",
-      "year": 2024,
-      "citations": 66,
-      "scholar_link": "https://doi.org/10.1002/aenm.202403986"
     },
     {
       "title": "Mitigating PTFE decomposition in ultra thick dry-processed anodes for high energy density lithium-ion batteries",
@@ -338,7 +338,7 @@
     {
       "title": "Recent Advances in Anode-free Solid-state Batteries: A Review",
       "year": 2024,
-      "citations": 24,
+      "citations": 23,
       "scholar_link": "https://doi.org/10.33961/jecst.2024.00759"
     },
     {
@@ -674,7 +674,7 @@
     {
       "title": "Three-dimensional Gd-doped TiO 2 fibrous photoelectrodes for efficient visible light-driven photocatalytic performance",
       "year": 2014,
-      "citations": 33,
+      "citations": 34,
       "scholar_link": "https://doi.org/10.1039/c3ra46851h"
     },
     {
@@ -716,7 +716,7 @@
     {
       "title": "Patterned oxide semiconductor by electrohydrodynamic jet printing for transparent thin film transistors",
       "year": 2012,
-      "citations": 69,
+      "citations": 68,
       "scholar_link": "https://doi.org/10.1063/1.3691177"
     },
     {
@@ -776,7 +776,7 @@
     {
       "title": "Fast and sensitive trace analysis of malachite green using a surface-enhanced Raman microfluidic sensor",
       "year": 2007,
-      "citations": 159,
+      "citations": 160,
       "scholar_link": "https://doi.org/10.1016/j.aca.2007.03.049"
     },
     {
