@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-01T21:47:17Z",
+  "updated_at": "2026-11-03T00:40:05Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2489,
-  "citations_recent5y": 1504,
+  "citations_total": 2491,
+  "citations_recent5y": 1506,
   "h_index": 26,
   "i10_index": 57,
   "citations_history": [
@@ -85,7 +85,7 @@
     },
     {
       "year": 2026,
-      "count": 545
+      "count": 547
     }
   ],
   "papers": [
@@ -120,6 +120,12 @@
       "scholar_link": "https://doi.org/10.1021/acsnano.5c22044"
     },
     {
+      "title": "Magnesium as a cross-domain regulator in aqueous zinc-ion batteries",
+      "year": 2026,
+      "citations": 1,
+      "scholar_link": "https://doi.org/10.1016/j.jma.2026.102221"
+    },
+    {
       "title": "Abuse‐Tolerant Separator Enabled by Surface Charge Modulation and Structural Reinforcement for High‐Safety Lithium‐Ion Batteries (Adv. Funct. Mater. 34/2026)",
       "year": 2026,
       "citations": 0,
@@ -144,12 +150,6 @@
       "scholar_link": "https://doi.org/10.2139/ssrn.7180401"
     },
     {
-      "title": "Magnesium as a cross-domain regulator in aqueous zinc-ion batteries",
-      "year": 2026,
-      "citations": 0,
-      "scholar_link": "https://doi.org/10.1016/j.jma.2026.102221"
-    },
-    {
       "title": "Decoding Multiscale Degradation of Layered Cathodes in All‐Solid‐State Lithium Batteries: An Advanced Diagnostics‐Driven Framework",
       "year": 2026,
       "citations": 0,
@@ -170,7 +170,7 @@
     {
       "title": "Beyond the Limits of Lithium Iron Phosphate: Cutting‐Edge Innovations Toward High Performance and Sustainability for Next‐Generation Batteries",
       "year": 2025,
-      "citations": 24,
+      "citations": 25,
       "scholar_link": "https://doi.org/10.1002/idm2.70024"
     },
     {
