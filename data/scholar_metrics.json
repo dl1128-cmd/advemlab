@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-04T23:18:40Z",
+  "updated_at": "2026-11-05T23:31:17Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2504,
-  "citations_recent5y": 1520,
+  "citations_total": 2505,
+  "citations_recent5y": 1521,
   "h_index": 27,
   "i10_index": 58,
   "citations_history": [
@@ -85,7 +85,7 @@
     },
     {
       "year": 2026,
-      "count": 560
+      "count": 561
     }
   ],
   "papers": [
@@ -500,7 +500,7 @@
     {
       "title": "A Novel High‐Performance TiO 2‐x /TiO 1‐y N y Coating Material for Silicon Anode in Lithium‐Ion Batteries",
       "year": 2022,
-      "citations": 23,
+      "citations": 24,
       "scholar_link": "https://doi.org/10.1002/smtd.202200430"
     },
     {
