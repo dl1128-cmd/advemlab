@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-06T22:57:16Z",
+  "updated_at": "2026-11-07T21:32:11Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2505,
-  "citations_recent5y": 1521,
+  "citations_total": 2531,
+  "citations_recent5y": 1541,
   "h_index": 27,
   "i10_index": 58,
   "citations_history": [
@@ -29,7 +29,7 @@
     },
     {
       "year": 2012,
-      "count": 15
+      "count": 16
     },
     {
       "year": 2013,
@@ -49,7 +49,7 @@
     },
     {
       "year": 2017,
-      "count": 98
+      "count": 99
     },
     {
       "year": 2018,
@@ -61,11 +61,11 @@
     },
     {
       "year": 2020,
-      "count": 134
+      "count": 135
     },
     {
       "year": 2021,
-      "count": 132
+      "count": 134
     },
     {
       "year": 2022,
@@ -73,32 +73,32 @@
     },
     {
       "year": 2023,
-      "count": 149
+      "count": 152
     },
     {
       "year": 2024,
-      "count": 250
+      "count": 254
     },
     {
       "year": 2025,
-      "count": 428
+      "count": 434
     },
     {
       "year": 2026,
-      "count": 561
+      "count": 568
     }
   ],
   "papers": [
     {
       "title": "Interfacially Reinforced Crosslinked Binder with Structural Integrity for Stable Micro‐Sized Silicon Anodes in All‐solid‐state Batteries",
       "year": 2026,
-      "citations": 14,
+      "citations": 15,
       "scholar_link": "https://doi.org/10.1002/advs.202600022"
     },
     {
       "title": "A uniform lithium ion flux and robust interphase enabled by an anion anchoring additive for high energy density Si-based anodes",
       "year": 2026,
-      "citations": 11,
+      "citations": 12,
       "scholar_link": "https://doi.org/10.1039/d6ta01386d"
     },
     {
@@ -162,16 +162,16 @@
       "scholar_link": "https://doi.org/10.1016/j.cej.2025.165044"
     },
     {
+      "title": "Beyond the Limits of Lithium Iron Phosphate: Cutting‐Edge Innovations Toward High Performance and Sustainability for Next‐Generation Batteries",
+      "year": 2025,
+      "citations": 28,
+      "scholar_link": "https://doi.org/10.1002/idm2.70024"
+    },
+    {
       "title": "Inorganic Solid‐State Electrolytes for Solid‐State Sodium Batteries: Electrolyte Design and Interfacial Challenges",
       "year": 2025,
       "citations": 27,
       "scholar_link": "https://doi.org/10.1002/celc.202400612"
-    },
-    {
-      "title": "Beyond the Limits of Lithium Iron Phosphate: Cutting‐Edge Innovations Toward High Performance and Sustainability for Next‐Generation Batteries",
-      "year": 2025,
-      "citations": 27,
-      "scholar_link": "https://doi.org/10.1002/idm2.70024"
     },
     {
       "title": "High‐Energy‐Density Li‐Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li‐Ion Kinetics and Electron Transfer",
@@ -194,7 +194,7 @@
     {
       "title": "Ion-flux-boosted polyimide separators via synergistic pore and surface charge engineering for highly stable Li- and Na-metal batteries",
       "year": 2025,
-      "citations": 8,
+      "citations": 9,
       "scholar_link": "https://doi.org/10.1016/j.cej.2025.165508"
     },
     {
@@ -222,16 +222,16 @@
       "scholar_link": "https://doi.org/10.1016/j.apsadv.2025.100819"
     },
     {
+      "title": "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors",
+      "year": 2025,
+      "citations": 4,
+      "scholar_link": "https://doi.org/10.1038/s41528-025-00474-9"
+    },
+    {
       "title": "Lithium Nitride-rich Li Protection Layer via Facile Lewis Acid–Base Reaction for Li Metal Batteries",
       "year": 2025,
       "citations": 4,
       "scholar_link": "https://doi.org/10.1021/acs.iecr.5c02132"
-    },
-    {
-      "title": "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors",
-      "year": 2025,
-      "citations": 3,
-      "scholar_link": "https://doi.org/10.1038/s41528-025-00474-9"
     },
     {
       "title": "Mechanochemically Boosting Additive for Robust Si/C Anodes in High‐Energy‐Density Li‐Ion Batteries",
@@ -284,7 +284,7 @@
     {
       "title": "Low‐Resistance LiFePO4Thick Film Electrode Processed with Dry Electrode Technology for High‐Energy‐Density Lithium‐Ion Batteries",
       "year": 2024,
-      "citations": 99,
+      "citations": 100,
       "scholar_link": "https://doi.org/10.1002/smsc.202300302"
     },
     {
@@ -302,7 +302,7 @@
     {
       "title": "Mitigating PTFE decomposition in ultra thick dry-processed anodes for high energy density lithium-ion batteries",
       "year": 2024,
-      "citations": 55,
+      "citations": 56,
       "scholar_link": "https://doi.org/10.1016/j.est.2024.112693"
     },
     {
@@ -314,7 +314,7 @@
     {
       "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
       "year": 2024,
-      "citations": 28,
+      "citations": 29,
       "scholar_link": "https://doi.org/10.1016/j.apsusc.2024.160023"
     },
     {
@@ -446,7 +446,7 @@
     {
       "title": "Silicon-stabilized lithium metal powder (SLMP) composite anodes for fast charging by in-situ prelithiation",
       "year": 2023,
-      "citations": 41,
+      "citations": 42,
       "scholar_link": "https://doi.org/10.1016/j.jpowsour.2023.233326"
     },
     {
@@ -470,7 +470,7 @@
     {
       "title": "Towards high performance Li metal batteries: Surface functionalized graphene separator with improved electrochemical kinetics and stability",
       "year": 2023,
-      "citations": 19,
+      "citations": 20,
       "scholar_link": "https://doi.org/10.1016/j.elecom.2023.107598"
     },
     {
@@ -504,16 +504,16 @@
       "scholar_link": "https://doi.org/10.1002/smtd.202200430"
     },
     {
-      "title": "Polyanion-assisted ionic-electronic conductive agents designed for high density Si-based anodes",
-      "year": 2022,
-      "citations": 17,
-      "scholar_link": "https://doi.org/10.1016/j.jpowsour.2022.231728"
-    },
-    {
       "title": "Concentration Gradient Induced Delithiation Failure of MoO3 for Li-Ion Batteries",
       "year": 2022,
       "citations": 18,
       "scholar_link": "https://doi.org/10.1021/acs.nanolett.1c04290"
+    },
+    {
+      "title": "Polyanion-assisted ionic-electronic conductive agents designed for high density Si-based anodes",
+      "year": 2022,
+      "citations": 17,
+      "scholar_link": "https://doi.org/10.1016/j.jpowsour.2022.231728"
     },
     {
       "title": "Size Effect of a Piezoelectric Material as a Separator Coating Layer for Suppressing Dendritic Li Growth in Li Metal Batteries",
@@ -522,21 +522,21 @@
       "scholar_link": "https://doi.org/10.3390/nano13010090"
     },
     {
-      "title": "Coordinated Steering Angle and Yaw Moment Distribution to Increase Vehicle Regenerative Energy in Autonomous Driving",
-      "year": 2022,
-      "citations": 5,
-      "scholar_link": "https://doi.org/10.1109/itsc55140.2022.9921910"
-    },
-    {
       "title": "Achieving Cycling Stability in Anode of Lithium-Ion Batteries with Silicon-Embedded Titanium Oxynitride Microsphere",
       "year": 2022,
       "citations": 8,
       "scholar_link": "https://doi.org/10.3390/nano13010132"
     },
     {
+      "title": "Coordinated Steering Angle and Yaw Moment Distribution to Increase Vehicle Regenerative Energy in Autonomous Driving",
+      "year": 2022,
+      "citations": 5,
+      "scholar_link": "https://doi.org/10.1109/itsc55140.2022.9921910"
+    },
+    {
       "title": "A roadmap of battery separator development: Past and future",
       "year": 2021,
-      "citations": 90,
+      "citations": 96,
       "scholar_link": "https://doi.org/10.1016/j.coelec.2021.100858"
     },
     {
@@ -566,7 +566,7 @@
     {
       "title": "Synergistic protective effect of a BN-carbon separator for highly stable lithium sulfur batteries",
       "year": 2017,
-      "citations": 107,
+      "citations": 108,
       "scholar_link": "https://doi.org/10.1038/am.2017.51"
     },
     {
@@ -578,7 +578,7 @@
     {
       "title": "WO 3 /W:BiVO 4 /BiVO 4 graded photoabsorber electrode for enhanced photoelectrocatalytic solar light driven water oxidation",
       "year": 2017,
-      "citations": 49,
+      "citations": 50,
       "scholar_link": "https://doi.org/10.1039/c6cp08199a"
     },
     {
@@ -614,7 +614,7 @@
     {
       "title": "Miniaturized Flexible Electronic Systems with Wireless Power and Near‐Field Communication Capabilities",
       "year": 2015,
-      "citations": 191,
+      "citations": 195,
       "scholar_link": "https://doi.org/10.1002/adfm.201501590"
     },
     {
@@ -704,7 +704,7 @@
     {
       "title": "Patterned oxide semiconductor by electrohydrodynamic jet printing for transparent thin film transistors",
       "year": 2012,
-      "citations": 68,
+      "citations": 69,
       "scholar_link": "https://doi.org/10.1063/1.3691177"
     },
     {
@@ -716,7 +716,7 @@
     {
       "title": "Effects of cerium content on wettability, microstructure and mechanical properties of Sn–Ag–Ce solder alloys",
       "year": 2010,
-      "citations": 40,
+      "citations": 41,
       "scholar_link": "https://doi.org/10.1016/j.jallcom.2010.03.179"
     },
     {
@@ -764,13 +764,13 @@
     {
       "title": "Fast and sensitive trace analysis of malachite green using a surface-enhanced Raman microfluidic sensor",
       "year": 2007,
-      "citations": 160,
+      "citations": 161,
       "scholar_link": "https://doi.org/10.1016/j.aca.2007.03.049"
     },
     {
       "title": "Oxidation behavior of bulk amorphous Ni57Ti18Zr20Si3Sn2 coatings between 473 and 973K in air",
       "year": 2007,
-      "citations": 6,
+      "citations": 7,
       "scholar_link": "https://doi.org/10.1016/j.jallcom.2006.02.106"
     }
   ],
