@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-07T21:32:11Z",
+  "updated_at": "2026-11-08T21:47:04Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2531,
-  "citations_recent5y": 1541,
+  "citations_total": 2533,
+  "citations_recent5y": 1543,
   "h_index": 27,
   "i10_index": 58,
   "citations_history": [
@@ -85,7 +85,7 @@
     },
     {
       "year": 2026,
-      "count": 568
+      "count": 570
     }
   ],
   "papers": [
@@ -206,7 +206,7 @@
     {
       "title": "Synergistic enhancement of microstructural homogeneity and mechanical strength in SiOx@C anodes via a graphene nanoribbon-based conductive agent",
       "year": 2025,
-      "citations": 5,
+      "citations": 6,
       "scholar_link": "https://doi.org/10.1016/j.jpowsour.2025.237060"
     },
     {
@@ -536,7 +536,7 @@
     {
       "title": "A roadmap of battery separator development: Past and future",
       "year": 2021,
-      "citations": 96,
+      "citations": 97,
       "scholar_link": "https://doi.org/10.1016/j.coelec.2021.100858"
     },
     {
