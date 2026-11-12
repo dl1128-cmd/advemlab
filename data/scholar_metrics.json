@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-12T00:09:42Z",
+  "updated_at": "2026-11-12T23:16:57Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2563,
-  "citations_recent5y": 1573,
+  "citations_total": 2567,
+  "citations_recent5y": 1576,
   "h_index": 28,
   "i10_index": 58,
   "citations_history": [
@@ -61,7 +61,7 @@
     },
     {
       "year": 2020,
-      "count": 135
+      "count": 136
     },
     {
       "year": 2021,
@@ -81,11 +81,11 @@
     },
     {
       "year": 2025,
-      "count": 438
+      "count": 439
     },
     {
       "year": 2026,
-      "count": 596
+      "count": 598
     }
   ],
   "papers": [
@@ -188,7 +188,7 @@
     {
       "title": "Improved Charge Carrier Dynamics by Unconventional Doping Strategy for BiVO 4 Photoanode",
       "year": 2025,
-      "citations": 16,
+      "citations": 17,
       "scholar_link": "https://doi.org/10.1002/smsc.202500051"
     },
     {
@@ -308,7 +308,7 @@
     {
       "title": "Mitigating PTFE decomposition in ultra thick dry-processed anodes for high energy density lithium-ion batteries",
       "year": 2024,
-      "citations": 60,
+      "citations": 61,
       "scholar_link": "https://doi.org/10.1016/j.est.2024.112693"
     },
     {
@@ -524,7 +524,7 @@
     {
       "title": "Size Effect of a Piezoelectric Material as a Separator Coating Layer for Suppressing Dendritic Li Growth in Li Metal Batteries",
       "year": 2022,
-      "citations": 12,
+      "citations": 13,
       "scholar_link": "https://doi.org/10.3390/nano13010090"
     },
     {
@@ -674,7 +674,7 @@
     {
       "title": "3D Cross-Linked Nanoweb Architecture of Binder-Free TiO2 Electrodes for Lithium Ion Batteries",
       "year": 2013,
-      "citations": 69,
+      "citations": 70,
       "scholar_link": "https://doi.org/10.1021/am404082h"
     },
     {
