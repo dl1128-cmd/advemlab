@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-10T22:56:06Z",
+  "updated_at": "2026-11-12T00:09:42Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2557,
-  "citations_recent5y": 1567,
+  "citations_total": 2563,
+  "citations_recent5y": 1573,
   "h_index": 28,
   "i10_index": 58,
   "citations_history": [
@@ -85,20 +85,20 @@
     },
     {
       "year": 2026,
-      "count": 590
+      "count": 596
     }
   ],
   "papers": [
     {
       "title": "Interfacially Reinforced Crosslinked Binder with Structural Integrity for Stable Micro‐Sized Silicon Anodes in All‐solid‐state Batteries",
       "year": 2026,
-      "citations": 14,
+      "citations": 15,
       "scholar_link": "https://doi.org/10.1002/advs.202600022"
     },
     {
       "title": "A uniform lithium ion flux and robust interphase enabled by an anion anchoring additive for high energy density Si-based anodes",
       "year": 2026,
-      "citations": 12,
+      "citations": 13,
       "scholar_link": "https://doi.org/10.1039/d6ta01386d"
     },
     {
@@ -110,7 +110,7 @@
     {
       "title": "Tailored phase–valence coupling by aliovalent substitution toward high-rate and stable vanadium oxide cathodes for aqueous zinc-ion batteries",
       "year": 2026,
-      "citations": 8,
+      "citations": 9,
       "scholar_link": "https://doi.org/10.1016/j.cej.2026.174281"
     },
     {
@@ -154,6 +154,12 @@
       "year": 2026,
       "citations": 0,
       "scholar_link": "https://doi.org/10.1002/aenm.71528"
+    },
+    {
+      "title": "Coupling Fast Zn 2+ Kinetics With V–O Framework Stabilization via Nitrogen‐Rich Interfacial Engineering of Spinel ZnV 2 O 4",
+      "year": 2026,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.1002/advs.78612"
     },
     {
       "title": "Dry electrode technology: A new processing paradigm for enhancing performance and sustainability in lithium-based batteries",
@@ -216,6 +222,12 @@
       "scholar_link": "https://doi.org/10.1038/s41528-025-00474-9"
     },
     {
+      "title": "Mechanochemically Boosting Additive for Robust Si/C Anodes in High‐Energy‐Density Li‐Ion Batteries",
+      "year": 2025,
+      "citations": 5,
+      "scholar_link": "https://doi.org/10.1155/er/1198001"
+    },
+    {
       "title": "Anode SHIELD: A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries",
       "year": 2025,
       "citations": 4,
@@ -232,12 +244,6 @@
       "year": 2025,
       "citations": 4,
       "scholar_link": "https://doi.org/10.1021/acs.iecr.5c02132"
-    },
-    {
-      "title": "Mechanochemically Boosting Additive for Robust Si/C Anodes in High‐Energy‐Density Li‐Ion Batteries",
-      "year": 2025,
-      "citations": 4,
-      "scholar_link": "https://doi.org/10.1155/er/1198001"
     },
     {
       "title": "Structurally disordered lithiophilic graphene via solid-state exfoliation enables reversible lithium deposition with fast kinetics",
@@ -308,7 +314,7 @@
     {
       "title": "Anode interface-stabilizing dry process employing a binary binder system for ultra-thick and durable battery electrode fabrication",
       "year": 2024,
-      "citations": 39,
+      "citations": 40,
       "scholar_link": "https://doi.org/10.1016/j.cej.2024.158271"
     },
     {
@@ -494,7 +500,7 @@
     {
       "title": "A new approach to stabilize the electrochemical performance of Li metal batteries through the structure alteration of CNT scaffolds",
       "year": 2022,
-      "citations": 31,
+      "citations": 32,
       "scholar_link": "https://doi.org/10.1016/j.carbon.2022.11.101"
     },
     {
