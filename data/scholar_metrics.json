@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-12T23:16:57Z",
+  "updated_at": "2026-11-13T23:20:03Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2567,
-  "citations_recent5y": 1576,
+  "citations_total": 2578,
+  "citations_recent5y": 1587,
   "h_index": 28,
   "i10_index": 58,
   "citations_history": [
@@ -85,7 +85,7 @@
     },
     {
       "year": 2026,
-      "count": 598
+      "count": 609
     }
   ],
   "papers": [
@@ -126,6 +126,12 @@
       "scholar_link": "https://doi.org/10.1016/j.jma.2026.102221"
     },
     {
+      "title": "Decoding Multiscale Degradation of Layered Cathodes in All‐Solid‐State Lithium Batteries: An Advanced Diagnostics‐Driven Framework",
+      "year": 2026,
+      "citations": 1,
+      "scholar_link": "https://doi.org/10.1002/aenm.71528"
+    },
+    {
       "title": "Abuse‐Tolerant Separator Enabled by Surface Charge Modulation and Structural Reinforcement for High‐Safety Lithium‐Ion Batteries (Adv. Funct. Mater. 34/2026)",
       "year": 2026,
       "citations": 0,
@@ -144,16 +150,10 @@
       "scholar_link": "https://doi.org/10.1002/bte2.70135"
     },
     {
-      "title": "Adsorption-Regulated Interfacial Activator for Li-Plating-Tolerant High-Energy-Density Silicon/Graphite Anodes",
+      "title": "Adsorption-regulated interfacial activator for Li-plating-tolerant high-energy-density silicon/graphite anodes",
       "year": 2026,
       "citations": 0,
-      "scholar_link": "https://doi.org/10.2139/ssrn.7180401"
-    },
-    {
-      "title": "Decoding Multiscale Degradation of Layered Cathodes in All‐Solid‐State Lithium Batteries: An Advanced Diagnostics‐Driven Framework",
-      "year": 2026,
-      "citations": 0,
-      "scholar_link": "https://doi.org/10.1002/aenm.71528"
+      "scholar_link": "https://doi.org/10.1016/j.cej.2026.184201"
     },
     {
       "title": "Coupling Fast Zn 2+ Kinetics With V–O Framework Stabilization via Nitrogen‐Rich Interfacial Engineering of Spinel ZnV 2 O 4",
@@ -210,21 +210,21 @@
       "scholar_link": "https://doi.org/10.1016/j.jpowsour.2025.238152"
     },
     {
+      "title": "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors",
+      "year": 2025,
+      "citations": 7,
+      "scholar_link": "https://doi.org/10.1038/s41528-025-00474-9"
+    },
+    {
       "title": "Synergistic enhancement of microstructural homogeneity and mechanical strength in SiOx@C anodes via a graphene nanoribbon-based conductive agent",
       "year": 2025,
       "citations": 6,
       "scholar_link": "https://doi.org/10.1016/j.jpowsour.2025.237060"
     },
     {
-      "title": "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors",
-      "year": 2025,
-      "citations": 6,
-      "scholar_link": "https://doi.org/10.1038/s41528-025-00474-9"
-    },
-    {
       "title": "Mechanochemically Boosting Additive for Robust Si/C Anodes in High‐Energy‐Density Li‐Ion Batteries",
       "year": 2025,
-      "citations": 5,
+      "citations": 6,
       "scholar_link": "https://doi.org/10.1155/er/1198001"
     },
     {
@@ -290,7 +290,7 @@
     {
       "title": "Low‐Resistance LiFePO4Thick Film Electrode Processed with Dry Electrode Technology for High‐Energy‐Density Lithium‐Ion Batteries",
       "year": 2024,
-      "citations": 102,
+      "citations": 103,
       "scholar_link": "https://doi.org/10.1002/smsc.202300302"
     },
     {
@@ -302,7 +302,7 @@
     {
       "title": "Interfacial Challenges of Halide‐Based All‐Solid‐State Batteries",
       "year": 2024,
-      "citations": 67,
+      "citations": 68,
       "scholar_link": "https://doi.org/10.1002/aenm.202403986"
     },
     {
@@ -320,13 +320,13 @@
     {
       "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
       "year": 2024,
-      "citations": 30,
+      "citations": 31,
       "scholar_link": "https://doi.org/10.1016/j.apsusc.2024.160023"
     },
     {
       "title": "A Novel Structured Si‐Based Composite with 2D Structured Graphite for High‐Performance Lithium‐Ion Batteries",
       "year": 2024,
-      "citations": 25,
+      "citations": 26,
       "scholar_link": "https://doi.org/10.1002/smll.202405005"
     },
     {
@@ -338,13 +338,13 @@
     {
       "title": "Regulating Li electrodeposition by constructing Cu–Sn nanotube thin layer for reliable and robust anode‐free all‐solid‐state batteries",
       "year": 2024,
-      "citations": 21,
+      "citations": 22,
       "scholar_link": "https://doi.org/10.1002/cey2.610"
     },
     {
       "title": "Dendrite-suppressed Li deposition enabled by surface-tailored carbon-based current collectors for high-rate and stable Li-metal batteries",
       "year": 2024,
-      "citations": 20,
+      "citations": 21,
       "scholar_link": "https://doi.org/10.1016/j.carbon.2024.118941"
     },
     {
@@ -542,13 +542,13 @@
     {
       "title": "A roadmap of battery separator development: Past and future",
       "year": 2021,
-      "citations": 98,
+      "citations": 99,
       "scholar_link": "https://doi.org/10.1016/j.coelec.2021.100858"
     },
     {
       "title": "A Strategic Approach to Use Upcycled Si Nanomaterials for Stable Operation of Lithium-Ion Batteries",
       "year": 2021,
-      "citations": 6,
+      "citations": 7,
       "scholar_link": "https://doi.org/10.3390/nano11123248"
     },
     {
