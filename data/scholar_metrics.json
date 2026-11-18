@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-18T00:42:59Z",
+  "updated_at": "2026-11-18T23:58:53Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2743,
-  "citations_recent5y": 1714,
+  "citations_total": 2744,
+  "citations_recent5y": 1715,
   "h_index": 29,
   "i10_index": 58,
   "citations_history": [
@@ -85,7 +85,7 @@
     },
     {
       "year": 2026,
-      "count": 693
+      "count": 694
     }
   ],
   "papers": [
@@ -98,7 +98,7 @@
     {
       "title": "A uniform lithium ion flux and robust interphase enabled by an anion anchoring additive for high energy density Si-based anodes",
       "year": 2026,
-      "citations": 13,
+      "citations": 14,
       "scholar_link": "https://doi.org/10.1039/d6ta01386d"
     },
     {
