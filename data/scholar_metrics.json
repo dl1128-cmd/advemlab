@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-17T01:41:13Z",
+  "updated_at": "2026-11-18T00:42:59Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2739,
-  "citations_recent5y": 1710,
+  "citations_total": 2743,
+  "citations_recent5y": 1714,
   "h_index": 29,
   "i10_index": 58,
   "citations_history": [
@@ -85,7 +85,7 @@
     },
     {
       "year": 2026,
-      "count": 689
+      "count": 693
     }
   ],
   "papers": [
@@ -104,7 +104,7 @@
     {
       "title": "Integrated one-step dry process enabling prelithiated thick electrodes without primer coating for high energy density and initial coulombic efficiency",
       "year": 2026,
-      "citations": 11,
+      "citations": 12,
       "scholar_link": "https://doi.org/10.1039/d5ee05739f"
     },
     {
@@ -176,7 +176,7 @@
     {
       "title": "Dry electrode technology: A new processing paradigm for enhancing performance and sustainability in lithium-based batteries",
       "year": 2025,
-      "citations": 33,
+      "citations": 35,
       "scholar_link": "https://doi.org/10.1016/j.cej.2025.165044"
     },
     {
@@ -308,7 +308,7 @@
     {
       "title": "Mitigating PTFE decomposition in ultra thick dry-processed anodes for high energy density lithium-ion batteries",
       "year": 2024,
-      "citations": 65,
+      "citations": 66,
       "scholar_link": "https://doi.org/10.1016/j.est.2024.112693"
     },
     {
@@ -372,16 +372,16 @@
       "scholar_link": "https://doi.org/10.1016/j.carbon.2024.119576"
     },
     {
-      "title": "Smart Compositional Design of B‐Site Ordered Double Perovskite for Advanced Oxygen Catalysis at Ultra‐High Current Densities",
-      "year": 2024,
-      "citations": 11,
-      "scholar_link": "https://doi.org/10.1002/smtd.202401480"
-    },
-    {
       "title": "Directing the uniform and dense Li deposition via graphene-enhanced separators for high-stability Li metal batteries",
       "year": 2024,
       "citations": 11,
       "scholar_link": "https://doi.org/10.1016/j.electacta.2024.144426"
+    },
+    {
+      "title": "Smart Compositional Design of B‐Site Ordered Double Perovskite for Advanced Oxygen Catalysis at Ultra‐High Current Densities",
+      "year": 2024,
+      "citations": 11,
+      "scholar_link": "https://doi.org/10.1002/smtd.202401480"
     },
     {
       "title": "Low‐Resistance LiFePO4 Thick Film Electrode Processed with Dry Electrode Technology for High‐Energy‐Density Lithium‐Ion Batteries",
