@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20T00:22:26Z",
+  "updated_at": "2026-11-20T23:45:39Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2744,
-  "citations_recent5y": 1715,
+  "citations_total": 2751,
+  "citations_recent5y": 1720,
   "h_index": 29,
-  "i10_index": 58,
+  "i10_index": 59,
   "citations_history": [
     {
       "year": 2007,
@@ -49,15 +49,15 @@
     },
     {
       "year": 2017,
-      "count": 102
+      "count": 101
     },
     {
       "year": 2018,
-      "count": 165
+      "count": 166
     },
     {
       "year": 2019,
-      "count": 155
+      "count": 157
     },
     {
       "year": 2020,
@@ -77,15 +77,15 @@
     },
     {
       "year": 2024,
-      "count": 262
+      "count": 261
     },
     {
       "year": 2025,
-      "count": 471
+      "count": 472
     },
     {
       "year": 2026,
-      "count": 694
+      "count": 699
     }
   ],
   "papers": [
@@ -104,7 +104,7 @@
     {
       "title": "Integrated one-step dry process enabling prelithiated thick electrodes without primer coating for high energy density and initial coulombic efficiency",
       "year": 2026,
-      "citations": 12,
+      "citations": 13,
       "scholar_link": "https://doi.org/10.1039/d5ee05739f"
     },
     {
@@ -170,7 +170,7 @@
     {
       "title": "Inorganic Solid‐State Electrolytes for Solid‐State Sodium Batteries: Electrolyte Design and Interfacial Challenges",
       "year": 2025,
-      "citations": 39,
+      "citations": 40,
       "scholar_link": "https://doi.org/10.1002/celc.202400612"
     },
     {
@@ -222,12 +222,6 @@
       "scholar_link": "https://doi.org/10.1038/s41528-025-00474-9"
     },
     {
-      "title": "Two Steps Li Ion Storage Mechanism in Ruddlesden–Popper Li 2 La 2 Ti 3 O 10",
-      "year": 2025,
-      "citations": 6,
-      "scholar_link": "https://doi.org/10.1002/advs.202410543"
-    },
-    {
       "title": "Synergistic enhancement of microstructural homogeneity and mechanical strength in SiOx@C anodes via a graphene nanoribbon-based conductive agent",
       "year": 2025,
       "citations": 6,
@@ -238,6 +232,12 @@
       "year": 2025,
       "citations": 6,
       "scholar_link": "https://doi.org/10.1016/j.apsadv.2025.100819"
+    },
+    {
+      "title": "Two Steps Li Ion Storage Mechanism in Ruddlesden–Popper Li 2 La 2 Ti 3 O 10",
+      "year": 2025,
+      "citations": 6,
+      "scholar_link": "https://doi.org/10.1002/advs.202410543"
     },
     {
       "title": "Anode SHIELD: A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries",
@@ -296,7 +296,7 @@
     {
       "title": "10 mAh cm −2 Cathode by Roll‐to‐Roll Process for Low Cost and High Energy Density Li‐Ion Batteries",
       "year": 2024,
-      "citations": 101,
+      "citations": 102,
       "scholar_link": "https://doi.org/10.1002/aenm.202303455"
     },
     {
@@ -308,13 +308,13 @@
     {
       "title": "Mitigating PTFE decomposition in ultra thick dry-processed anodes for high energy density lithium-ion batteries",
       "year": 2024,
-      "citations": 66,
+      "citations": 68,
       "scholar_link": "https://doi.org/10.1016/j.est.2024.112693"
     },
     {
       "title": "Anode interface-stabilizing dry process employing a binary binder system for ultra-thick and durable battery electrode fabrication",
       "year": 2024,
-      "citations": 42,
+      "citations": 43,
       "scholar_link": "https://doi.org/10.1016/j.cej.2024.158271"
     },
     {
