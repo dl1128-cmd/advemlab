@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T23:58:53Z",
+  "updated_at": "2026-11-20T00:22:26Z",
   "user_id": "",
   "openalex_id": "A5044939082",
   "citations_total": 2744,
@@ -198,16 +198,16 @@
       "scholar_link": "https://doi.org/10.1039/d5eb00100e"
     },
     {
+      "title": "Ion-flux-boosted polyimide separators via synergistic pore and surface charge engineering for highly stable Li- and Na-metal batteries",
+      "year": 2025,
+      "citations": 10,
+      "scholar_link": "https://doi.org/10.1016/j.cej.2025.165508"
+    },
+    {
       "title": "Mechanochemically Boosting Additive for Robust Si/C Anodes in High‐Energy‐Density Li‐Ion Batteries",
       "year": 2025,
       "citations": 9,
       "scholar_link": "https://doi.org/10.1155/er/1198001"
-    },
-    {
-      "title": "Ion-flux-boosted polyimide separators via synergistic pore and surface charge engineering for highly stable Li- and Na-metal batteries",
-      "year": 2025,
-      "citations": 9,
-      "scholar_link": "https://doi.org/10.1016/j.cej.2025.165508"
     },
     {
       "title": "Elucidating mechanism of Se-induced lattice oxygen activation and structural stability in perovskite oxide for oxygen evolution catalysis",
@@ -396,6 +396,12 @@
       "scholar_link": "https://doi.org/10.1039/d4ta03595j"
     },
     {
+      "title": "Crystallinity and composition engineering of organic crystal derived 1D carbons for advanced Li-metal based batteries",
+      "year": 2024,
+      "citations": 3,
+      "scholar_link": "https://doi.org/10.1016/j.carbon.2024.119870"
+    },
+    {
       "title": "Development of a Retrofit Autonomous Maneuvering System for Agricultural Vehicles",
       "year": 2024,
       "citations": 2,
@@ -468,16 +474,16 @@
       "scholar_link": "https://doi.org/10.1016/j.cej.2023.144552"
     },
     {
+      "title": "A multifunctional network binder enables stable and high performance of silicon-based anode in lithium-ion battery",
+      "year": 2023,
+      "citations": 22,
+      "scholar_link": "https://doi.org/10.1016/j.jpowsour.2023.233159"
+    },
+    {
       "title": "Towards high performance Li metal batteries: Surface functionalized graphene separator with improved electrochemical kinetics and stability",
       "year": 2023,
       "citations": 22,
       "scholar_link": "https://doi.org/10.1016/j.elecom.2023.107598"
-    },
-    {
-      "title": "A multifunctional network binder enables stable and high performance of silicon-based anode in lithium-ion battery",
-      "year": 2023,
-      "citations": 21,
-      "scholar_link": "https://doi.org/10.1016/j.jpowsour.2023.233159"
     },
     {
       "title": "Electrically conductive metal oxide-Assisted multifunctional separator for highly stable Lithium-Metal batteries",
@@ -572,7 +578,7 @@
     {
       "title": "Synergistic protective effect of a BN-carbon separator for highly stable lithium sulfur batteries",
       "year": 2017,
-      "citations": 109,
+      "citations": 110,
       "scholar_link": "https://doi.org/10.1038/am.2017.51"
     },
     {
@@ -608,7 +614,7 @@
     {
       "title": "Two-dimensional Nafion nanoweb anion-shield for improved electrochemical performances of lithium–sulfur batteries",
       "year": 2016,
-      "citations": 37,
+      "citations": 38,
       "scholar_link": "https://doi.org/10.1039/c6ta04203a"
     },
     {
