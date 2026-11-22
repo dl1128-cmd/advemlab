@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:52:17Z",
+  "updated_at": "2026-11-22T23:20:28Z",
   "user_id": "",
   "openalex_id": "A5044939082",
   "citations_total": 2771,
@@ -92,20 +92,20 @@
     {
       "title": "Interfacially Reinforced Crosslinked Binder with Structural Integrity for Stable Micro‐Sized Silicon Anodes in All‐solid‐state Batteries",
       "year": 2026,
-      "citations": 17,
+      "citations": 18,
       "scholar_link": "https://doi.org/10.1002/advs.202600022"
+    },
+    {
+      "title": "Integrated one-step dry process enabling prelithiated thick electrodes without primer coating for high energy density and initial coulombic efficiency",
+      "year": 2026,
+      "citations": 14,
+      "scholar_link": "https://doi.org/10.1039/d5ee05739f"
     },
     {
       "title": "A uniform lithium ion flux and robust interphase enabled by an anion anchoring additive for high energy density Si-based anodes",
       "year": 2026,
       "citations": 14,
       "scholar_link": "https://doi.org/10.1039/d6ta01386d"
-    },
-    {
-      "title": "Integrated one-step dry process enabling prelithiated thick electrodes without primer coating for high energy density and initial coulombic efficiency",
-      "year": 2026,
-      "citations": 13,
-      "scholar_link": "https://doi.org/10.1039/d5ee05739f"
     },
     {
       "title": "Tailored phase–valence coupling by aliovalent substitution toward high-rate and stable vanadium oxide cathodes for aqueous zinc-ion batteries",
@@ -246,6 +246,12 @@
       "scholar_link": "https://doi.org/10.1002/adfm.202513744"
     },
     {
+      "title": "High‐Energy‐Density Li‐Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li‐Ion Kinetics and Electron Transfer",
+      "year": 2025,
+      "citations": 6,
+      "scholar_link": "https://doi.org/10.1002/sstr.70016"
+    },
+    {
       "title": "Lithium Nitride-rich Li Protection Layer via Facile Lewis Acid–Base Reaction for Li Metal Batteries",
       "year": 2025,
       "citations": 4,
@@ -262,12 +268,6 @@
       "year": 2025,
       "citations": 3,
       "scholar_link": "https://doi.org/10.1016/j.cej.2025.170452"
-    },
-    {
-      "title": "High‐Energy‐Density Li‐Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li‐Ion Kinetics and Electron Transfer",
-      "year": 2025,
-      "citations": 5,
-      "scholar_link": "https://doi.org/10.1002/sstr.70016"
     },
     {
       "title": "Anode SHIELD: A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries (Adv. Funct. Mater. 48/2025)",
@@ -308,7 +308,7 @@
     {
       "title": "Mitigating PTFE decomposition in ultra thick dry-processed anodes for high energy density lithium-ion batteries",
       "year": 2024,
-      "citations": 68,
+      "citations": 69,
       "scholar_link": "https://doi.org/10.1016/j.est.2024.112693"
     },
     {
@@ -326,7 +326,7 @@
     {
       "title": "Recent Advances in Anode-free Solid-state Batteries: A Review",
       "year": 2024,
-      "citations": 24,
+      "citations": 25,
       "scholar_link": "https://doi.org/10.33961/jecst.2024.00759"
     },
     {
@@ -468,16 +468,16 @@
       "scholar_link": "https://doi.org/10.1016/j.ensm.2023.102899"
     },
     {
+      "title": "A multifunctional network binder enables stable and high performance of silicon-based anode in lithium-ion battery",
+      "year": 2023,
+      "citations": 23,
+      "scholar_link": "https://doi.org/10.1016/j.jpowsour.2023.233159"
+    },
+    {
       "title": "Isovalent multi-component doping strategy for stabilizing cubic-Li7La3Zr2O12 with excellent Li mobility",
       "year": 2023,
       "citations": 23,
       "scholar_link": "https://doi.org/10.1016/j.cej.2023.144552"
-    },
-    {
-      "title": "A multifunctional network binder enables stable and high performance of silicon-based anode in lithium-ion battery",
-      "year": 2023,
-      "citations": 22,
-      "scholar_link": "https://doi.org/10.1016/j.jpowsour.2023.233159"
     },
     {
       "title": "Towards high performance Li metal batteries: Surface functionalized graphene separator with improved electrochemical kinetics and stability",
@@ -566,7 +566,7 @@
     {
       "title": "Parallelized Reaction Pathway and Stronger Internal Band Bending by Partial Oxidation of Metal Sulfide–Graphene Composites: Important Factors of Synergistic Oxygen Evolution Reaction Enhancement",
       "year": 2018,
-      "citations": 149,
+      "citations": 150,
       "scholar_link": "https://doi.org/10.1021/acscatal.8b00017"
     },
     {
@@ -626,7 +626,7 @@
     {
       "title": "Miniaturized Flexible Electronic Systems with Wireless Power and Near‐Field Communication Capabilities",
       "year": 2015,
-      "citations": 204,
+      "citations": 205,
       "scholar_link": "https://doi.org/10.1002/adfm.201501590"
     },
     {
@@ -728,7 +728,7 @@
     {
       "title": "Effects of cerium content on wettability, microstructure and mechanical properties of Sn–Ag–Ce solder alloys",
       "year": 2010,
-      "citations": 43,
+      "citations": 45,
       "scholar_link": "https://doi.org/10.1016/j.jallcom.2010.03.179"
     },
     {
