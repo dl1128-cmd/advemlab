@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-22T23:20:28Z",
+  "updated_at": "2026-11-24T03:52:34Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2771,
-  "citations_recent5y": 1734,
+  "citations_total": 2781,
+  "citations_recent5y": 1740,
   "h_index": 29,
   "i10_index": 59,
   "citations_history": [
@@ -45,7 +45,7 @@
     },
     {
       "year": 2016,
-      "count": 102
+      "count": 104
     },
     {
       "year": 2017,
@@ -57,7 +57,7 @@
     },
     {
       "year": 2019,
-      "count": 162
+      "count": 163
     },
     {
       "year": 2020,
@@ -65,7 +65,7 @@
     },
     {
       "year": 2021,
-      "count": 137
+      "count": 138
     },
     {
       "year": 2022,
@@ -85,7 +85,7 @@
     },
     {
       "year": 2026,
-      "count": 716
+      "count": 722
     }
   ],
   "papers": [
@@ -288,16 +288,16 @@
       "scholar_link": "https://doi.org/10.1002/advs.202570160"
     },
     {
+      "title": "10 mAh cm −2 Cathode by Roll‐to‐Roll Process for Low Cost and High Energy Density Li‐Ion Batteries",
+      "year": 2024,
+      "citations": 103,
+      "scholar_link": "https://doi.org/10.1002/aenm.202303455"
+    },
+    {
       "title": "Low‐Resistance LiFePO4Thick Film Electrode Processed with Dry Electrode Technology for High‐Energy‐Density Lithium‐Ion Batteries",
       "year": 2024,
       "citations": 103,
       "scholar_link": "https://doi.org/10.1002/smsc.202300302"
-    },
-    {
-      "title": "10 mAh cm −2 Cathode by Roll‐to‐Roll Process for Low Cost and High Energy Density Li‐Ion Batteries",
-      "year": 2024,
-      "citations": 102,
-      "scholar_link": "https://doi.org/10.1002/aenm.202303455"
     },
     {
       "title": "Interfacial Challenges of Halide‐Based All‐Solid‐State Batteries",
@@ -314,13 +314,13 @@
     {
       "title": "Anode interface-stabilizing dry process employing a binary binder system for ultra-thick and durable battery electrode fabrication",
       "year": 2024,
-      "citations": 43,
+      "citations": 44,
       "scholar_link": "https://doi.org/10.1016/j.cej.2024.158271"
     },
     {
       "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
       "year": 2024,
-      "citations": 31,
+      "citations": 33,
       "scholar_link": "https://doi.org/10.1016/j.apsusc.2024.160023"
     },
     {
@@ -354,16 +354,16 @@
       "scholar_link": "https://doi.org/10.1016/j.cej.2024.151635"
     },
     {
-      "title": "Uniform Li Deposition through the Graphene-Based Ion-Flux Regulator for High-Rate Li Metal Batteries",
-      "year": 2024,
-      "citations": 14,
-      "scholar_link": "https://doi.org/10.1021/acsami.3c15746"
-    },
-    {
       "title": "Stable operation of highly loaded pure Si-Fe anode under ambient pressure via carboxy silane-directed robust solid electrolyte interphase",
       "year": 2024,
       "citations": 13,
       "scholar_link": "https://doi.org/10.1016/j.jechem.2024.02.065"
+    },
+    {
+      "title": "Uniform Li Deposition through the Graphene-Based Ion-Flux Regulator for High-Rate Li Metal Batteries",
+      "year": 2024,
+      "citations": 14,
+      "scholar_link": "https://doi.org/10.1021/acsami.3c15746"
     },
     {
       "title": "Towards ultra-stable and dendrite-suppressed Li-metal batteries: Ion-regulating graphene-modified separators",
@@ -566,7 +566,7 @@
     {
       "title": "Parallelized Reaction Pathway and Stronger Internal Band Bending by Partial Oxidation of Metal Sulfide–Graphene Composites: Important Factors of Synergistic Oxygen Evolution Reaction Enhancement",
       "year": 2018,
-      "citations": 150,
+      "citations": 151,
       "scholar_link": "https://doi.org/10.1021/acscatal.8b00017"
     },
     {
@@ -776,7 +776,7 @@
     {
       "title": "Fast and sensitive trace analysis of malachite green using a surface-enhanced Raman microfluidic sensor",
       "year": 2007,
-      "citations": 170,
+      "citations": 171,
       "scholar_link": "https://doi.org/10.1016/j.aca.2007.03.049"
     },
     {
