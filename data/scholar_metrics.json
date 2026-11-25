@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-24T03:52:34Z",
+  "updated_at": "2026-11-25T01:58:26Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2781,
-  "citations_recent5y": 1740,
+  "citations_total": 2787,
+  "citations_recent5y": 1744,
   "h_index": 29,
   "i10_index": 59,
   "citations_history": [
@@ -53,7 +53,7 @@
     },
     {
       "year": 2018,
-      "count": 164
+      "count": 165
     },
     {
       "year": 2019,
@@ -85,7 +85,7 @@
     },
     {
       "year": 2026,
-      "count": 722
+      "count": 726
     }
   ],
   "papers": [
@@ -182,7 +182,7 @@
     {
       "title": "High‐Energy‐Density Li‐Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li‐Ion Kinetics and Electron Transfer",
       "year": 2025,
-      "citations": 22,
+      "citations": 23,
       "scholar_link": "https://doi.org/10.1002/sstr.202500093"
     },
     {
@@ -288,16 +288,16 @@
       "scholar_link": "https://doi.org/10.1002/advs.202570160"
     },
     {
+      "title": "Low‐Resistance LiFePO4Thick Film Electrode Processed with Dry Electrode Technology for High‐Energy‐Density Lithium‐Ion Batteries",
+      "year": 2024,
+      "citations": 104,
+      "scholar_link": "https://doi.org/10.1002/smsc.202300302"
+    },
+    {
       "title": "10 mAh cm −2 Cathode by Roll‐to‐Roll Process for Low Cost and High Energy Density Li‐Ion Batteries",
       "year": 2024,
       "citations": 103,
       "scholar_link": "https://doi.org/10.1002/aenm.202303455"
-    },
-    {
-      "title": "Low‐Resistance LiFePO4Thick Film Electrode Processed with Dry Electrode Technology for High‐Energy‐Density Lithium‐Ion Batteries",
-      "year": 2024,
-      "citations": 103,
-      "scholar_link": "https://doi.org/10.1002/smsc.202300302"
     },
     {
       "title": "Interfacial Challenges of Halide‐Based All‐Solid‐State Batteries",
@@ -320,7 +320,7 @@
     {
       "title": "Synergistically enhanced LiF–rich protective layer for highly stable silicon anodes",
       "year": 2024,
-      "citations": 33,
+      "citations": 34,
       "scholar_link": "https://doi.org/10.1016/j.apsusc.2024.160023"
     },
     {
@@ -524,13 +524,13 @@
     {
       "title": "Polyanion-assisted ionic-electronic conductive agents designed for high density Si-based anodes",
       "year": 2022,
-      "citations": 18,
+      "citations": 19,
       "scholar_link": "https://doi.org/10.1016/j.jpowsour.2022.231728"
     },
     {
       "title": "Size Effect of a Piezoelectric Material as a Separator Coating Layer for Suppressing Dendritic Li Growth in Li Metal Batteries",
       "year": 2022,
-      "citations": 13,
+      "citations": 12,
       "scholar_link": "https://doi.org/10.3390/nano13010090"
     },
     {
@@ -626,7 +626,7 @@
     {
       "title": "Miniaturized Flexible Electronic Systems with Wireless Power and Near‐Field Communication Capabilities",
       "year": 2015,
-      "citations": 205,
+      "citations": 206,
       "scholar_link": "https://doi.org/10.1002/adfm.201501590"
     },
     {
@@ -776,7 +776,7 @@
     {
       "title": "Fast and sensitive trace analysis of malachite green using a surface-enhanced Raman microfluidic sensor",
       "year": 2007,
-      "citations": 171,
+      "citations": 172,
       "scholar_link": "https://doi.org/10.1016/j.aca.2007.03.049"
     },
     {
