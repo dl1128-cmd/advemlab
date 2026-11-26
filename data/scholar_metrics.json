@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-25T01:58:26Z",
+  "updated_at": "2026-11-26T01:39:43Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2787,
-  "citations_recent5y": 1744,
+  "citations_total": 2783,
+  "citations_recent5y": 1750,
   "h_index": 29,
   "i10_index": 59,
   "citations_history": [
@@ -33,11 +33,11 @@
     },
     {
       "year": 2013,
-      "count": 34
+      "count": 33
     },
     {
       "year": 2014,
-      "count": 58
+      "count": 57
     },
     {
       "year": 2015,
@@ -45,7 +45,7 @@
     },
     {
       "year": 2016,
-      "count": 104
+      "count": 103
     },
     {
       "year": 2017,
@@ -53,19 +53,19 @@
     },
     {
       "year": 2018,
-      "count": 165
+      "count": 162
     },
     {
       "year": 2019,
-      "count": 163
+      "count": 162
     },
     {
       "year": 2020,
-      "count": 146
+      "count": 145
     },
     {
       "year": 2021,
-      "count": 138
+      "count": 137
     },
     {
       "year": 2022,
@@ -77,15 +77,15 @@
     },
     {
       "year": 2024,
-      "count": 262
+      "count": 266
     },
     {
       "year": 2025,
-      "count": 466
+      "count": 463
     },
     {
       "year": 2026,
-      "count": 726
+      "count": 731
     }
   ],
   "papers": [
@@ -182,7 +182,7 @@
     {
       "title": "High‐Energy‐Density Li‐Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li‐Ion Kinetics and Electron Transfer",
       "year": 2025,
-      "citations": 23,
+      "citations": 21,
       "scholar_link": "https://doi.org/10.1002/sstr.202500093"
     },
     {
@@ -288,16 +288,16 @@
       "scholar_link": "https://doi.org/10.1002/advs.202570160"
     },
     {
-      "title": "Low‐Resistance LiFePO4Thick Film Electrode Processed with Dry Electrode Technology for High‐Energy‐Density Lithium‐Ion Batteries",
-      "year": 2024,
-      "citations": 104,
-      "scholar_link": "https://doi.org/10.1002/smsc.202300302"
-    },
-    {
       "title": "10 mAh cm −2 Cathode by Roll‐to‐Roll Process for Low Cost and High Energy Density Li‐Ion Batteries",
       "year": 2024,
       "citations": 103,
       "scholar_link": "https://doi.org/10.1002/aenm.202303455"
+    },
+    {
+      "title": "Low‐Resistance LiFePO4Thick Film Electrode Processed with Dry Electrode Technology for High‐Energy‐Density Lithium‐Ion Batteries",
+      "year": 2024,
+      "citations": 103,
+      "scholar_link": "https://doi.org/10.1002/smsc.202300302"
     },
     {
       "title": "Interfacial Challenges of Halide‐Based All‐Solid‐State Batteries",
@@ -518,7 +518,7 @@
     {
       "title": "Concentration Gradient Induced Delithiation Failure of MoO3 for Li-Ion Batteries",
       "year": 2022,
-      "citations": 19,
+      "citations": 20,
       "scholar_link": "https://doi.org/10.1021/acs.nanolett.1c04290"
     },
     {
@@ -584,13 +584,13 @@
     {
       "title": "Synergetic control of band gap and structural transformation for optimizing TiO2 photocatalysts",
       "year": 2017,
-      "citations": 54,
+      "citations": 55,
       "scholar_link": "https://doi.org/10.1016/j.apcatb.2017.04.020"
     },
     {
       "title": "WO 3 /W:BiVO 4 /BiVO 4 graded photoabsorber electrode for enhanced photoelectrocatalytic solar light driven water oxidation",
       "year": 2017,
-      "citations": 53,
+      "citations": 52,
       "scholar_link": "https://doi.org/10.1039/c6cp08199a"
     },
     {
@@ -626,13 +626,13 @@
     {
       "title": "Miniaturized Flexible Electronic Systems with Wireless Power and Near‐Field Communication Capabilities",
       "year": 2015,
-      "citations": 206,
+      "citations": 207,
       "scholar_link": "https://doi.org/10.1002/adfm.201501590"
     },
     {
       "title": "Hydroxylated carbon nanotube enhanced sulfur cathodes for improved electrochemical performance of lithium–sulfur batteries",
       "year": 2015,
-      "citations": 63,
+      "citations": 62,
       "scholar_link": "https://doi.org/10.1039/c5cc04103a"
     },
     {
@@ -674,13 +674,13 @@
     {
       "title": "Three-dimensional Gd-doped TiO 2 fibrous photoelectrodes for efficient visible light-driven photocatalytic performance",
       "year": 2014,
-      "citations": 37,
+      "citations": 38,
       "scholar_link": "https://doi.org/10.1039/c3ra46851h"
     },
     {
       "title": "3D Cross-Linked Nanoweb Architecture of Binder-Free TiO2 Electrodes for Lithium Ion Batteries",
       "year": 2013,
-      "citations": 72,
+      "citations": 70,
       "scholar_link": "https://doi.org/10.1021/am404082h"
     },
     {
@@ -698,7 +698,7 @@
     {
       "title": "ΔΣ digital‐RF transmitter with reduced LO leakage using segmented butterfly shufflers",
       "year": 2013,
-      "citations": 4,
+      "citations": 3,
       "scholar_link": "https://doi.org/10.1049/el.2012.3749"
     },
     {
@@ -716,13 +716,13 @@
     {
       "title": "Patterned oxide semiconductor by electrohydrodynamic jet printing for transparent thin film transistors",
       "year": 2012,
-      "citations": 72,
+      "citations": 71,
       "scholar_link": "https://doi.org/10.1063/1.3691177"
     },
     {
       "title": "Hybrid Friction Stir Welding of High-carbon Steel",
       "year": 2011,
-      "citations": 44,
+      "citations": 43,
       "scholar_link": "https://doi.org/10.1016/s1005-0302(11)60037-6"
     },
     {
@@ -740,7 +740,7 @@
     {
       "title": "Effect of adding Ce on interfacial reactions between Sn–Ag solder and Cu",
       "year": 2010,
-      "citations": 14,
+      "citations": 13,
       "scholar_link": "https://doi.org/10.1007/s10854-010-0204-x"
     },
     {
@@ -764,7 +764,7 @@
     {
       "title": "Study on microstructure and mechanical properties of friction stir welded 9% Ni steel",
       "year": 2009,
-      "citations": 1,
+      "citations": 0,
       "scholar_link": ""
     },
     {
@@ -776,7 +776,7 @@
     {
       "title": "Fast and sensitive trace analysis of malachite green using a surface-enhanced Raman microfluidic sensor",
       "year": 2007,
-      "citations": 172,
+      "citations": 171,
       "scholar_link": "https://doi.org/10.1016/j.aca.2007.03.049"
     },
     {
