@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-26T01:39:43Z",
+  "updated_at": "2026-11-27T01:33:03Z",
   "user_id": "",
   "openalex_id": "A5044939082",
-  "citations_total": 2783,
-  "citations_recent5y": 1750,
+  "citations_total": 2793,
+  "citations_recent5y": 1760,
   "h_index": 29,
   "i10_index": 59,
   "citations_history": [
@@ -77,34 +77,34 @@
     },
     {
       "year": 2024,
-      "count": 266
+      "count": 267
     },
     {
       "year": 2025,
-      "count": 463
+      "count": 464
     },
     {
       "year": 2026,
-      "count": 731
+      "count": 739
     }
   ],
   "papers": [
     {
       "title": "Interfacially Reinforced Crosslinked Binder with Structural Integrity for Stable Micro‐Sized Silicon Anodes in All‐solid‐state Batteries",
       "year": 2026,
-      "citations": 18,
+      "citations": 19,
       "scholar_link": "https://doi.org/10.1002/advs.202600022"
     },
     {
       "title": "Integrated one-step dry process enabling prelithiated thick electrodes without primer coating for high energy density and initial coulombic efficiency",
       "year": 2026,
-      "citations": 14,
+      "citations": 15,
       "scholar_link": "https://doi.org/10.1039/d5ee05739f"
     },
     {
       "title": "A uniform lithium ion flux and robust interphase enabled by an anion anchoring additive for high energy density Si-based anodes",
       "year": 2026,
-      "citations": 14,
+      "citations": 15,
       "scholar_link": "https://doi.org/10.1039/d6ta01386d"
     },
     {
@@ -162,6 +162,12 @@
       "scholar_link": "https://doi.org/10.1002/advs.78612"
     },
     {
+      "title": "Reconstructing Ni‐Rich Cathode Surfaces Through a Multifunctional Borate Interphase",
+      "year": 2026,
+      "citations": 0,
+      "scholar_link": "https://doi.org/10.1002/cnl2.70222"
+    },
+    {
       "title": "Beyond the Limits of Lithium Iron Phosphate: Cutting‐Edge Innovations Toward High Performance and Sustainability for Next‐Generation Batteries",
       "year": 2025,
       "citations": 47,
@@ -176,7 +182,7 @@
     {
       "title": "Dry electrode technology: A new processing paradigm for enhancing performance and sustainability in lithium-based batteries",
       "year": 2025,
-      "citations": 35,
+      "citations": 36,
       "scholar_link": "https://doi.org/10.1016/j.cej.2025.165044"
     },
     {
@@ -234,16 +240,16 @@
       "scholar_link": "https://doi.org/10.1016/j.jpowsour.2025.237060"
     },
     {
+      "title": "Anode SHIELD: A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries",
+      "year": 2025,
+      "citations": 6,
+      "scholar_link": "https://doi.org/10.1002/adfm.202513744"
+    },
+    {
       "title": "Review on atomistic and quantum mechanical simulation approaches in chemical mechanical planarization",
       "year": 2025,
       "citations": 6,
       "scholar_link": "https://doi.org/10.1016/j.apsadv.2025.100819"
-    },
-    {
-      "title": "Anode SHIELD: A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries",
-      "year": 2025,
-      "citations": 5,
-      "scholar_link": "https://doi.org/10.1002/adfm.202513744"
     },
     {
       "title": "High‐Energy‐Density Li‐Ion Batteries Employing Gradient Porosity LiFePO4 Electrode for Enhancing Li‐Ion Kinetics and Electron Transfer",
@@ -288,16 +294,16 @@
       "scholar_link": "https://doi.org/10.1002/advs.202570160"
     },
     {
+      "title": "Low‐Resistance LiFePO4Thick Film Electrode Processed with Dry Electrode Technology for High‐Energy‐Density Lithium‐Ion Batteries",
+      "year": 2024,
+      "citations": 104,
+      "scholar_link": "https://doi.org/10.1002/smsc.202300302"
+    },
+    {
       "title": "10 mAh cm −2 Cathode by Roll‐to‐Roll Process for Low Cost and High Energy Density Li‐Ion Batteries",
       "year": 2024,
       "citations": 103,
       "scholar_link": "https://doi.org/10.1002/aenm.202303455"
-    },
-    {
-      "title": "Low‐Resistance LiFePO4Thick Film Electrode Processed with Dry Electrode Technology for High‐Energy‐Density Lithium‐Ion Batteries",
-      "year": 2024,
-      "citations": 103,
-      "scholar_link": "https://doi.org/10.1002/smsc.202300302"
     },
     {
       "title": "Interfacial Challenges of Halide‐Based All‐Solid‐State Batteries",
@@ -314,7 +320,7 @@
     {
       "title": "Anode interface-stabilizing dry process employing a binary binder system for ultra-thick and durable battery electrode fabrication",
       "year": 2024,
-      "citations": 44,
+      "citations": 46,
       "scholar_link": "https://doi.org/10.1016/j.cej.2024.158271"
     },
     {
@@ -354,16 +360,16 @@
       "scholar_link": "https://doi.org/10.1016/j.cej.2024.151635"
     },
     {
-      "title": "Stable operation of highly loaded pure Si-Fe anode under ambient pressure via carboxy silane-directed robust solid electrolyte interphase",
-      "year": 2024,
-      "citations": 13,
-      "scholar_link": "https://doi.org/10.1016/j.jechem.2024.02.065"
-    },
-    {
       "title": "Uniform Li Deposition through the Graphene-Based Ion-Flux Regulator for High-Rate Li Metal Batteries",
       "year": 2024,
       "citations": 14,
       "scholar_link": "https://doi.org/10.1021/acsami.3c15746"
+    },
+    {
+      "title": "Stable operation of highly loaded pure Si-Fe anode under ambient pressure via carboxy silane-directed robust solid electrolyte interphase",
+      "year": 2024,
+      "citations": 13,
+      "scholar_link": "https://doi.org/10.1016/j.jechem.2024.02.065"
     },
     {
       "title": "Towards ultra-stable and dendrite-suppressed Li-metal batteries: Ion-regulating graphene-modified separators",
@@ -548,7 +554,7 @@
     {
       "title": "A roadmap of battery separator development: Past and future",
       "year": 2021,
-      "citations": 109,
+      "citations": 111,
       "scholar_link": "https://doi.org/10.1016/j.coelec.2021.100858"
     },
     {
